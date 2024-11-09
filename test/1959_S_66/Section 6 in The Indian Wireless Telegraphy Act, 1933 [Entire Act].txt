@@ -1,0 +1,9 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Union of India - Section
+Section 6 in The Indian Wireless Telegraphy Act, 1933
+6. Offence and penalty (1) Whoever possesses any wireless telegraphy apparatus, other than a wireless transmitter, in contravention of the provisions of section 3 shall be punished, in the case of the first offence, with fine which may extend to one hundred rupees, and, in the case of a second or subsequent offence, with fine which may extend to two hundred and fifty rupees.
+(1-A) Whoever possesses any wireless transmitter in contravention of the provisions of section 3 shall be punished with imprisonment which may extend to three years, or with fine which may extend to one thousand rupees, or with both.
+(2)
+For the purposes of this section a Court may presume that a person possesses wireless telegraphy apparatus if such apparatus is under his ostensible charge, or is located in any premises or place over which he has effective control.
+(3)
+If in the trial of an offence under this section the accused is convicted the Court shall decide whether any apparatus in respect of which an offence has been committed should be confiscated, and, if it so decides, may order confiscation accordingly.

@@ -1,0 +1,24 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Union of India - Section
+Section 63 in The Indian Evidence Act, 1872
+63. Secondary evidence.
+Secondary evidence means and includes -
+(1)
+[ certified copies given under the provisions hereinafter contained;] [See Section 76,infra.]
+(2)
+copies made from the original by the mechanical processes which in themselves insure the accuracy of the copy, and copies compared with such copies;
+(3)
+copies made from or compared with the original;
+(4)
+counterparts of documents as against the parties who did not execute them;
+(5)
+oral accounts of the contents of a document given by some person who has himself seen it.
+Illustrations
+(a)
+A photograph of an original is secondary evidence of its contents though the two have not been compared, if it is proved that the thing photographed was the original.
+(b)
+A copy compared with a copy of a letter made by a copying machine is secondary evidence of the contents of the letter, if it is shown that the copy made by the copying machine was made from the original.
+(c)
+A copy transcribed from a copy, but afterwards compared with the original, is secondary evidence; but the copy not so compared is not secondary evidence of the original although the copy from which it was transcribed was compared with the original.
+(d)
+Neither an oral account of a copy compared with the original nor an oral account of a photograph or a machine copy of the original, is secondary evidence of the original.

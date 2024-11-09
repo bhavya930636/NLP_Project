@@ -1,0 +1,30 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Union of India - Section
+Section 300 in The Code of Criminal Procedure, 1973
+300. Person once convicted or acquitted not to be tried for same offence.
+(1)
+A person who has once been tried by a Court of competent jurisdiction for an offence and convicted or acquitted of such offence shall, while such conviction or acquittal remains in force, not be liable to be tried again for the same offence, nor on the same facts for any other offence for which a different charge from the one made against him might have been made under sub-section (1) of Section 221, or for which he might have been convicted under sub-section (2) thereof.
+(2)
+A person acquitted or convicted of any offence may be afterwards tried, with the consent of the State Government, for any distinct offence for which a separate charge might have been made against him at the former trial under sub-section (1) of Section 220.
+(3)
+A person convicted of any offence constituted by any act causing consequences which, together with such act, constituted a different offence from that of which he was convicted, may be afterwards tried for such last-mentioned offence, if the consequences had not happened, or were not known to the Court to have happened, at the time when he was convicted.
+(4)
+A person acquitted or convicted of any offence constituted by any acts may, notwithstanding such acquittal or conviction, be subsequently charged with, and tried for, any other offence constituted by the same acts which he may have committed if the Court by which he was first tried was not competent to try the offence with which he is subsequently charged.
+(5)
+A person discharged under Section 258 shall not be tried again for the same offence except with the consent of the Court by which he was discharged or of any Court to which the first mentioned Court is subordinate.
+(6)
+Nothing in this section shall affect the provisions of Section 26 of the General Clauses Act, 1897 (10 of 1897) or of Section 188 of this Code.
+Explanation. - The dismissal of a complaint, or the discharge of the accused is not an acquittal for the purposes of this section.
+Illustrations
+(a)
+A is tried upon a charge of theft as a servant and acquitted. He cannot afterwards, while the acquittal remains in force, be charged with theft as a servant, or, upon the same facts, with theft simply, or with criminal breach of trust.
+(b)
+A is tried for causing grievous hurt and convicted. The person injured afterwards dies. A may be tried again for culpable homicide.
+(c)
+A is charged before the Court of Session and convicted of the culpable homicide of B. A may not afterwards be tried on the same facts for the murder of B.
+(d)
+A is charged by a Magistrate of the first class with, and convicted by him of, voluntarily causing hurt to B. A may not afterwards be tried for voluntarily causing grievous hurt to B on the same facts, unless this case comes within sub-section (3) of this section.
+(e)
+A is charged by a Magistrate of the second class with, and convicted by him of, theft of property from the person of B. A may subsequently be charged with, and tried for, robbery on the same facts.
+(f)
+A, B and C are charged by a Magistrate of the first class with, and convicted by him of, robbing D. A, B and C may afterwards be charged with, and tried for, dacoity on the same facts.

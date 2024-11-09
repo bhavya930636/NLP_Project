@@ -1,0 +1,845 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+State of Rajasthan - Act
+Rajasthan Excise Act, 1950
+RAJASTHAN
+India
+Rajasthan Excise Act, 1950
+Act 2 of 1950
+Published on 31 July 2014
+Commenced on 31 July 2014
+[This is the version of this document from 31 July 2014.]
+[Note: The original publication document is not available and this content could not be verified.]
+Rajasthan Excise Act, 1950
+(Act No. 2 of 1950)
+Last Updated 24th May, 2019
+The Rajasthan Excise Act, 1950
+Statement of objects and Reasons (Act No. 15 of 2011). - In order to bring unity of command in the Excise Department and to standardize the designations of excise officers it is proposed to amend sub-Section (1A) of Section 9.
+The penalty in the existing provision of Section 57 of the Rajasthan Excise Act, 1950, for possessing any excisable article, after unlawfully importing it from other States, is imprisonment for a term which may extend to 3 months or with fine which may extent to one thousand rupees or with both. This penalty does not match the severity of the offence of smuggling of excisable articles from other States and it is therefore proposed that the punishment for this offence should be imprisonment for a term which shall not be less than six months but which may extend to 3 years and with fine of twenty thousand rupees or five times of the loss of excise duty, which ever is higher and if the quantity of liquor exceeds 50 bulk litres then the punishment should be minimum sentence of imprisonment for three years extendable up to five years and with fine of twenty thousand rupees or ten times of the loss of excise duty whichever is higher. The proposed amendment will deter this offence.
+Statement of objects and Reasons (Act No. 6 of 2007). - In has been noticed that the Rental Predominant System or the Exclusive Privilege Amount System of sale of liquor leads to a large number of problems like development of liquor mafia, cartelization for obtaining contracts at less than fair value, adoption of foul means to maximize profit etc. In view of this the State Government adopted Tax predominant System of sale of liquor (IMFL and Beer) in the State of Rajasthan for the year 2006-07. The need for improve enforcement for successful implementation of the new excise policy can hardly be over emphasized, as there is likelihood of unscrupulous elements attempting to smuggle and/or manufacture liquor illegally for quick gains. Accordingly, the Excise Preventive Force has been re-organized and strengthened by creating the post of Director, enforcement, Excise and various other posts. A large number of equipments have already been sanctioned for the force.
+For the effective enforcement, it is necessary that the members of Excise Preventive Force be duly empowered and authorized to take effective action under the Act. Accordingly certain new offences are proposed to be created under the Act, the penal provisions are proposed to be made stringent by enhancing the penalty for the existing offences and by providing higher penalty for the newly created offences, the investigation procedure is proposed to be made simpler, the bail provisions are proposed to be made strict. Certain other provisions for disposal of seized liquor and property without interference of courts and tribunals, provisions for the punishment of the officers and employees of the Excise Department for assisting the offenders in contravention of the provisions of the Act, etc. are also proposed to be made.
+The fines proposed therein are in proportion to the gravity of offence and the loss of revenue. Therefore, a provision has been proposed to be made to the effect that the fine realized under this Act shall be credited to the revenue of the Department so that the victims of the adulterated liquor could be adequately compensated.
+A majority of the proposals are on the lines of the Modal Excise Act circulated in April, 2005 by the Ministry of Food Processing Industries, Government of India.
+The Bills seeks to achieve the aforesaid objectives.
+Chapter I
+Preliminary
+1. Short title, extent and commencement.
+(1)
+This Act may be called the Rajasthan Excise Act, 1950.
+(2)
+It extends to the whole of [State of Rajasthan] [Substituted by Rajasthan, Act 38 of 1957.] [....] [[Omitted by Rajasthan Act No. 38 of 1957.
+The whole Act in relation to Liquor has been repealed by Scheduled to Rajasthan Act 17 of 1969.
+It extends to the Abu area from the date of commencement of the Rajasthan Excise (Amendming and Extending) Ordinance, 1978 e.g. 1.9.1978 by Rajasthan Act 15 of 1978.]]
+(3)
+It shall come into force on such date, [as the [State Government] [Came into force w.e.f. 1.7.1950 vide Notification F.49(1) S.R/50, dated 20.6.1950, published in Part I of the Rajasthan Gazette 29, dated 1.7.1950.] may by Notification in the [Official Gazette] [Substituted by Rajasthan, Act 38 of 1957.] appoint in that behalf.
+2.
+[Omitted]. [Omitted by Rajasthan Act No. 38 of 1957.]
+3. Definitions.
+- In this Act unless there is something repugnant in the subject or context -
+(1)
+"Beer" includeds ale, stout, porter and all other fermented liquors made from malt;
+(2)
+[ "Abu area" means the territory comprised in the Abu Road taluka of Banaskantha district in the State of Bombay as it existed immediately before the first day of November, 1956]; [Inserted by Rajasthan Act No. 38 of 1957.]
+(3)
+[ "Denatured" means mixed with such substance and by such process as may be prescribed under Section 42 in order to render any spirit unfit for human consumption whether as a beverage or as a medicine or in any other way what soever]; [Substituted by Rajasthan Act No. 28 of 1961.]
+[(3-A) "Denatured spirituous preparation" means any preparation of denatured spirit or alcohol and includes liquors, French polish and varnish prepared out of such spirit or alcohol]; [Inserted by Rajasthan Act No. 28 of 1961.]
+(4)
+[ "Excisable Article" means and includes
+(i)
+Spirit, fermented liquor or any alcoholic liquor for human consumption or denatured spirt or denatured spirituous preparation, or
+(ii)
+any intoxicating drug, or
+(iii)
+stills or other appliances for distillation, or
+(iv)
+fermented wash or other material for distillation, or
+(v)
+any other article which the State Government may, from time to time, declare to be an excisable article for the purposes of this Act]
+(5)
+"Excise Commissioner" means the Excise Commissioner appointed by the [State Government] [Substituted by Rajasthan Act No. 28 of 1961.] under, this Act.
+(6)
+"Excise duty" means any duty of excise imposed by or under this Act on excisable articles manufactured or produced in [those parts of the State of Rajasthan to which this Act extends]; [Substituted by Rajasthan Act No. 28 of 1961.]
+(7)
+"Excise Officer" means any officer or person [other than the Excise Commissioner] [Inserted by Rajasthan Act No. 28 of 1952.] appointed [under Section 9] [Inserted by Rajasthan Act No. 28 of 1952.] or invested with powers of an Excise Officer under this Act;
+(8)
+"Excise Revenue" means revenue derived or derivable from any payment, duty, fee, tax fine- (other than a fine imposed by a court of law) or confiscation imposed or ordered under the provisions of this Act or of any other law for the time being in force relating to liquor or intoxicating drugs;
+(9)
+" Export" means to take out of [those parts of the State of Rajasthan to which this Act extends] [Inserted by Rajasthan Act No. 38 of 1957.];
+(10)
+"Fermented liquor" means wine, Pathan (Pachawai) and fermented Tan, and any other liquor that may from time to time be declared by the [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] to be fermented liquor;
+(11)
+[..] [Omitted by Rajasthan Act No. 15 of 1954.]
+(12)
+[..] [Omitted by Rajasthan Act No. 38 of 1957.]
+(13)
+"Import" means to bring into [those parts of the State of Rajasthan to which this Act extends]; [Substituted by Rajasthan Act No. 38 of 1957.]
+(14)
+"Intoxicating drug" means
+(i)
+[ the leaves, small stalks and flowering or fruiting tops of the hemp plant (cannabis Sativa) including all forms known as Bhang, Sidhi or Ganja]; [Substituted by Rajasthan Act No. 28 of 1961.]
+(ii)
+charas, that is, the resin obtained from the [..] [Omitted by Rajasthan Act No. 28 of 1961.] hemp plant, which has not been submitted to any manipulations other than those necessary for packing and transport,
+(iii)
+any mixture, with or without neutral materials, of any of the above forms of intoxicatiing drug, or any drink prepared therefrom; and
+(iv)
+any other intoxicating or narcotic substance which the [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] may declare, by notification in the [Official Gazette] [Substituted by Rajasthan Act No. 38 of 1957.], to be an intoxicating drug, such substance not being opium, coca leaf or a manufactured drug as defined in the [Dangerous Drugs Act, 1930 (Central Act II of 1930)]; [Substituted by Rajasthan Act No. 38 of 1957.]
+(14A)
+[ "Lanced Poppy heads" mean the capsules of the opium poppy plant, whether in their original form or cut, crushed or powered, from which juice has been extracted]; [Inserted by Rajasthan Act 1 of 1986 (9.11.1985).]
+(15)
+"Liquor" means intoxicating liquor and includes spirit of Wine, Spirit, Wine, Tari, Pachawar, beer and all liquid consisting of, or containing alcohol, as also any substance which the [State Government ] [Substituted by Rajasthan Act No. 38 of 1957.] may from time to time by notification in the [Official Gazette] [Substituted by Rajasthan Act No. 38 of 1957.] declare to be liquor for the purposes of this Act,
+(16)
+[ "Magistrate" means any Magistrate of the first class]: [Substituted by Rajasthan Act No. 28 of 1961.]
+(17)
+'Manufacture" includes every process, whether natural or artificial, by which any excisable article is produced or prepared wholly or partly and also redistillation and every process for the rectification, reduction, flavouring, blending or colouring of liquor,
+(17A)
+[ "Molasses" means the mother liquor produced in the final stage of the manufacture of sugar or Khandsari sugar by the vacuum pan process or open pan process from sugarcane or gur]; [Substituted by Rajasthan Act No. 8 of 1985.]
+(18)
+"Pachawai" means fermented rice, millet or other grain whether mixed with any liquid or not and any liquid obtained therefrom whether diluted or undiluted;
+(19)
+"Place" includes a house, building , shop, room, booth, tent, vessel, boat, raft, [vehicle] [Added by Act No 6 of 2007 (w.e.f. 6.6.2007)] and enclosure;
+(20)
+"Sale" with its grammatical variations includes any transfer otherwise than by way of gift;
+(21)
+"Spirit" means any liquor containing alcohol obtained by distillation, whether it is denatured or not;
+(21A)
+[ "State" or "State of Rajasthan" means the new State of Rajasthan as formed by Section 10 of the State Reorganisation Act, 1956 (Central Act 37 of 1956)]; [Inserted by Rajasthan Act No. 38 of 1957.]
+(21B)
+[ "Still" includes any part thereof, and any other apparatus for distillation or manufacture of spirit]; [Substituted by Rajasthan Act 8 of 1951.]
+(22)
+'Tari" means fermented or unfermented juice drawn form any kind of plam tree;
+(23)
+"To bottle" means to transfer from a cask or other vessel to a bottle, jar, flask or other receptacle for the purpose of sale, whether any process of manufacture or rectification be employed or not, and bottling includes rebottling.
+(24)
+[ "Tola" means a weight of 180 gram troy or 11.638 grams; and] [Substituted by Rajasthan Act No. 28 of 1961.]
+(25)
+"Transport:" means to move from one place to another within [those parts of the State of Rajasthan to which this Act extends]. [Substituted by Rajasthan Act 8 of 1951.]
+4. Power of [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] to declare what is to be deemed "liquor.
+(1)
+The [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] may, by notification in the [Official Gazette], [Substituted by Rajasthan Act No. 38 of 1957.] declare any substance to be "liquor" for the purposes of those Act or any portion thereof.
+(2)
+The [State Government] [Substituted by Rajasthan Act No. 8 of 1985.] may, in like manner and for the like purposes, declare what shall be deemed to be "Country Liquor" and "Foreign Liquor" respectively.
+5. Power of [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] to declare limit of sale by retail.
+(1)
+The [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] may, by notification in the [Official Gazette] [Substituted by Rajasthan Act No. 38 of 1957.] declare with respect either to [all the territories of the State of Rajasthan to which this Act extends] [Substituted by Rajasthan Act No. 38 of 1957.] or to any local area comprised therein and as regards purchasers, generally or for any specified class of purchasers, generally or for any occasion, what quantity of any excisable article shall, for the purposes of this Act be the limit of sale by retail.
+(2)
+The sale of any excisable article in any quantity in excess of the quantity declared in respect thereof under sub-section (1) as the limit of sale by retail shall be deemed to be sale wholesale.
+6. Possession by wife, clerk or servant.
+- When any excisable article is in the possession of a person's wife, clerk or servant on account of that person, it shall, for the purpose of this Act, be deemed to be in the possession of that person.
+Explanation A person employed temporarily or on a particular occasion in the capacity of a clerk or, servant is a clerk or servant within the meaning of this section.
+7. Saving of enactment relating to customs.
+- Nothing contained in this Act shall affect the provisions of any law relating to customs for the time being in force or any rule or order to be thereunder.
+Chapter II
+Control and Establishment
+8. Control of the Excise Department.
+(1)
+The control of the administration of the Excise Department shall, subject to the directions of the [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] vest in the Excise Commissioner.
+9. Appointment of Commissioner and Excise Officers.
+- [(1)] [Substituted by Rajasthan Act No. 8 of 1951.] The [State government] [Substituted by Rajasthan Act No. 38 of 1957.] shall appoint an Excise Commissioner and may appoint as many Additional Excise Commissioners as may be deemed necessary, for the whole of [those parts of the State of Rajasthan to which this Act extends]. [Substituted by Rajasthan Act No. 38 of 1957.]
+(1A)
+[ The State Government may also appoint such and so many other persons as it thinks fit and necessary to be
+(i)
+Joint Excise Commissioner,
+(ii)
+Deputy Excise Commissioners;
+(iii)
+District Excise Officer,
+(iv)
+Assistant Excise Officer;
+(v)
+Other Excise Officers.]
+(1B)
+The [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] may prescribe duties and powers to be performed and exercised by each officer or class of officers appointed under sub-section (1) and (IA).
+(2)
+The [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] may delegate to the Excise Commissioner such powers of the [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] conferred by this Act, as it may specify, except the power to make rules thereunder.
+(3)
+The [State Government] [Substituted by Rajasthan Act No. 38 of 1957.] may also authorise the Excise commissioner to delegate to any of his subordinate officers of his powers under this Act as may be specified.
+9A. [ Appeals and Revision] [Inserted by Rajasthan Act No. 28 of 1952.].
+(1)
+An appeal shall lie
+(a)
+to the Excise Commissioner from any order passed by an Excise Officer under this Act, and
+(b)
+[ [to the Divisional Bench of the Rajasthan Tax Board constituted under Section 88 of the Rajasthan Value Added Tax Act, 2003 (Act No. 4 of 2003),] [Substituted by published in Rajasthan Gazette, Part 4-A, dated 26.5.2001.] from any order passed by the Excise Commissioner under this Act otherwise than on appeal] [Substituted by Rajasthan Act No. 15 of 2011, dated 11.4.2011.] [:] [Substituted and added by Rajasthan Act No. 14 of 1989.]
+[Provided that no appeal shall be entertained unless it is accompanied by a satisfactory proof of payment of 75% of the amount of the demand created by the order appealed against.] [Substituted and added by Rajasthan Act No. 14 of 1989.]
+(2)
+Any appeal under sub-section (1) may be preferred at any time within sixty days from the date of the order complained of.
+(3)
+The decision of the Excise commissioner or the [Division Bench of the] [Substituted by published in Rajasthan Gazette, Part 4-A, dated 26.5.2001.] [Rajasthan Tax Board] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)] as the case may be, on such appeal shall, subject to the result of revision, if any, under sub-section (4), be final.
+(4)
+The [Division Bench of the] [Substituted by published in Rajasthan Gazette, Part 4-A, dated 26.5.2001.] [Rajasthan Tax Board] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)] may revise any order passed on appeal by the Excise Commissioner [....]. [Omitted by Rajasthan Act 38 of 1957.]
+10. Appointment of officers and conferring powers.
+(1)
+The [State Government] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)] may
+(a)
+empower any officer to perform the acts and duties mentioned in Chapter VDT, and
+(b)
+order that all or any of the powers and duties assigned to as officer of the Excise Department under this Act shall, subject to the provisions thereof, be exercised and performed by any officer other than an officer of the Excise Department or by any other person.
+10A. [ Establishment of check-post and inspection of goods while in movement. [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+(1)
+The Excise Commissioner may, with a view to prevent or check evasion of excise duty, by notification in the Official Gazette, direct the setting up of check-posts at such places and for such period as may be specified in the notification. Every officer or official, who exercises his powers and discharges his duties at such check-posts by way of inspection of documents produced and goods being moved, shall be its Incharge.
+(2)
+Notwithstanding anything contained in sub-section (1), the Excise Commissioner may, by notification in the Official Gazette, declare any existing check-post established by any other department of the State Government to be the check-post for the purposes of this section and may appoint any officer or official to act as the Incharge of the check-post for the purposes of this section.
+(3)
+The driver or person Incharge of a vehicle or carrier carrying excisable articles shall
+(a)
+carry with him the permit, pass, bill and bitty,
+(b)
+stop the vehicle or currier at such check-post;
+(c)
+produce all documents for inspection of the Incharge of the check-post; and
+(d)
+allow the inspection of goods/excisable articles.
+Explanation.- For the purpose of this section "vehicle or carrier" shall include any means of transportation including an animal to carry goods from one point to another] [Substituted by Rajasthan Act No. 28 of 1961.]
+Chapter III
+Import, Export and Transport
+11. Import of excisable article.
+- No excisable article shall be imported unless:
+(a)
+the [State Government] [Substituted by Rajasthan Act 38 of 1957.] has given permission, either general or special for its import;
+(b)
+such conditions (if any) as the [State Government] [Substituted and added by Rajasthan Act No. 14 of 1989.] impose, have been satisfied, and
+(c)
+the duty (if any) imposed under Section 28 has been paid or a bond has been executed for the payment thereof.
+12. Export and Transport of excisable article.
+- No excisable article shall be exported or transported unless
+(a)
+the duty (if any) imposed under Section 28 has been paid or a bond has been executed for the payment thereof, and
+(b)
+such conditions (if any) as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may impose, have been satisfied.
+13. Power of [State Government] [Substituted by Rajasthan Act 38 of 1957.] to prohibit, import, export and transport of excisable article.
+- The [State Government] [Substituted by Rajasthan Act 38 of 1957.] may, by notification in the [Official Gazette] [Substituted by Rajasthan Act 38 of 1957.]
+(a)
+prohibit the import or export of any excisable article into or from The [territories to which this Act extends or any part there of]; [Substituted by Rajasthan Act 38 of 1957.]
+(b)
+prohibit the transport of any excisable article.
+14. Passes necessary for Import export and transport.
+- No excisable article exceeding such quantity as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may prescribe the notification in the [Official Gazette] [Substituted by Rajasthan Act 38 of 1957.] either generally for [all the territories of the State of Rajasthan to which this Act extends] [Substituted by Rajasthan Act 38 of 1957.] or for any local area comprised therein shall be imported, exported or transported except under a pass issued under the provisions of the next following section.
+[...] [Omitted by Rajasthan Act 38 of 1957.]
+Provided also, unless the [State Government] [Substituted by Rajasthan Act 38 of 1957.] shall otherwise direct that no pass shall be required for transport of any excisable article or intoxicating drug exported under a pass issued by an officer duly authorised in this behalf from any place beyond the limits of [Those parts of the State of Rajasthan to which this Act extends] [Substituted by Rajasthan Act 38 of 1957.] to any other place beyond the said limits.
+15. Grant of passes for import, export and transport.
+(1)
+Passes for the import, export or transport of excisable article may be granted by the Excise commissioner [or by an Excise Officer duly empowered in this behalf] [Inserted by Rajasthan Act 38 of 1957.]subject to such restrictions as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may impose in this behalf from time to time.
+(2)
+Such passes may either be general for definite periods and kinds of articles or drugs or special for specified occassions or particular consignments only.
+Chapter IV
+Manufacture, Possession and Sale
+16. Manufacture of excisable article prohibited except under the provision of this Act.
+(1)
+(a)
+No excisable article shall be manufactured.
+(b)
+no hemp plant (Cannabis Sative) shall be cultivated,
+(c)
+no portion of the hemp plant (Cannabis Sativa) from which intoxicating drug can be manufactured shall be collected.
+(d)
+no liquor shall be bottled for sale,
+(e)
+no Tan producing free shall be tapped,
+(f)
+no Tan shall be drawn from any tree, and
+(g)
+no person shall use, keep or have in his possession any materials, still, utensil, implement, instrument or apparatus whatsoever for the purposes of manufacturing any excisable article, except under the authority and subject to the terms and conditions of a licence granted in that behalf by the Excise Commissioner [or by an Excise Officer duly empowered in this behalf] [Substituted by Rajasthan Act 38 of 1957.]
+(2)
+No distillery, brewery or pot-still be constructed or worked except under the authority and subject to the terms and conditions of a licence granted in that behalf by the Excise Commissioner.
+17. Establishment or licensing of distilleries and warehouses.
+- Subject to such restrictions or conditions as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may impose, the Excise commissioner may
+(a)
+establish a distillery or pot-still in which spirit may be manufactured under a licence granted under this Act;
+(b)
+discontinue any distillery or pot-still so established;
+(c)
+licence the construction and working of a distillery or pot-still or brewery on such conditions as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may impose;
+(d)
+establish or licence a warehouse wherein any excisable article may be deposited and kept without payment of duty; and
+(e)
+discontinue any warehouse so established.
+18. Removal of excisable article from distillery etc.
+- No excisable article shall be removed from any distillery, brewery, pot-still, warehouse or other place of storage established or licensed under this Act unless the duty (if any) payable therefor under this Act has been paid or a bond has been executed for the payment thereof.
+19. Possession of excisable articles in excess of the quantity prescribed by the [State Government] [Substituted by Rajasthan Act 38 of 1957.] prohibited except under permission.
+(1)
+No person not being licensed to manufacture, cultivate, collect or sell any excisable article, shall have in his possession any quantity of such article in excess of such quantity as the [state Government] [Substituted by Rajasthan Act 38 of 1957.] has under Section 5 declared to be the limit of sale by retail, except under a permit granted by the Excise Commissioner [or by an Excise Officer duly empowered] [Substituted by Rajasthan Act 28 of 1952.] in that behalf.
+(2)
+Sub-section (1) shall not extend to
+(a)
+any Foreign Liquor (other than denatured spirit) in the possession of any common carrier or warehouse man as such, or
+(b)
+[ ....] [Omitted by Rajasthan Act 22 of 1958.]
+20. Sale of excisable article without licence prohibited.
+- No excisable article shall be sold without a licence from the Excise Commissioner [or any Excise Officer duly empowered in that behalf]: [Inserted by Rajasthan Act 28 of 1952.]
+Provided that
+(1)
+a person licensed under this Act to cultivate or collect the hemp plant (cannabis Sative) may sell without a licence those portions of the plant from which any intoxicating drugs can be - reanufactrued to any person licensed under this Act to deal in the same or to any office whom the Excise Commissioner may prescribe;
+(2)
+a licence for sale in more than one district or [those parts of the State of Rajasthan to which this Act extends] [Substituted by Rajasthan Act 38 of 1957.] shall be granted with the previous approval of the [State Government] [Substituted by Rajasthan Act 38 of 1957.]; and
+(3)
+nothing in this section applies to the sale of any Foreign Liquor legally procured by any person for his private use and sold by him or by auction on his behalf or on behalf of his representatives in interest upon his quitting a station or after his decease.
+21. Sale of excisable article.
+- No liquor shall be bottled for sale, and no excisable article shal be sold, otherwise than in accordance with the terms and conditions of a licence granted in that behalf.
+22. Prohibition of sale, etc, to certain persons or in certain manner or circumstance.
+(1)
+No licensed vendor and no person in the employ of [such vendor or acting] [Substituted, by Rajasthan Act 28 of 1961.] on his behalf shall sell or deliver any liquor or intoxicating drug
+(a)
+to any person apparently under the age of 18 years, or
+(b)
+to any person of unsound mind, or
+(c)
+to any soldier on duty and in uniform except with the permission of the proper officer of the unit to which the soldier belongs.
+Explanation The provisions of this sub-section apply whether the liquor or intoxicating drugs is sold or delivered to a person for consumption by himself or by any other person and whether the sale or delivery is for consumption on the premises of the vendor or otherwise.
+(2)
+No such vendor or person as aforesaid shall sell or deliver any liquor or intoxicating drug in exchange whether wholly or in part of jewellery, clothes, arms or household utensils.
+23. Prohibition of employment of children under the age of 18 years, or women and of certain other persons.
+(1)
+No person who is licensed to sell liquor for consumption on his premises shall during the hours in which such premises are kept open for business, employ or permit to be employed either with or without remuneration, any person under the age of 18 years or any leper or any person suffering from an infectious disease in any part of such premises in which such liquor or spirit is consumed by the public.
+(2)
+No person who is licensed to sell Foreign Liquor for consumption on his premises shall, without the previous permission in writing, of the Excise Commissioner [or an Excise Officer duly empowered in that behalf] [Substituted by Rajasthan Act 38 of 1957.] during the hours in which such premises are kept open for business, employ or permit to be employed either with or without remuneration any women in any part of such premises in which liquor is consumed by the public
+(3)
+Every permission granted under sub-section (2) shall be endorsed on the licence and may be modified or withdrawn.
+24. Grant of exclusive privilege of manufacture, etc.
+- Subject to the provisions of Section 31, the Excise Commissioner may order to grant to any person of a licence for the exclusive privilege
+(1)
+of manufacturing or of supplying by wholesale, or of both, or
+(2)
+of selling by wholesale or by retail; or
+(3)
+of manufacturing or of supplying by wholesale or of both and of selling by retail, any Country Liquor [Foreign Liquor] [Substituted by Rajasthan Act 28 of 1952.] or intoxicating drug within any local area of [Those parts of the State of Rajasthan to which this Act extends] [Omitted by Rajasthan Act 22 of 1958.].
+25. [ [Deleted by Rajasthan Finance Act, 2014 (Act No. 14 of 2014), dated 31.7.2014.]
+***]
+25. Manufacture and sale of liquor in military cantonments.- Within the limits of places in which any military forces are stationed and within such distance from those limits as the[State Government] [Inserted by Rajasthan Act 28 of 1952.]in any case may prescribe, no licences for the manufacture or sale of liquor, or for an exclusive privilege in respect of liquor under Section 24 shall be granted unless with the consent of the Commanding Officer.
+26. Grantee of exclusive privilege may let or assign.
+- Subject to the conditions of his licence, the grantee of any exclusive privilege ma let or assign the whole or any portion of his privilege; but no lessee or assignee of such privilege or portion of a privilege shall exercise any rights as such unless and until a licence has been granted to him by the Excise commissioner on application made by the grantee.
+27. Recovery by grantee of exclusive privilege of sums due to him.
+- Any grantee lessee or assignee as aforesaid may recover from any person holding under any money due to him in his capacity of a grantee, lessee or assignee, as if it were an arrear of rent recoverable under the law for the time being in force with regard to land-holder and tenant:
+Provided that nothing contained in this section shall affect the right of any such grantee, lessee or assignee to recover by civil suit any such amount due to him from any such person as aforesaid.
+Chapter V
+Duties and Fees
+28. Duty on excisable articles.
+- An excise duty [or a countervailing duty as the case may be] [Inserted by Rajasthan Act 28 of 1958.] at such rate or rates as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] shall direct, may be imposed either generally or for any specified local area, on any excisable article imported or exported, or transported or manufactured, cultivated or collected under any licence granted under this Act, or manufactured in any distillery, pot-still or brewery established or licensed under this Act.
+ExplanationDuty may be imposed under this section at different rates according to the places to which any excisable article or intoxicating drug is to be removed for consumption or according to the varying strength and quality of such article.
+29. Manner of levying duty.
+- Subject to such rules regulating the time, place and manner of payment, as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may prescribe, such duty may be levied in such one or more ways as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may be notification in the [Official Gazette] [Substituted by Rajasthan Act 38 of 1957.] direct.
+30. Payment for exclusive privilege.
+- Instead of or in addition to any duty leviable under this Chapter, the Excise Commissioner may accept payment of a sum in consideration of the grant of the licence for exclusive privilege under Section 24.
+30A. [ Interest payable on failure to pay excise revenue] [Inserted by Rajasthan Act 8 of 1982.]
+- If the amount of any duty,fee or other demand due against any person under this Act or the rules made thereunder is not paid till the due date as prescribed, he shall be liable to pay on the amount due simple interest at the rate of [two per cent per month] [Substituted by Rajasthan Act 10 of 1994.] from the day next following the day on which the payment of such duty fee or demand became due :
+Provided that where as a result of any order of the competent authority, the amount on which the interest was payable under this section has been reduced, the interest shall be reduced according and the excess interest paid, if any, shall be refunded.]
+[Explanation. Where both the excise revenue and interest arc outstanding the part payments made shall be appropriated first towards excise revenue and then towards interest.] [Added by published in Rajasthan Gazette, Part 4-A, dated 26.5.2001.]
+30AA. [ Power to reduce or waive interest in certain cases [Inserted by Rajasthan Act 14 of 1989.]
+- Notwithstanding anything contained in this Act, the Excise Commissioner may,on an application made in this behalf by a licensee and after recording his reasons for so doing reduce or waive the amount of any interest payable by the licensee under this Act, if he is satisfied that
+(a)
+to do otherwise would cause genuine hardship to the licensee having regard to the circumstances of the case; and
+(b)
+the licensee has co-operated in any proceeding for the recovery of any amount due from him.]
+Chapter VI
+Licences, Permits and Passes
+31. Form and conditions of Licences, etc.
+- Every licence, permit or pass granted under this Act , shall be granted
+(a)
+by such authority,
+(b)
+on payment of such fees (if any),
+(c)
+subject to such restrictions and on such conditions,
+(d)
+in such form and containing such particulars, and
+(e)
+for such periods,
+as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may prescribe by rules either generally or for any class of licences, permits or passes or as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may direct for any particular licence, permit or pass.
+32. Saving of licences in force at the commencement of this Act
+- Every licence which was granted under any provision of the Excise Acts or Laws repealed by this Act, shall be deemed to have been granted under the corresponding provision of this Act and shall (unless previously cancelled, suspended, withdrawn or surrendered under this Chapter) remain in force for the period for which it was granted.
+33. Power of authority granting licence to require execution of counter part agreement etc.
+- Any authority granting a licence under this Act may require the grantee to execute a counter part agreement in conformity with the tenor of his licence and to give such security for the performance of such agreement or to make such deposit in lieu of security , as such authority may think fit.
+34. Power to cancel and suspend licences
+(1)
+Subject to such restrictions as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may prescribe, the authority granting any licence, permit or pass under this Act may cancel or suspend it
+(a)
+if it is transferred or sublet by the holder thereof without the permission of the said authority;or
+(b)
+if any duty or fee payable by the holder thereof be not duly paid; or
+(c)
+in the event of any breach by the holder of such licence, permit or pass or by his servants, or by anyone acting on his behalf with his express or implied permission of any of the terms or conditions of such licence, permit or pass; or
+(d)
+if the holder thereof is convicted of any offence punishable under this Act or any other law for the time being in force relating to revenue or of any cognizable and non-bailable offence or any offence punishable under the [Dangerous Drugs Act , 1930] [Substituted by Rajasthan Act 38 of 1957.] (Central Act II of 1930) or any law relating to merchandise marks or of any offence punishable under Section 482 to 489 (both inclusive) of the Indian Penal Code [.....] [Ommitted by Rajasthan Act 38 of 1957.]; or
+(e)
+where a licence, permit or pass has been granted on the application of the grantee of an exclusive privilege under this Act, on the requisition in writing of such grantee; or
+(f)
+if the conditions of the licence, permit or pass provide for such cancellation or suspension at will.
+(2)
+When a licence, permit or pass held by any person is cancelled under sub-section (1), the authority aforesaid may cancel any other licence, permit or pass granted to such person under this Act or any other law for the time being in force relating to excise, revenue or under [The Opium Act, 1878 (Central Act I of 1878)]. [Substituted by Rajasthan Act 38 of 1957.]
+(3)
+The holder of a licence, permit or pass shall not be entitled to any compensation for the cancellation or suspension thereof under this section nor to a refund of any fee paid or deposit made in respect thereof.
+35. Further power to cancel licences
+(1)
+Whenever the authority which granted a licence, permit or pass under this Act considers that such licence, permit or pass should be cancelled for any cause other than those specified in Section 34, it may, on remitting a sum equal to the amount of the fees payable in respect thereof for fifteen days, cancel the licence either
+(a)
+on the expiration of fifteen days' notice in writing of its intention to do so, or
+(b)
+forthwith without notice.
+(2)
+When a licence, permit or pass in cancelled under this section any fee paid in advance or deposit made by the licensee in respect thereof shall be refunded to him after deducting the amount (if any) due to the [State Government] [Substituted by Rajasthan Act 38 of 1957.].
+(3)
+If any licence, permit or pass be cancelled under Clause (b) of sub-section (1) in addition to the sum remitted as aforesaid, there shall be paid to the licensee such further sum (if any) by way of compensation as the Excise Commissioner may direct.
+36. Surrender of licence to sell by retail
+- Any holder of a licence to sell by retail under this Act may surrender his licence on the expiration of one month's notice in writing given by him to the Excise Commissioner of his intention to surrender the same and on payment of the fee payable for the licence for the whole period for which it would have been current but for such surrender:
+Provided that if the Excise Commissioner is satisfied that there is sufficient reason for surrendering such a licence, he may remit to the holder thereof, the sum so payable on surrender or any portion thereof.
+Explanation The words 'holder of a licence' as used in this section include a person whose tender or bid for a licence has been accepted, although he may not actually have received the licence.
+37. No renewal of licence or compensation on determination or non-renewal of licence claimable
+- No person to whom a licence has been granted under this Act shall have any claim to the renewal of such licence, or to any claim for compensation on the determination [or non-renewal thereof.] [Substituted by Rajasthan Act 28 of 1961.]
+38. Technical irregularities in licence
+(1)
+No licence granted under this Act shall be deemed to be invalid by reason merely of any technical defect, irregularity or omission in the licence, or in any proceedings taken prior to the grant, thereof.
+(2)
+The decision of the Excise Commissioner as to what is a technical defect, irregularity or omission shall be final.
+Chapter VII
+General Provisions
+39. Measures, weights and testing instruments
+- Every person who manufactures or sells any excisable article under a licence granted under this Act . shall be bound
+(a)
+to supply himself with such measures, weights and instruments, as the Excise Commissioner may prescribe and to keep the same in good condition; and
+(b)
+when such measures, weights and instruments have been prescribed, on the requisition of any Excise Officer duly empowered in that behalf, at any time to measure, weight or test any excisable article in his possession in such manner, as the said Excise Officer may require.
+40. Recovery of Excise Revenue
+- All excise revenue, including all amounts due to the [State Government] [Substituted by Rajasthan Act 38 of 1957.] by any person on account of any contract relating to excise revenue, may without prejudice to any other mode of recovery, be recovered from the person primarily liable to pay the same or from his surety (if any), as arrears of land revenue or in the manner provided for the recovery of public demands by any law for the time being in force, in case of default made by a holder of a licence, the Excise Commissioner [or an Excise Officer duly empowered in that behalf] [Inserted by Rajasthan Act 28 of 1952.] may take the grant for which the licence has been given under management at the risk of the defaulter, When a grant is under management under this section, the Excise Commissioner [or an Excise Officer duly empowered in that behalf] [Inserted by Rajasthan Act 28 of 1952.] may recover as excise revenue any moneys due to the defaulter by any lessee or assignee:
+Provided that no licence for an exclusive privilege granted under Section 24 shall be forfeited or re-sold without the sanction of the authority granting the licence.
+40A. [ Special mode of the recovery. [Added by published in Rajasthan Gazette, Part 4-A, dated 26.5.2001.]
+(1)
+Notwithstanding anything contained in the Act or any law, for the time being in force, or contract to the contrary, the District Excise Officer may, at any time or from time to time, by notice in writing, a copy of which shall be sent to the defaulter at his address last known to the District Excise Officer, require,]-
+(a)
+any person from whom any amount is due or may become due to the defaulter who has failed to pay due amount on the demand by the District Excise Officer, or
+(b)
+any person who holds or may subsequently hold any money for or on account of such defaulter,
+to pay, into the Government Treasury or the bank authorised to receive money on behalf of the State Government, in the manner specified in the notice, either forthwith or upon the money becoming due from him or being held by him, within the time specified in the notice (not being before the money becomes due or is held), so much of the money as is sufficient to pay the amount due from the defaulter or the whole of the money when it is equal to or less than that amount.
+Explanation.  For the purposes of this section "defaulter" means a person who is primarily liable to pay any excise revenue or any amount due to State Government from him on account of any contract relating to excise revenue and who does not pay such revenue or, as the case may be, amount by due date and includes his surety.
+(2)
+The authority issuing a notice under sub-section (1) may, at any time or from time to time, amend or revoke any such notice or extend the time upto three months for making any payment in pursuance of this notice.
+(3)
+Any person making any payment in compliance with a notice issued under sub-section (1) shall be deemed to have made the payment under the authority of the defaulter, and the treasury receipt or the challan of the bank for such payment shall constitute a good and sufficient proof of discharge of the liability of such person to the extent of the amount specified in the receipt or the challan.
+(4)
+Any person discharging any liability to the defaulter after service on him of the notice issued under sub-section' (1) shall be personally liable to the State Government to the extent of the liability discharged, or to the extent of the amount of demand, whichever is less.
+(5)
+Where a person to whom a notice under sub-section (1) is sent proves to the satisfaction of the District Excise Officer that the money demanded or any part thereof, is not due to the defaulter or that he does not hold any money for or on account of the defaulter, then nothing contained in this section shall be deemed to be required such person to pay any such money or part thereof, as the case may be, to the District Excise Officer.
+(6)
+The provisions of this section shall be without prejudice to any action that may be taken for the recovery of the arrears.
+41. Power of [State Government] [Substituted by Rajasthan Act 38 of 1957.] to make rules
+(1)
+The [State Government] [Substituted by Rajasthan Act 38 of 1957.] may make rules for the purpose of carrying out the provisions of this Act or other law for the time being in force relating to excise revenue.
+(2)
+In particular and without prejudice to the generality of the foregoing provisions, the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may make rules
+(a)
+regulating the delegation of any powers by the Excise Commissioner;
+(b)
+prescribing the powers and duties of officers of the Excise Departments;
+(c)
+regulating the manner in which appeals shall be made to the Excise Commissioner;
+(d)
+regulating the import, export, transport or possession of any excisable article [molasses or lanced poppy heads;] [Substituted by Rajasthan Act 1 of 1986.]
+(e)
+regulating the period and localities for which and the person to whom licenses for the vend by wholesale or by retail of any excisable article may be granted;
+(f)
+prescribing the procedure to be followed and the matters to be ascertained before any licence for such vend is granted for any locality;
+(g)
+for the prohibition of the sale of any excisable article to any person or class of persons;
+(h)
+for the grant of expenses to witnesses and compensation for loss of time to persons released under Section 44 on the ground that they have been improperly arrested and to persons charged before a Magistrate with offence punishable under this Act but acquitted;
+(i)
+regulating the power of Excise Officer to summon witnesses from a distance under the provisions of Section 44;
+(j)
+for declaring the Excise Officers to whom, and the manner in which information and aid should be given under Section 50;
+(k)
+for the prohibition of the employment by the licence-holder of any person or class of persons to assist in his business in any capacity whatsoever;
+(l)
+for the prevention of drunkenness, gambling or disorderly conduct in or near any licensed premises, and the meeting or remaining of persons of bad character in such premises;
+(m)
+[ for the grant and distribution of rewards to informers and Government servants]; [ Inserted, by Rajasthan Act 22 of 1958.]
+(n)
+[ prohibiting the printing, publishing or otherwise displaying or distributing any advertisement or other matter commending or soliciting the use of or offering any intoxicant or calculated to encourage or incite any individual or class of individuals or the public generally to commit an offence under this Act, or to commit a breach or evade the provisions of any rule or order made thereunder, or the conditions of any licence permit or pass obtained thereunder. [Clauses (n) to (p) added by Rajasthan Act 3 of 1966.]
+(o)
+prohibiting within the State the circulation, distribution or sale of any newspaper, book, leaf-let, book-let or other publication printed and published outside the State which contains any advertisement matter of the nature described in Clause (n); and
+(p)
+declaring any newspaper, book , leaf-let , book-let or other publication where printed or published containing any advertisement or matter commending or soliciting the use of or offering any intoxicant, to be forfeited to the State Government.]
+(3)
+The power conferred by this section for making rules is subject to the condition that the rules shall be made after previous publication:
+Provided that any such rule may be made without previous publication if the State Government considers that it should be brought into force at once.
+42. Power of Chief Excise Authority to make rules
+- The Excise commissioner may, subject to the previous sanction of the [State Government], [Substituted by Rajasthan Act 38 of 1957.] make rules
+(a)
+regulating the manufacture, supply, storage or sale of any excisable article including
+(i)
+the erection, alteration, repair, inspection, supervision, management and control of any place for the manufacture, supply, storage or sale of such article or drug and the fittings, implements and apparatus to be maintained therein;
+(ii)
+the cultivation of the hemp plant (Cannabis Sativa);
+(iii)
+the collection of portions of the hemp plants (Cannabis Saliva) from which many intoxicating drugs can be manufactured and the manufacture of any intoxicating drug therefrom;
+(iv)
+[ the bottling of liquor for the purposes of sale]; [Inserted by Rajasthan Act No. 28 of 1961.]
+(b)
+regulating the deposit of any excisable article in a warehouse and the removal thereof from any such warehouse or from any distillery, pot-still or brewery:
+(c)
+prescribing the scale of fees or the manner of fixing the fees payable in respect of any licence, permit or pass or of the storing of any excisable article;
+Explanation  Fees may be prescribed under this sub-clause at different rates for different classes of licence, permits, passes or storage and for different areas.
+(d)
+regulating the time, place and manner of payment of any duty or fee;
+(e)
+prescribing the restrictions under and the conditions on which any licence, permit or pass may be granted including provisions for the following matters
+(i)
+the prohibition of the admixture with any excisable article of any sub-stance deemed to be noxious or objectionable;
+(ii)
+the regulation or prohibition of the reduction of liquor by a licensed manufacturer or licensed vendor from a higher to a lower strength;
+(iii)
+the fixing of the strength, price or quantity in excess of or below which any excisable article shall not be sold or supplied or possessed and of the quantity in excess of which denatured spirit shall not be possessed, and the prescription of a standard of quality for any excisable article;
+(iv)
+the prohibition of sale except for cash;
+(v)
+the fixing of the days and hours during which any licensed premises may or may not be kept open, and the closure of such premises on special occasions;
+(vi)
+the specification of the nature of the premises in which any excisable article may be sold and the notices to be exposed at such premises;
+(vii)
+the form of accounts, to be maintained and the returns to be submitted by licence-holders; and
+(viii)
+the regulation of the transfer of licenses,
+(f)
+(i)
+declaring [substance and the process] [Substituted by Rajasthan Act 28 of 1961.] by which spirit manufactured in India shall be denatured;
+(ii)
+for causing such spirit to be denatured through the agency or under the supervision of Excise Officers;
+(iii)
+for ascertaining whether such spirit has been denatured;
+(g)
+providing for the destruction or other disposal of any excisable article deemed to be unfit for use;
+(h)
+regulating the disposal of confiscated articles:
+(i)
+[ prescribing the norms of production of excisable articles from any kind of raw material.] [Inserted by Rajasthan Finance Act, 2014 (Act No. 14 of 2014), dated 31.7.2014.]
+Chapter VIII
+Powers and Duties of Officers
+43. Power to enter and Inspect place of manufacture and sale
+- The Excise commissioner or any Excise Officer not below such rank as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may prescribe may
+(a)
+enter and inspect at any time by day or by night any place in which any licensed manufacturer carries on the manufacture of or stores any excisable article;
+(b)
+enter and inspect at any time within the hours during which sale is permitted and at any other time during which the same may be open, any place in which any excisable article is kept for sale by any person holding a licence under this Act;
+(c)
+examine any book, account or registers or examine, test, measure or weigh any materials, stills, utensils implements apparatus or excisable article found in such place; and
+(d)
+seize any measures, weights and testing instruments which he has reason to believe to be false.
+44. power of certain officers to investigate into offences punishable under this Act.
+(1)
+Any officer of the Excise Department not below such rank as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may prescribe, may investigate into any offence punishable under this Act committed within the limits of the area in which such officer exercises jurisdiction.
+(2)
+Any such officer may exercise the same powers in respect of such investigation as an officer-in-charge of a police station may exercise in a cognizable case under the provisions of [Chapter XII of the Code of Criminal Procedure, 1973 (Central Act 2 of 1974)] [Substituted by Rajasthan Act 30 of 1976.], [...] [Omitted by Rajasthan Act 38 of 1957.] and, if specially empowered in that behalf by the [State Government] [Substituted by Rajasthan Act 38 of 1957.], such officer may without reference to a Magistrate, and for reasons to be recorded by him in writing stop further proceedings, against any person concerned or supposed to be concerned in any offence punishable under this Act into which he was investigated.
+45. Power of arrest, seizure and detention
+- Any officer of the Excise, Police, Salt, Customs [Narcotics] [Substituted by Rajasthan Act 28 of 1961.] or Land Revenue Department, not below such rank and subject to such restrictions as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may prescribe, and any other person duly empowered in this behalf may arrest without warrant, any person found committing an offence punishable under this Act and may seize, and detain any excisable article or other article which he has reason to believe to be liable to confiscation under this Act or other law for the time being in force relating to excise revenue, and may detain and search any person upon whom and any vessel, raft, vehicle, animal, package, receptacle or covering in or upon which , he may have reasonable cause to suspect any such article to be.
+46. Power of Excise commissioner or Magistrate to issue warrant for search or arrest
+- The Excise Commissioner or a Magistrate, [or an Excise Officer duly empowered in this behalf] [Inserted by Rajasthan Act 28 of 1952.], having reason to believe that an offence under this Act has been, is being, or is likely to be, committed, may -
+(a)
+Issue a warrant for the search of any place in which he has reason to believe that any excisable article or any utensil implement, apparatus or materials in respect of which such offence has been is being or is likely to be committed are kept or concealed, and
+(b)
+issue a warrant for the arrest of any person whom he has reason to believe to have been engaged in the commission of any such offence.
+47. Power of Excise Officer to search without warrant
+(1)
+Whenever an officer of the Excise Department not below such rank as the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may prescribe has reason to believe that an offence punishable under this Act has been, is being or is likely to be committed in any place, and that a search warrant cannot be obtained without affording the offender an opportunity of escape or of concealing evidence of the offence he may, at any time by day or night enter and search such place :
+Provided that such officer shall before entering such place record the grounds of his belief as aforesaid.
+(2)
+Every Excise Officer as aforesaid may seize any thing found in such place which he has reason to believe to be liable to confiscation under this Act, and may detain and search and if he thinks proper, arrest any person found in such place whom he has reason to believe to be guilty of such offence as aforesaid.
+48. Procedure relating to arrest, searches, etc.
+- The provisions of the Code of Criminal Procedure [1973] [Substituted by Rajasthan Act 30 of 1976.] (Central Act 2 of 1974) [....] [Omitted by Rajasthan Act 38 of 1957.] relating to arrest, searches, search warrants, production of persons arrested and investigation into offences shall be held to be applicable so far as may be, to all action taken in these respects under this Act :
+Provided that 
+(i)
+[ any offence punishable under this Act may be investigated into without the order of a Magistrate and any warrant issued by the Excise Commissioner or an Excise Officer duly empowered in this behalf under Section 46 may be executed by any officer selected for that purposes by the authority issuing the warrant;] [Substituted by Rajasthan Act 28 of 1961.]
+(ii)
+whenever and excise officer makes any arrest, seizure or search he shall within 24 hours thereafter make a full report of all the particulars of the arrest, seizure of search to his immediate official superior, and shall, unless bail be accepted under Section 49 take or send the person arrested and the article seized with all convenient dispatch to a Magistrate for trial.
+(iii)
+[ no search shall be deemed to be illegal by reason only of the fact that witnesses for the search were not inhabitants of the locality in which the place of search is situated] [Inserted by Rajasthan Act 28 of 1961.]
+(iv)
+[ the provisions of Section 162 of the Code of Criminal Procedure, 1973 (Central Act No. 2 of 1974) shall not apply to the investigations made under this Act."] [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+49. [ Modified application of certain provisions of the Code. [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+ (1) Section 167 of the Code shall apply to a case involving an offence punishable under the proviso to Section 54 or under Section 5413, 54D or 56 of this Act subject to the modification that in sub-section (2) thereof the reference to "sixty days" and "ninety days", wherever they occur, shall be construed as reference to "one hundred twenty days" and "one hundred eighty days" respectively.]
+(2)
+Nothing in Section 438 of the Code shall applying in relation to any case involving the arrest of any person on an accusation of having committed an offence punishable under the proviso to Section 54, or under Sections 54B, 54D or 56 of this Act.
+(3)
+Notwithstanding anything contained in the Code, no person accused of an offence punishable under the proviso to Section 54, or under Sections 54B, 54D or 56 of this Act shall, if in custody, be released on bail or on his own bond, unless
+(a)
+the Public Prosecutor has been given an opportunity to oppose the application of such release; and
+(b)
+where the Public Prosecutor opposes the application, the court is satisfied that there are reasonable grounds for believing that he is not guilty of such offence and that he is not likely to commit any such offence while on bail.
+(4)
+The limitations on grant of bail specified in sub-section (3) are in addition to the limitations under the Code or any other law for the time being in force on the grant of bail.
+Explanation.  In this Section, the expression "the Code" means the Code of Criminal Procedure, 1973 (Central Act No. 2 of 1974).
+50. Duty of officers of certain departments to report offences and to assist Excise Officers
+- Every officer of the Police, Salt, Customs [Narcotice] [Substituted by Rajasthan Act 28 of 1961.] and Land Revenue Department shall be bound to give immediate information to an officer of the Excise Department of all breaches of any of the provisions of this Act which may come to his knowledge and to aid, any officer of the Excise Department in carrying out of the provisions of this Act upon request made by such officer.
+51. Duty of landholders and others to give information
+(1)
+Every owner or occupier of land, the agent of any such owner or occupier of land on which, and
+(2)
+[ Every Sarpanch or Panch of a Panchayat established under the Rajasthan Panchayat Act, 1953 (Rajasthan Act 21 of 1953) lambardar] [Substituted by Rajasthan Act 28 of 1961.], village headman, village accountant or village policeman in whose village, there shall be any manufacture or illegal import or collection of any excisable article not licensed under this Act, or any unlawful cultivation or collection or any plant from which an intoxicating drug can be produced shall be bound in the absence of reasonable excuse, to give notice of the same to a Magistrate or to an officer of the Excise, Police, Customs or Land Revenue Department, immediately the same shall have come to his knowledge.
+52. Duty of officer-in-charge of police station to take charge of article seized
+- Every Officer-incharge of a police station shall take charge of and keep in safe custody, pending the orders of a Magistrate or of the Excise Commissioner [or an Excise Officer duly empowered in that behalf] [Inserted by Rajasthan Act 28 of 1952.] all articles seized under this Act which may be delivered to him; and shall allow any officer of the Excise Department who may accompany such articles to the police station or army be deputed for the purpose by his superior officer, to affix his seal to such articles, and to take samples of and from them. All samples so taken shall also be sealed with the seal of the Officer-in-charge of the police station.
+53. Power to close shops for the sake of public peace
+(1)
+The District Magistrate by notice in writing to the licensee may require that any shop in which any excisable or intoxicating drug is sold shall be closed at such times or for such period as he may think necessary for the preservation of the public peace.
+(2)
+If a riot or unlawful assembly is apprehended or occurs in the vicinity of any such shop a Magistrate of any class or any police officer above the rank of a constable who is present, may require such shop to be kept closed for such period as he may think necessary :
+Provided that where any such riot or unlawful assembly occurs the licensee shall in the absence of such Magistrate or police officer, close his shop without any order.
+Chapter IX
+Offences and Penalties
+54. Penalty for unlawful import, export, transport, manufacture, possession etc.
+- Whoever in contravention of this Act or of any rule or order made or of any licence, permit or pass granted, thereunder.
+(a)
+imports, exports, transports, manufactures, collects, sells or possesses any excisable article; or
+(b)
+cultivates any hemp plant (Cannabis Sativa); or
+(c)
+constructs or works any distillery, pot-still or brewery; or
+(d)
+uses, keeps or has in his possession any materials, stills, utensil, implements or apparatus whatsoever for the purpose of manufacturing any excisable article other than tari; or
+(e)
+removes any excisable article from any distillery, pot-still, [brewery] [Inserted by Rajasthan Act 41 of 1956.] or warehouse established or licensed under this act; or
+(f)
+bottles any liquor for the purposes of sale;or
+(g)
+taps or draws tari from any tari producing tree;
+shall [be punishable with imprisonment for a terms which shall not be less than six months but which may extend to thee years and with fine of twenty thousand rupees or five times of the loss of excise duty, whichever is higher] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)], [.....] [Omitted by Rajasthan Act 41 of 1956.]
+[.........] [Omitted by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+[Provided that if the quantity of liquor found at the time or in the course of detection of the offence under clause (a) of this section exceeds fifty bulk liters, the person guilty for such offences shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to five years and with fine of twenty thousand rupees or ten times of the loss of excise duty, whichever is higher:] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+[Provided further that if the quantity of liquor found at the time or in the course of detection of the offence exceeds fifty bulk litres, the person guilty for such offence shall be punished with the minimum sentence of imprisonment for one year and fine of ten thousand rupees.] [Added by Rajasthan Act No. 15 of 2005, dated 20.5.2005.]
+54A. [ Owner of animal, cart, vessel, raft, motor vehicle or any other means of conveyance deemed to be guilty in certain cases. [ Added by Notification No. F.2(6) Vidhi/212000, dated 3.5.2000.]
+- Where any animal, cart, vessel, raft, motor vehicle or any other means of conveyance is used in the commission of an offence under this Act, and is liable to confiscation, the owner thereof, except in case of a motor vehicle or other means of conveyance is used in the commission of an offence under this Act, and is liable to confiscation, the owner thereof; except in case of a motor vehicle or other means of conveyance being owned by the Central Government or any State Government or any of their undertaking, shall be deemed to be guilty of such offence and such owner shall be liable to be proceeded against and punished accordingly unless he satisfies the court that he had no reason to believe that such offence was being or likely to be committed and he had exercised due care in the prevention of the commission of such an offence.]
+54B. [ Penalty for adulteration resulting in death etc.] [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+ (1) Whoever mixes or permits to be mixed with any liquor or intoxicating drug and noxious substance or any substance, which is likely to cause disability or grievous hurt or death to human being, shall, on conviction, be punishable,
+(i)
+if, as a result of such an act, death is caused to any person, with imprisonment for a term which shall not be less than two years but which may be for life, and with fine which shall not be less than one lakh rupees but which may extend to ten lakh rupees;
+(ii)
+if, as a result of such an act, disability or grievous hurt is caused to any person, with imprisonment for a term which shall not be less than two years but which may be for life, and with fine which shall not be less than fifty thousand rupees but which may extend to five lakh rupees; and
+(iii)
+in any other case, with imprisonment for a term which shall not be less than one year but which may be extend to ten years, and with fine which shall not be less than fifty thousand rupees but which may extend to two lakh and fifty thousand rupees.
+(2)
+Whoever omits to take reasonable precautions to prevent the mixing of any noxious substance or any substance which is likely to cause disability or grievous hurt or death to human beings, with any liquor or intoxicating drug shall, on conviction, be punishable,
+(i)
+if, as a result of such omission, death is caused to any person, with imprisonment for a term which shall not be less than two years but which may be for life, and with fine which shalt not be less than one lakh rupees but which may extend to ten lakh rupees;
+(ii)
+if, as a result of such omission, disability or grievous hurt is caused to any person, with imprisonment for a term which shall not be less than two years but which may be for life, and with fine which shall not be less than fifty thousand rupees but which may extend to five lakh rupees; and
+(iii)
+in any other case, with imprisonment for a term which shall not be less than one year but which may be extend to ten years, and with fine which shall not be less than fifty thousand rupees but which may extend to two lakh and fifty thousand rupees.
+(3)
+Whoever possesses any liquor or intoxicating drug in which any substance referred to in sub-section (1) is mixed, knowing that such substance is mixed with such liquor or intoxicating drug shall, on conviction, be punishable with imprisonment for a term which shall not be less than one year but which may extend to ten years, and with fine which may extend to one lakh rupees.
+Explanation. For the purposes of this Section and Section 54C the expression "grievous hurt" shall have the same meaning as is in section 320 of the Indian Penal Code, 1860 (Central Act No. 45 of 1860).
+54C. [ Order to pay compensation.] [Add by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+ (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (Central Act No. 2 of 1974) the court when passing the judgment in a case falling under Section 54B may, if it is satisfied that death or grievous hurt or disability or other injury has been caused to any person or persons by consumption of liquor or intoxicating drug caused to any person or persons by consumption of liquor or intoxicating drug sold in any place, order the person who sold the liquor or intoxicating drug, whether or not he is convicted of an offence under Section 54B, to pay, by way of compensation, such amount as it thinks just to the legal representative of the deceased or to the person or persons to whom grievous hurt or disability has been caused :
+Provided that the amount of compensation ordered to be paid under this section shall not be less than three lakh rupees in case of death, two lakh rupees in case of grievous hurt or disability and twenty thousand rupees in other cases :
+Provided further that, where the liquor or intoxicating drug is sold in a licensed shop, the liability to pay the compensation under this Section shall be on the licensee.
+(2)
+Any person aggrieved by an order under sub-section (1) may, within thirty days from the date of the order, prefer an appeal to the High Court :
+Provided that no such appeal shall lie unless the amount ordered to be paid under sub-section (1) is deposited in the court which passed such order :
+Provided further that the High Court may entertain the appeal after the expiry of the said period of thirty days if it is satisfied that the appellant was prevented by sufficient cause from preferring the appeal in time.
+54D. [ Penalty for criminal conspiracy]. [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+ Whoever is a party to a criminal conspiracy to commit an offence punishable under this Act shall be punished in the same manner as if he had committed such offence.
+Explanation. - For the purposes of this section the expression "criminal conspiracy" shall have the same meaning as is in section 120A of the Indian Penal Code, 1860 (Central Act No. 45 of 1860).
+55. Penalty for unlawfully selling to persons under eighteen or employing children or women.
+- If any licensed vendor or any person in his employ or acting on his behalf
+(a)
+sells or delivers any liquor or intoxicating drug in contravention of Section 22; Or
+(b)
+employs or permits to be employed on any part of his licensed premises any person in contravention of Section 23; or
+(c)
+permits disorderly conduct or gaming on the licensed premises;
+(d)
+permits any person whom he knows or has reason to believe to have been convicted of any non-bailable offence or any reputed prostitute to frequent his licensed premises, whether or not for the purposes of crime or prostitution;
+shall in addition to any other penalty to which he may be liable be punishable with a fine which may extend to five hundred rupees.
+56. [ Penalty for rendering denatured spirit fit for human consumption] [Substituted by Rajasthan Act No. 28 of 1961.].
+- Whoever renders or attempts to render fit for human consumption any spirit (wherever manufactured) which has been denatured or any denatured spirituous preparation or has to his possession any denatured spirit or any denatured spirituous preparation which has been rendered fit for human consumption or in respect of which any attempt or in which any alteration has been made to render it so fit, shall be punished with imprisonment for a term [which shall not be less than two years but which may extend to five years and with fine of two lakh rupees or five thousand rupees per bulk liter of denatured spirit or denatured spirituous preparation involved whichever is higher.] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+[Explanation. For the purposes of this section it shall be presumed, unless and until the contrary is proved, that any spirit, which is proved on chemical analysis to contain any quantity of any of the prescribed denaturants, is or contains or has been derived from denatured spirit.] [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+57. [ Penalty for possession of excisable article unlawfully imported. [Substituted by Rajasthan Act No. 15 of 2011, dated 11.4.2011.]
+- Whoever, without lawful authority, has in his possession any excisable article, knowing the same to have been unlawfully imported, transported, manufactured, cultivated or collected or knowing the fact that prescribed duty not to have been paid thereon, shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to three years and with fine of twenty thousand rupees or five times of the loss of excise duty, whichever is higher:
+Provided that if the quantity of liquor found at the time or in the course of detection of the offence exceeds fifty bulk litres, the person guilty for such offence shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to five years and with fine of twenty thousand rupees or ten times of the loss of excise duty, whichever is higher.]
+58. Penalty for certain acts by licensee or his servants
+- Whoever being the holder of a licence permit or pass granted under this Act, or being in the employ of such holder and acting on his behalf 
+(a)
+falls to produce such licence, permit or pass on the demand of any Excise Officer or any other officer duly empowered to make such demand; or
+(b)
+in any case not provided for in Section 54 wilfully contravenes any rule made under Section 41 or Section 42; or
+(c)
+wilfully does or omits to do anything in breach of any of the conditions of the licence, permit or pass not otherwise provided for in this Act;
+shall be punished for each such offence with fine [of five thousand rupees.] [Substituted by Act No.6 of 2007 ( w.e.f. 6.6.2007)]
+58A. [ Penalty for adulteration etc., by licensed vendor or manufacturer. [Added by Act No. 6 of 2007 (w.e.d.6.6.2007)]
+- Whoever being the holder of a license for the sale or manufacture of any intoxicating under this Act, or a person in the employment of such holder,
+(a)
+mixes or permits to be mixed with intoxicant sold or manufactured by him any noxious drug or any foreign ingredient likely to add to its actual or apparent intoxicating quality, or any article prohibited by any rule made under this Act where such admixture does not amount to the offence of the adulteration under section 272 of the Indian Penal Code, 1860 (Central Act No. 45 of 1860); or
+(b)
+sells or keeps or exposes for sale as foreign liquor, liquor which he knows or has reason to believe to be Indian made foreign liquor; or
+(c)
+marks any bottle or the cork of any bottle, case, packing or other receptacle containing Indian made foreign liquor, or uses any bottle, case, package or other receptacle, with any mark thereon or on the cork thereof, to contain Indian made foreign liquor with the intention for causing it to be believed that such bottle, case, package or other receiptable contains foreign liquor, when such act shall not amount to the offence of using a false property mark with intention to deceive or injure any person under Section 482 of the Indian Penal Code, 1860 (Central Act No. 45 of 1860); or
+(d)
+sells or keeps or exposes for sale any Indian made foreign liquor in a bottle, case, package or other receptacle with any mark thereon or on the cork thereof with the intention of causing it to be believed that such bottle, case, package or other receptacle contains foreign liquor, when such act shall amount to be offence of selling goods marked with a counterfeit property mark under Section 486 of the Indian Penal Code, 1860 (Central Act No. 45 of 1860); or
+(e)
+makes any block for the purpose of counterfeiting excise adhesive labels or holograms or prepares copies by any means of such labels or holograms for the purpose of counterfeiting such lables or holograms or counterfeits excise adhesive labels or holograms or makes any block for the purpose of counterfeiting corks or capsules to be used on bottles, cases, packing or other receptacles containing Indian made foreign liquor or foreign liquor or counterfeits suchcorks or capsules or is in possession of counterfeit excise adhesive labels, holograms, corks, capsules or blocks or any other material to be used for counterfeiting such lables, holograms, corks, capsules,
+shall, on conviction, be punished with imprisonment,
+(i)
+in case of first offence, for a terms which shall not be less than one year but which may extend to three years and with fine which shall not be less than
+ten thousand rupees but which may extend to three lakh rupees;
+(ii)
+in case of a second or subsequent offence, for a term which shall not be less than two years b ut which may extend to five years and with fine which shall not be less than fifty thousand rupees but which may extend to five lakh rupees.
+Explanation. For the purposes of this section, the expression "counterfeit" shall have the same meaning as is in Section 28 of the Indian Penal Code, 1860 (Central Act No. 45 of 1860).]
+59. Penalty for consumption in chemist's shop etc.
+(1)
+If any chemist, druggist, apothecary or keeper of a dispensary allows any excisable article, who has not been bona fide medicated for medicinal purposes to be consumed on his business premises by any person not employed in his business, he shall be punished with imprisonment for a term which may extend to three months [and with fine] [Substituted by Rajasthan Act 41 of 1956.] which may extend to one thousand rupees [.......] [Omitted by Rajasthan Act 41 of 1956.].
+(2)
+If any person not employed as aforesaid, consumes any such excisable article on such premises, he shall be punished with fine which may extend to two hundred rupees.
+60. Penalty for Excise Officer refusing to do duty.
+- Any Excise Officer who without lawful excuse shall cease or refuse to perform or shall withdraw himself from the duties of his office unless expressly allowed to do so in writing by the Excise Commissioner, or unless he shall have given to his superior officer two month's notice in writing if his intention to do so shall be punished with imprisonment which may extend to three months or with fine which may extend to five hundred rupees or with both.
+61. Penalty for Excise Officer making vexatious search etc.
+- If any Excise Officer
+(a)
+without reasonable grounds of suspicion enters, inspects or searches or causes to be entered, inspected or searched any place; or
+(b)
+vexatiously and unnecessarily seizes any property of any person on the pretence of seizing or searching for any article liable to confiscation under this Act; or
+(c)
+vexatiously and unnecessarily detains, searches or arrests any person; he shall be punished with imprisonment for a term which may extend to three months or with fine which may extend to five hundred rupees or with both.
+61A. [ Penalty for certain acts and omissions by Excise Officers. [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+- If any Excise Officer unlawfully releases or abets the escape of any person arrested under this Act or acts in any manner inconsistent with his duty for the purpose of enabling any person to do anything whereby any of the provisions of this Act may be evaded or contravened or the excise revenue may be defrauded,he shall be punished with imprisonment for a term which shall not be less than three months but which may extend to one year :
+Provided that no court shall take cognizance against any officer under this section without prior permission of the State Government.]
+62. Penalties for offences not otherwise provided for
+- Whoever is guilty of any act or intentional omission in contravention of any of the provisions of this Act, or any rule or order made under this Act and not otherwise provided for therein shall be punished for each such act or omission with fine which may extend to two hundred rupees.
+62A. [ Offence by company. [Inserted by Rajasthan Finance Act, 2014 (Act No. 14 of 2014), dated 31.7.2014.]
+(1)
+Where an offence under this Act which has been committed by a company, every person who at the time the offence was committed was incharge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:
+Provided that where a company has different establishments or branches or different units in any establishment or branch, the concerned Head or the person incharge of such establishment, branch, unit nominated by the company as responsible for excisable articles shall be liable for contravention in respect of such establishment, branch or unit:
+Provided further that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.
+(2)
+Notwithstanding anything contained in sub-Section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+Explanation. - For the purposes of this section-
+(a)
+"company" means any body corporate and includes a firm or other association of individuals; and
+(b)
+"director", in relation to a firm, means a partner in the firm.]
+63. penalty for fraud by licensed manufacturer or vendor or his servant
+- If any licensed manufacturer or licensed vendor or any person in his employ or acting on his behalf
+(a)
+sells or keeps, or exposes for sale, as Foreign Liquor any liquor which he knows or has reason to believe to have been manufactured from rectified spirit or Country Liquor; or
+(b)
+marks any bottle, case , package or other receptacle containing liquor manufactured from rectified spirit or Country Liquor or cork of any such bottle with the intention of causing it to be believed that such bottle, case, package or other receptacle contains Foreign Liquor;
+he shall be punishable with imprisonment for a term which may extend to three months [and with fine] [Substituted by Rajasthan Act 41 of 1956.] which may extend to five hundred rupees [.....] [Omitted by Rajasthan Act 41 of 1956.]
+64. manufacture, sale or possession by one person on account of another
+(1)
+When any excisable article has been manufactured or sold or is possessed by any person on account of any other person and such other person knows or has reason to believe that such manufacture or sale was, or that such possession is, on his account, the article shall for the purposes of this Act be deemed to have been manufactured, or sold by or to be in the possession of such other person.
+(2)
+Nothing in sub-section (1) shall absolve any person who manufacturers, sells or has possession of an excisable article on account of another person from liability to punishment under this Act for the unlawful manufacture, sale or possession of such article.
+65. Attempt to commit offence punishable under this Act
+- Whoever attempts to commit or abets any offence punishable under this Act shall be liable to the punishment provided for the offence.
+66. Enhanced punishment after previous conviction
+- [Except as provided in section 58A, if any person] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)] after having been previously convicted of an offence punishable under this Act or under the similar provisions of any enactment repealed by this Act subsequently commits and is convicted of an offence punishable under this Act, he shall be liable to twice the punishment which might be imposed on a first conviction under this Act:
+[.......] [Omitted by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+[Provided further that the enhanced punishment would not in any way affect the minimum sentence prescribed for [any offence under this Act] [Substituted by Rajasthan Act 41 of 1956.].
+66A. [Security for abstaining from commission of offences [Substituted by Rajasthan Act 22 of 1968.]
+(1)
+Whenever any person is convicted of an offence punishable under this Act and the Court convicting him is of the opinion that it is necessary to require such person to execute a bond for abstaining from the commission of any such offence, the court may, at the time of passing sentence on such person, order him to execute a bond for a sum proportionate to his means, with or without sureties, for abstaining from the commission of the said offence during such period not extending three years, as it thinks fit to fix.
+(2)
+The bond shall be in the form contained in Schedule II and the provisions of the Code of Criminal Procedure, 1898 (Central Act 5 of 1898) shall, in so far as they are applicable, apply to all matters connected with such bond as if it were a bond to keep the peace ordered to be executed under Section 106 of the said Code.
+(3)
+If the conviction is set aside in appeal or revision the bond so executed shall also become void.
+(4)
+An order under this section may also be made by an Appellate Court or by the High Court when exercising its powers of revision.]
+67. [Cognizance of offences and credit of fines to Excise Department] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)].
+(1)
+No Magistrate shall take congnizance of an offence punishable
+(a)
+[ under Section 54 or Section 54-B or Section 54-D or Section 57 or Section 59 or Section 62-A or Section 63 except on his own knowledge or suspicion or on a complaint or the report of an Excise Officer; or] [Substituted by Rajasthan Finance Act, 2014 (Act No. 14 of 2014), dated 31.7.2014.]
+(b)
+under Section 55 or Section 56 [or Section 58 or Section 58A] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)] or Section 60 or Section 61 or Section 62 except [on a complaint or the] [Substituted and Added by Rajasthan Act 22 of 1958.] report of an officer not below the rank of the Excise commissioner or an Excise Officer [duly empowered] [Substituted and Added by Rajasthan Act 22 of 1958.] in that behalf.
+[Explanation] [Substituted and Added by Rajasthan Act 22 of 1958.]  The report of an Excise Officer under this sub-section shall be treated for all purposes of trial to be a report made by a police officer within the meaning of Clause (b) of sub-section (1) of Section 190 of the Code of Criminal Procedure [1973 (Central Act 2 of 1974)] [Added by Rajasthan Act 41 of 1956.].
+(2)
+Except with the special sanction of the [State Government] [Substituted by Rajasthan Act 41 of 1956.] no Magistrate shall take congnizance of any offence punishable under this Act, unless the prosecution is instituted within a year after the date on which the offence is alleged to have been conmmitted.
+(3)
+[ Notwithstanding anything in any other law for the time being in force in the State, all sums realised on account of fines imposed by a Magistrate on conviction of a person for any offence under this Act, shall, on such realisation, be credited to the head of account to which the receipts of the Excise Department are credited, after deducting the expenses incurred in connection with such realisation.] [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+68. Presumption as to commission of offences in certain cases.
+- In every Presumption for any offence punishable under this Act, it shall be presumed [without further evidence] [Inserted by Rajasthan Act 28 of 1961.] until the contrary is proved, that the accused person has committed such offence in respect of
+(a)
+any excisable article; or
+(b)
+any still, utensil, implement or apparatus whatsoever [as are ordinarily used in] [Substituted by Rajasthan Act 28 of 1961.] the manufacture on any such article or drug; or
+(c)
+any materials which have undergone any process towards the manufacture of an existable article or from which any such article has been manufactured, for the possession of which he is unable to account satisfactorily.
+and the holder of a licence, permit or pass under this Act, shall be liable to punishment, as well as the actual offender, for any offence punishable under this Act committed by any person in his employ and acting on his behalf as if he had himself committed the same, unless he shall establish that all due and reasonable precautions were exercised by him to prevent the commission of such offence;
+Provided that no person other than the actual offender shall be punished with imprisonment except in default of payment of fine.
+69. What things are liable to confiscation
+(1)
+Whenever an offence punishable under this Act has been committed
+(a)
+every excisable article in respect of which such offence has been committed;
+(b)
+every still, utensil, implement or apparatus and all materials by means of which such offence has been committed;
+(c)
+every excisable article lawfully imported, transported, manufactured held in possession or sold alongwith or in addition to any excisable article liable to confiscation under Clause (a);
+(d)
+every receptacle, package or covering in which any article as aforesaid or any materials, still, utensil, implement or apparalus is or are found together with the other contents (if any) of such receptacle or package, and
+(e)
+every animal, cart, vessel raft or other conveyance used in carrying such receptacles or package shall be liable to confiscation [...] [Substituted by Notification No. F. 2(6) Vidhi/2/2000, dated 3.5.2000 (Published in Rajasthan Gazette, Part 4-A, dated 3.5.2000).]
+[..........] [Deleted by Notification No. F. 2(6) Vidhi/2/2000, dated 3.5.2000 (Published in Rajasthan Gazette, Part 4-A, dated 3.5.2000).]
+(2)
+When in the trial of any offence punishable under this Act the Magistrate decides that anything is liable to confiscation '[under clause (a) to (d) of sub-section (1)] he may order confiscation [:] [Substituted by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+[Provided further that, if the excisable articles seized in connection with an offence under this Act are such as cannot be legally sold in Rajasthan in the form they were seized, such excisable articles may be ordered to be confiscated by the District Excise Officer concerned, whether or not prosecution is instituted for the offence and whether or not the offence is compounded : and] [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+Provided that [in case of a thing other than an excisable article he may , in lieu of ordering confiscation, give] [Substituted by Notification No. F. 2(6) Vidhi/2/2000, dated 3.5.2000 (Published in Rajasthan Gazette, Part 4-A, dated 3.5.2000).] the owner of the thing liable to be confiscated an option to pay any such fine as the Magistrate thinks fit.
+(2A)
+[ Where the District Excise Officer, after passing an order of confiscation under sub-section (2) is of the opinion that it is expedient in the public interest so to do, he may order the confiscated excisable articles or any part thereof to be sold by public auction or to be destroyed or disposed of departmentally in accordance with the rules made by the State Government in this behalf.] [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+(2B)
+[ Whenever any excisable article is seized under sub-section (1), the District Excise Officer shall have, and, notwithstanding anything contained in any other law for the time being in force, any court, tribunal or other authority shall not have, jurisdiction to make order with regard to the possession, delivery, disposal and release of such property.] [Added by Act No. 6 of 2007 (w.e.f. 6.6.2007)]
+(3)
+When anything mentioned in sub-section (1) is found in circumstances which afford reason to believe that an offence under this Act has been committed in respect or by means thereof, or when such an offence has been committed and the offender is not known or cannot be found, the Excise Commissioner may order confiscation of the same :
+Provided that no such order shall be made until the expiration of one month from the date of seizing the thing or animal in question or without hearing the person (if any) claiming any right thereto, and right thereto, and the evidence (if any) which he produces in support of the claim:
+Provided further that if the thing in question is liable to speedy and natural decay, of it the Excise Commissioner is of opinion that the sale of the thing or animal in question would be for the benefit of its owner, he may at any time direct it to be sold; and the provisions of this section shall so far as may be, apply to the net proceeds of such sale.
+(4)
+[ Where any means of conveyance referred to in clause (e) of sub-section (1) is seized in connection with the commission of any offence under this Act, a report of such seizure shall, without unreasonable delay, be made by the person seizing it to the Excise Commissioner or to the officer, not below the rank of the District Excise Officer, as may be duly authorised by the State Government in this behalf and whether or not a prosecution is instituted for commission of such an offence, the Excise Commissioner or the officer authorised in this behalf by the State Government, having jurisdiction over the area where the said means of conveyance was seized, may, if satisfied that the said means of conveyance was used for commission of offence under this Act, order confiscation of the said means of conveyance :] [Added by Noidication No. F. 2(6) Vidhi/2/2000, dated 3.5.2000 (Published in Rajasthan Gazette, Part 4-A, dated 3.5.2000).]
+Provided that before ordering confiscation of the said means of conveyance a reasonable opportunity of being heard shall be afforded to the owner of the said means of conveyance and if such owner satisfies the Excise Commissioner or the officer authorised by the State Government in this behalf that he had no reason to believe that such offence was being or likely to be committed and he had exercised due care in the prevention of the commission of such an offence, the Excise Commissioner or the officer authorised by the State Government in this behalf, may not confiscate the said means of conveyance:
+Provided further that where such means of conveyance is owned by the Central Government or any State Government or any of their undertaking, no order of confiscation of such means of conveyance shall be passed by the Excise Commissioner or the officer authorised by the State Government in this behalf and the matter shall be referred to the State Government by the Excise Commissioner or the officer authorised by the State Government in this behalf, for making such orders regarding means of conveyance as the State Government may deem fit :
+Provided also that before ordering confiscation under this sub-section the owner of the means of conveyance, referred to in clause (e) of sub-section (1), may be given an option to pay in lieu of confiscation, a fine not exceeding the market price of such means of conveyance.
+[***] [Deleted '(5) Any person aggrieved by an order of confiscation made under sub-section (4), may within sixty days from the date of communication to him of such order, appeal to the Divisional Commissioner and the Divisional Commissioner after giving opportunity to the appellant to be heard, shall pass such order as it may think fit, confirming, modifying or annulling the order appealed against.' by Rajasthan Act No. 15 of 2005, dated 20.5.2005.]
+(6)
+Whenever any means of conveyance as referred to in clause (e) of sub-section (1) is seized in connection with COMMission of an offence under this Act, the Excise Commissioner or any officer authorised in this behalf by the State Government shall have, and, notwithstanding anything contained in any law for the the time being in force any court, tribunal or other authority shall not have, jurisdiction to make order with regard to the possession, delivery, disposal, release of such means of conveyance.
+(7)
+Where the Excise Commissioner or the officer authorised by the State Government in this behalf is of the opinion that it is expedient in public interest or for the benefit of its owner that the means of conveyance, as referred to in clause (e) of sub-section (1), seized for commission of offence under this Act be sold by public auction, he may at any time direct it to be sold.
+(8)
+Where any means a conveyance is sold, as aforesaid, the sale proceeds thereof, after deduction of the expenses of such sale or auction or other incidental expenses relating thereto and in other cases, the means of conveyance which was seized or the amount of fine paid in lieu of its confiscation, shall
+(a)
+where no order of confiscation is ultimately passed by the Excise Commissioner or the officer authorised by the State Government in this behalf; or
+(b)
+[ where an order passed in appeal so requires; or] [Substiuted by Rajasthan Act No. 15 of 2005, dated 20.5.2005.]
+(c)
+where in a prosecution instituted for commission of offence under this Act in respect of which an order of confiscation has been made under this section, the person concerned is acquitted, be paid, returned or refunded, as the case may be, to its owner :
+Provided that no interest shall be payable on the amount to be paid or refunded under this sub-section.
+(9)
+Any order of confiscation made by the Excise Commissioner or any officer authorised by the State Government in this behalf, shall not prevent the infliction of any punishment to which the person affected there by is liable under this Act.
+70. Power of Excise Officers to compound offences
+(1)
+[Subject to such conditions and restrictions as may be prescribed] [Substituted by Rajasthan Act 4 of 1967.], the Excise Commissioner or any other Excise Officer specially empowered by the State Government in that behalf) may accept from any person whose licence, permit or pass is liable to be cancelled or suspended under this Act, or who is reasonable suspected of having committed an offence punishable under this Act, a sum of money not exceeding [rupees ten thousand] [Substituted by Rajasthan Act 4 of 1967.] in lieu of such cancellation or suspension or by way of composition for such offence which may have been committed, as the case may be, and in all cases whatsoever in which may have been committed, as the case may be, and in all cases whatsoever in which any property [...] [Omitted by Rajasthan Act 28 of 1961.] has been seized as liable to confiscation under this ACT [may release all such property except an excisable article on payment of the value thereof as estimated by such officer and may confiscate the excisable article]: [Substituted by Rajasthan Act 28 of 1961.]
+Provided that no such composition shall be accepted from any officer or servant of the Excise Department for any offence under this Act committed by such officer or servant :
+[Provided further that no offence of manufacture, or possession for sale of an excisable article punishable under Section 54 shall be compounded.] [Inserted by Rajasthan Act 30 of 1976.]
+(2)
+On the payment of such sums of money to such officer, the accused person, if in custody, shall be discharged, the property seized shall be released and no further proceedings shall be taken against such person or property in respect of such offence.
+Chapter X
+Miscellaneous
+71. Exemption.
+(1)
+Nothing in the foregoing provisions of this Act applies to the import, manufacture, possession, sale or supply of any bonafide medicated article for medicinal purposes by medical practitioners, chemists, druggists, apothecaries or keepers of dispensaries, except in so far as the Government may by notification in the [Official Gazette] [Substituted by Rajasthan Act 38 of 1957.] so direct.
+(2)
+[ Where in the opinion of the] [Substituted by Rajasthan Act 35 of 1956.] [State Government] [Substituted by Rajasthan Act 38 of 1957.] reasonable grounds exist for doing so, the [State Government] [Substituted by Rajasthan Act 38 of 1957.] may, by like notification and subject to such conditions and restrictions as it may impose, exempt and person or class of persons or any excisable article from all or any of the provisions of this act or of the rules made thereunder either [throughout the territories to which this Act extends] [Substituted by Rajasthan Act 38 of 1957.] or in any specified part thereof or for any specified period or occasion.
+(3)
+every notification issued by the State Government under sub-section (1) or sub-section (2) shall be laid before the House of State Legislature at the session thereof next following and shall be liable to be rescinded or modified by a resolution of that House.
+72. Publication of rules and notification.
+- All rules made and notifications issued under this Act shall be published in the [Official Gazette] [Substituted by Rajasthan Act 38 of 1957.] and shall thereupon have effect as if enacted in this Act from the date of such publication or from such other date, as may be specified in that behalf.
+73. [ Bar of certain suits. [Substituted by Rajasthan Act 28 of 1961.]
+- No suit prosecution or other legal proceedings shall lie against the State Government or against any officer or person for any thing in good faith done or intended to be done in pursuance of this Act.]
+74. Powers exercisable from time to time.
+- Any power conferred by this Act on the Excise Commissioner may be exercised from time to time as occasion requires.
+75. [ .........] [Omitted by Rajasthan Act 38 of 1957.]
+[ScheduleI........] [Omitted by Rajasthan Act 4 of 1967.]
+[ScheduleII] [Inserted by Rajasthan Act 28 of 1961.]
+Bond for abstaining from the commission of offences under the Rajasthan Excise Act, 1950
+Whereas I (name)........... S/o......Caste..... inhabitant of (place).... district.... have been called upon to execute a bond to abstain from the commission of any offence under the Rajasthan Excise act., 1950 for the term of (state the period) I hereby bind myself not to commit any such offence during the said term and in case of my making default therein I hereby bind myself to forfeit to the State Government for the sum of Rs ........
+Dated this... day of....... 20....
+(Signature)
+(Where a bond with surety or sureties is to be executed, add)
+I/We do hereby declare myself/ourselves surety/sureties for the above named....... that he will abstain from commission of any offence under the Rajasthan Excise Act, 1950, during the aforesaid term, and in case of his making any default therein, I/We bind myself/ourselves jointly and severally to forfeit to the State Government the sum of rupees.........
+Dated this........ day of......... 20....
+(Signature)
+[Appendix A]
+[First published in Rajasthan Rajpatra, Part 4-A, Extraordinary, dated 5.12.1957]
+Notifications
+S.O. 135. - In exercise of the powers conferred by sub-sec. (2) of Sec. 71 of the Rajasthan Excise Act, 1950 (Act No. II of 1950), the State Government being of the opinion that reasonable grounds exist for doing so, hereby exempts from payment of permit fee payable for transport within State prescribed under Rule 69-B of the Rajasthan Excise Rules, 1956 in respect of quantity of Rectified Spirit of Extra Neutral Alcohol Transported by the distilleries situated in Rajasthan to such bottling plants for manufacture of country liquor under franchise agreement during the period from 12.4.2006 to 12.8.2007 and from 5.5.2008 to 31.3.2012. The permit fee already deposited shall not be refunded.
+[Noti. No. F. 4(44) FD/Excise/2005-Part-II, dt. 7.8.2014 - Raj. Gaz., Exty., Pt. IV(C)(II), dt. 11.8.2014, pp. 67 to 68] = 2015 RSCS/II/P. 21/H. 27

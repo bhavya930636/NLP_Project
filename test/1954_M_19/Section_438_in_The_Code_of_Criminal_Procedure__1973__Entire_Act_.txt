@@ -1,0 +1,82 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Union of India - Section
+Section 438 in The Code of Criminal Procedure, 1973
+438. Direction for grant of bail to person apprehending arrest.
+- [(1) Where any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest he shall be released on bail; and that Court may, after taking into consideration, inter alia, the following factors, namely:-
+(i)
+the nature and gravity of the accusation;
+(ii)
+the antecedents of the applicant including the fact as to whether he has previously undergone imprisonment on conviction by a Court in respect of any cognisable offence;
+(iii)
+the possibility of the applicant to flee from justice; and
+(iv)
+where the accusation has been made with the object of injuring or humiliating the applicant by having him so arrested, either reject the application forthwith or issue an interim order for the grant of anticipatory bail:
+Provided that, where the High Court or, as the case may be, the Court of Session, has not passed any interim order under this sub-Section or has rejected the application for grant of anticipatory bail, it shall be open to an officer incharge of a police station to arrest, without warrant, the applicant on the basis of the accusation apprehended in such application.
+(1-A) Where the Court grants an interim order under sub-Section (1), it shall forthwith cause a notice being not less than seven days notice, together with a copy of such order to be served on the Public Prosecutor and the Superintendent of Police, with a view to give the Public Prosecutor a reasonable opportunity of being heard when the application shall be finally heard by the Court.
+(1-B) The presence of the applicant seeking anticipatory bail shall be obligatory at the time of final hearing of the application and passing of final order by the Court, if on an application made to it by the Public Prosecutor, the Court considers such presence necessary in the interest of justice] [Substituted by Act 25 of 2005, Section 38, for sub-Section (1). Prior to its substitution, sub-Section (1) read as under :- [(1) When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this Section; and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail].].
+(2)
+When the High Court or the Court of Session makes a direction under sub-section (1), it may include such conditions in such directions in the light of the facts of the particular case, as it may think fit, including -
+(i)
+a condition that the person shall make himself available for interrogation by a police officer as and when required;
+(ii)
+a condition that the person shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer;
+(iii)
+a condition that the person shall not leave India without the previous permission of the Court;
+(iv)
+such other condition as may be imposed under sub-section (3) of Section 437, as if the bail were granted under that section :
+Provided that where such penalty is not paid and cannot be recovered in the manner aforesaid, the person so bound as surety shall be liable, by order of the Court ordering the recovery of the penalty, to imprisonment in civil jail for a term which may extend to six months.
+(3)
+If such person is thereafter arrested without warrant by an officer in charge of a police station on such accusation, and is prepared either at the time of arrest or at any time while in the custody of such officer to give bail, he shall be released on bail; and if a Magistrate taking cognizance of such offence decides that a warrant should issue in the first instance against that person, he shall issue a bailable warrant in conformity with the direction of the Court under sub-section (1).
+(4)
+[ Nothing in this section shall apply to any case involving the arrest of any person on accusation of having committed an offence under sub-section (3) of section 376 or section 376AB or section 376DA or section 376DB of the Indian Penal Code.] [Inserted by Criminal Law (Amendment) Act, 2018 (22 of 2018), dated 11.8.2018.]
+Maharashtra.- For Section 438 of the Code of Criminal Procedure, 1973, in its application to the State of Maharashtra, the following section shall be substituted, namely, -
+"438. Direction for grant of bail to person apprehending arrest.- (1) When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest, he shall be released on bail; and that Court may, after taking into consideration, inter alia, the following factors :
+(i) the nature and gravity or seriousness of the accusation as apprehended by the applicant;
+(ii) the antecedents of the applicant including the fact as to whether he has, on conviction by a Court, previously undergone imprisonment for a term in respect of any cognisable offence;
+(iii) the likely object of the accusation to humiliate or malign the reputation of the applicant by having him so arrested; and
+(iv) the possibility of the applicant, if granted anticipatory bail, fleeing from justice;
+either reject the application forthwith or issue an interim order for the grant of anticipatory bail:
+Provided that, where the High Court or as the case may be, the Court of Session, has not passed any interim order under this sub-section or has rejected the application for grant of anticipatory bail, it shall be open to an officer-in-charge of a police station to arrest, without warrant the applicant on the basis of the accusation apprehended in such application.
+(2) Where the High Court or, as the case may be, the Court of Session, considers it expedient to issue an interim order to grant anticipatory bail under sub-section (1), the Court shall indicate therein the date, on which the application for grant of anticipatory bail shall be finally heard for passing an order thereon, as the Court may deem fit; and if the Court passes any order granting anticipatory bail, such order shall includeinter aliathe following conditions, namely :-
+(i) that the applicant shall make himself available for interrogation by a police officer as and when required;
+(ii) that the applicant shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the accusation against him so as to dissuade him from disclosing such facts to the Court or to any police officer,
+(iii) that the applicant shalt not leave India without the previous permission of the Court; and
+(iv) such other conditions as may be imposed under sub-section (3) of Section 437 as if the bail was granted under that section.
+(3) Where the Court grants an interim order under sub-section (1), it shall forthwith cause a notice, being not less than seven days' notice, together with a copy of such order to be served on the Public Prosecutor and the Commissioner of Police, or as the case may be, the concerned Superintendent of Police, with a view to give the Public Prosecutor a reasonable opportunity of being heard when the application shall be finally heard by the Court.
+(4) The presence of the applicant seeking anticipatory bail shall be obligatory at the time of final hearing of the application and passing of final order by the Court, if on an application made to it by the Public Prosecutor, the Court considers such presence necessary in the interest of justice.
+(5) On the date indicated in the interim order under sub-section (2), the Court shall hear the Public Prosecutor and the applicant and after due consideration of their contentions, it may either confirm, modify or cancel the interim order made under sub-section (1)." [Maharashtra Act No. 24 of 1993, Section 2, w.e.f. 1st October, 1993].
+ORISSA.- Add the following proviso to sub-section (1) of Section 438 -
+"Provided that where the apprehended accusation relates to an offence punishable with death, imprisonment for life or imprisonment for a term of not less than seven years, no final order shall be made on such application without giving the State notice to present its case." [Orissa Act No. 11 of 1988, Section 9, w.e.f. 22.7.1988].
+UTTAR PRADESH.- In its application to U.P. Section 438 of the Code shall be omitted. [U.P. Act 16 of 1976, Section 9, w.e.f. 28.11.1976.]
+WEST BENGAL.- Add the following proviso to sub-section (1) of Section 438 -
+"(1)(a) When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest, he shall be released on bail :
+Provided that the mere fact that a person has applied to the High Court or the Court of Session for a direction under this section shall not, in the absence of any order by that Court, be a bar to the apprehension of such person, or the detention of such person in custody, by an officer in charge of a police station.
+(b) The High Court or the Court of Session, as the case may be, shall dispose of an application for a direction under this sub-section within thirty days of the date of such application :
+Provided that where the apprehended accusation relates to an offence punishable with death, imprisonment for life or imprisonment for a term of not less that seven years, no final order shall be made on such application without giving the State not less than seven days' notice to present its case.
+(c) If any person is arrested and detained in custody by an officer in charge of a police station before the disposal of the application of such person for a direction under this sub-section, the release of such person on bail by a Court having jurisdiction, pending such disposal, shall be subject to the provisions of section 437.
+(1-A) The provisions of sub-section (1) shall have effect notwithstanding anything to the contrary contained elsewhere in this Act or in any judgment, decree or order of any Court, tribunal or other authority." [West Bengal Act 25 of 1990, Section 3, w.e.f. 1.10.1992
+UTTAR PRADESH.- Insertion of Section 438 in Act No. 2 of 1974 as amended in its application to Uttar Pradesh.-In the Code of Criminal Procedure, 1973 as amended in its application to Uttar Pradesh, after Section 437-A the following section shall be inserted, namely:-
+"438. Direction for grant bail to person apprehending arrest.- (1) Where any person has reason to believe that he may be arrested on accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest he shall be released on bail: and that Court may, after taking into consideration, inter alia, the following factors, namely-
+(i) the nature and gravity of the accusation;
+(ii) the antecedents of the applicant including the fact as to whether he has previously undergone imprisonment on conviction by a Court in respect of any cognizable offence;
+(iii) the possibility of the applicant to flee from justice; and
+(iv) where the accusation has been made with the object of injuring or humiliating the applicant by having him so arrested;
+either reject the application forthwith or issue an interim order for the grant of anticipatory bail:
+Provided that where the High Court or, as the case may be, the Court of Session, has not passed any interim order under this sub-section or has rejected the application for grant of anticipatory bail, it shall be open to an officer in-charge of a police station to arrest, without warrant, the applicant on the basis of the accusation apprehended in such application.
+(2) Where the High Court or, as the case may be, the Court of Session," considers it expedient to issue an interim order to grant anticipatory bail under sub-section (1), the Court shall indicate therein the date, on which the application for grant of anticipatory bail shall be finally heard for passing an order thereon, as the Court may deem fit, arid if the Court passes any order granting anticipatory bail, such order shall include inter alia the following conditions, namely-
+(i) that the applicant shall make himself available for interrogation by a police officer as and when required;
+(ii) that the applicant shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer,
+(iii) that the applicant shall not leave India without the previous permission of the Court; and ,
+(iv) such other conditions as may be imposed under sub-section (3) of Section 437, as if the bail were granted under that section.
+Explanation.- The final order made on an application for direction under sub-section (1); shall not be construed as an interlocutory order for the purpose of this Code.
+(3) Where the Court grants an interim order under sub-section (1), it shall forthwith cause a notice being not less than seven days notice, together with a copy of such order to be served on the Public Prosecutor and the Superintendent of Police, with a view to give the Public Prosecutor a reasonable opportunity of being heard when the application shall be finally heard by the Court.
+(4) On the date indicated in the interim order under sub-section (2), the Court shall hear the Public Prosecutor and the applicant and after due consideration of their contentions, it may either confirm, modify or cancel the interim order.
+(5) The High Court or the Court of Session, as the case may be, shall finally dispose of an application for grant of anticipatory bail under sub-section (1), within thirty days of the date of such application;
+(6) Provisions of this section shall not be applicable,-
+(a) to the offences arising out of,-
+(i) the Unlawful Activities (Prevention) Act, 1967;
+(ii) the Narcotic Drugs and Psychotropic Substances Act, 1985;
+(iii) the Official Secret Act, 1923;
+(iv) the Uttar Pradesh Gangsters and Anti-Social Activities (Prevention) Act, 1986.
+(b) in the offences, in which death sentence can be awarded.
+(7) If an application under this section has been made by any person to the High Court, no application by the same person shall be entertained by the Court of Session." [U.P. Act No. 4 of 2019, w.e.f. 1.6.2019.]

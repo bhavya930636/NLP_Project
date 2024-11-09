@@ -1,0 +1,17 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Union of India - Section
+Section 11 in The Indian Evidence Act, 1872
+11. When facts not otherwise relevant become relevant.
+Facts not otherwise relevant are relevant -
+(1)
+if they are inconsistent with any fact in issue or relevant fact;
+(2)
+if by themselves or in connection with other facts they make the existence or non-existence of any fact in issue or relevant fact highly probable or improbable.
+Illustrations
+(a)
+The question is, whether A committed a crime at Calcutta on a certain day.
+The fact that, on that day, A was at Lahore is relevant.
+The fact that, near the time when the crime was committed, A was at a distance from the place where it was committed, which would render it highly improbable, though not impossible, that he committed it, is relevant.
+(b)
+The question is, whether A committed a crime.
+The circumstances are such that the crime must have been committed either by A, B, C or D. Every fact which shows that the crime could have been committed by no one else, and that it was not committed by either B, C or D, is relevant.

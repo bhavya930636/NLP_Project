@@ -1,0 +1,36 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Andhra High Court
+State Of A.P. vs Amara Raja Batteries on 18 August, 1998
+Equivalent citations: [1998]111STC664(AP)
+Author: T. Ranga Rao
+Bench: T. Ranga Rao
+JUDGMENT
+ 
+
+S.V. Maruthi, J. 
+ 
+1. These three T.R.Cs. are disposed of by a common judgment as the issue involved is common to all the TRCs.
+2. The brief facts are as follows :
+Amara Raja Batteries Limited, Tirupathi, are the assessees on the rolls of the Commercial Tax Officer, Tirupathi, for the assessment years 1991-92, 1992-93 and 1993-94. For the assessment year 1993-94 the question that arose for consideration was whether NICD batteries and other batteries manufactured by the assessee are eligible for concessional rate of duty under G.O. Ms, No. 520, Revenue dated July 20, 1988 on the ground that they are components of electronic goods. The Tribunal held that they are eligible for concessional rate of duty under G.O. Ms. No. 520 dated July 20, 1988.
+Aggrieved by the same, the Revenue filed the present T.R.Cs.
+3. The main arguments of the learned counsel for the Revenue is that NICD and other batteries cannot be treated as electronic goods as they do not fall under the twelve items enumerated in the said G.O. While learned counsel for the respondent contended that under the G.O., electronic components are entitled for concessional rate of duty as to the G.O., a note was appended making the memo issued by Electronic Commission a part of the G.O. and under the said memo, one of the items is batteries manufactured by them and therefore, the goods manufactured by them are eligible for the concessional rate of duty.
+4. To consider the arguments of the counsel for the Revenue as well as the assessee-respondent, it is necessary to refer to G.O. Ms. No. 520 dated July 20, 1988 and it reads as follows :
+"2. For the purpose of this notification the term 'electronic goods' means electronic systems, instruments, appliances, apparatus, equipment operating on electronic principles and all types of electronic components, parts and materials and includes :--
+(i) Consumer electronics ;
+(ii) Electronic test and measuring instruments ;
+(iii) Medical electronic equipment ;
+(iv) Electronic analytical instruments ;
+(v) Electronic equipment/instrument for nuclear geoscientific and other special applications ;
+(vi) Electronic process control equipment ;
+(vii) Power electronic equipment ;
+(viii) Electronic industrial automation and control equipment ;
+(ix) Electronic data processing systems and electronic office equipment ;
+(x) Electronic broadcasting equipment ;
+(xi) Electronic communication equipment ; and
+(xii) Electronic aerospace and defence equipment.
+III.--In exercise of the powers conferred by Sub-section (1) of Section 9 of the Andhra Pradesh General Sales Tax Act, 1957 (Andhra Pradesh Act No. VI of 1957), the Governor of Andhra Pradesh hereby exempts the sale of electronic goods specified in notification II above from the levy of turnover tax under Section 5-A(1) and surcharge on sales tax under Section 6-B of the said Act with effect from the 18th July, 1993.
+1. Substituted by G.O. Ms. No. 859, Revenue dated September 3, 1993 with effect from July 18, 1993 for the words 'additional tax'.
+Note : Government have clarified vide Memo No. 23718/CT-112/89 dated June 1, 1989 that concessional rate has to be extended to electronic goods enumerated in the list prepared by the Electronics Commission."
+A reading of the G.O. makes it clear, for the purpose of notification, the term "electronic goods" means electronic systems, instruments, appliances, apparatus, equipment operating on electronic principles and all types of electronic components, parts and materials and includes the twelve items mentioned in the paragraph. It further says under "Note" that already under Memo No. 23718/ CT-112/89 dated June 1, 1989, concessional rate of duty has been extended to the electronic goods enumerated in the list prepared by the Electronics Commission. In other words, the concessional rate of duty under G.O. Ms. No. 520 is extended to the electronic components and all other items enumerated in the list prepared by the Electronics Commission. One of the items mentioned in the list prepared by the Electronics Commission is batteries under item No. 13.93. The main heading in this list is electronic components. In other words, according to the list prepared by the Electronics Commission, other batteries are electronic components. From the above it is clear that under the list prepared by the Electronics Commission, batteries are electronic components and are eligible for concessional rate of duty under the G.O. by means of a "Note" appended to the G.O.
+5. G.O. Ms. No. 520 dated July 20, 1988 was issued under the A.P. General Sales Tax Act while G.O. Ms. No. 521 dated July 20, 1988 was issued under the Central Sales Tax Act. Even under G.O. Ms. No. 521, issued under the Central Sales Tax Act, concessional rate of duty was levied in respect of those electronic goods mentioned in the said G.O. Items enumerated in the said G.O. are exactly similar to the items mentioned in G.O. Ms. No. 520 dated July 20, 1988. Therefore, the interpretation to be placed on G.O. Ms. No. 520 dated July 20, 1988 is applicable even to G.O. Ms. No. 521 dated July 20, 1988. Since according to the list prepared by the Electronics Commission, the batteries are electronic components and since the electronic components are one of the items which are eligible for concessional rate of duty and since the clarification in the list prepared by the Electronics Commission is treated as part of the G.O. the batteries manufactured by the assessee are eligible for concessional rate of duty under G.O. Ms. No. 520, Revenue dated July 20, 1988 and G.O. Ms. No. 521 Revenue dated July 20, 1988 issued under the A.P. General Sales Tax Act and also Central Sales Tax Act.
+6. Therefore, we do not see any reason to disagree with the view expressed by the Tribunal holding that the batteries manufactured by the assessee are entitled for the benefit of concessional rate of duty under the respective G.Os. Therefore, the T.R.Cs. have no merits and they are accordingly dismissed. No costs.

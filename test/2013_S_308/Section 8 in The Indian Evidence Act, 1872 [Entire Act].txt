@@ -1,0 +1,48 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Union of India - Section
+Section 8 in The Indian Evidence Act, 1872
+8. Motive, preparation and previous or subsequent conduct.
+Any fact is relevant which shows or constitutes a motive or preparation for any fact in issue or relevant fact.
+The conduct of any party, or of any agent to any party, to any suit or proceeding, in reference to such suit or proceeding, or in reference to any fact in issue or relevant thereto, and the conduct of any person an offence against whom is the subject of any proceeding is relevant, if such conduct influences or is influenced by any fact in issue or relevant fact, and whether it was previous or subsequent thereto.
+Explanation 1. - The word "conduct" in this section does not include statements; unless those statements accompany and explain acts other than statements; but this explanation is not to affect the relevancy of statements under any other section of this Act.
+Explanation 2. - When the conduct of any person is relevant, any statement made to him or in his presence and hearing, which affects such conduct, is relevant.
+Illustrations
+(a)
+A is tried for the murder of B.
+The facts that A murdered C, that B knew that A had murdered C, and that B had tried to extort money from A by threatening to make his knowledge public, arm relevant.
+(b)
+A sues B upon a bond for the payment of money. B denies the making of a bond.
+The fact that, at the time when the bond was alleged to be made, B required money for a particular purpose, is relevant.
+(c)
+A is tried for the murder of B by poison.
+The fact that, before the death of B, A procured poison similar to that which was administered to B, is relevant.
+(d)
+The question is, whether certain document is the will of A.
+The facts that, not long before the date of alleged will, A made inquiry into matter to which the provisions of the alleged will relate; that he consulted vakils in reference to making the will, and that he caused drafts of other wills to be prepared of which he did not approve, are relevant.
+(e)
+A is accused of a crime.
+The facts that, either before or at the time of, or after the alleged crime, A provided evidence which would tend to give to the facts of the case an appearance favourable to himself, or that he destroyed or concealed evidence, or prevented the presence or procured the absence of persons who might have been witnesses, or, suborned persons to give false evidence respecting it, are relevant.
+(f)
+The question is, whether A robbed B.
+The facts that, after B was robbed, C said in A's presence - "the police are coming to look for the man who robbed B", and that immediately afterwards A ran away, are relevant.
+(g)
+The question is, whether A owes B Rs. 10,000.
+The facts that A asked C to lend him money, and that D said to C in A's presence and hearing - "I advise you not to trust A, for he owes B 10, 000 rupees," and that A went without making any answer, are relevant facts.
+(h)
+The question is, whether A committed a crime.
+The fact that A absconded after receiving a letter warning him that inquiry was being made for the criminal, and the contents of the letter, are relevant.
+(i)
+A is accused of a crime.
+The facts that, after commission of the alleged crime, he absconded, or was in possession of property or the proceeds of property acquired by the crime, or attempted to conceal things which were or might have been used in committing it, are relevant.
+(j)
+The question is, whether A was ravished.
+The facts that, shortly after the alleged rape, she made a complaint relating to the crime, the circumstances under which, and terms in which, the complaint was made, are relevant.
+The fact that, without making a complaint, she said that she had been ravished is not relevant as conduct under this section, though it may be relevant,
+as a dying declaration under section 32, clause (1),
+or as corroborative evidence under section 157.
+(k)
+The question is, whether A was robbed.
+The fact that, soon after the alleged robbery, he made a complaint relating to the offence, the circumstances under which, and the terms in which, the complaint was made, are relevant.
+The fact that he said he had been robbed, without making any complaint, is not relevant, as conduct under this section, though it may be relevant;
+as a dying declaration under section 32, clause (1), or
+as corroborative evidence under section 157.

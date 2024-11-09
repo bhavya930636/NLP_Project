@@ -1,0 +1,109 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Supreme Court of India
+Nar Singh And Another vs The State Of Uttar Pradesh on 5 May, 1954
+Equivalent citations: 1954 AIR 457, 1955 SCR 243, AIR 1954 SUPREME COURT 457
+Author: Vivian Bose
+Bench: Vivian Bose, B.K. Mukherjea, Ghulam Hasan
+           PETITIONER:
+NAR SINGH AND ANOTHER
+
+ Vs.
+
+RESPONDENT:
+THE STATE OF UTTAR PRADESH.
+
+DATE OF JUDGMENT:
+05/05/1954
+
+BENCH:
+BOSE, VIVIAN
+BENCH:
+BOSE, VIVIAN
+MUKHERJEA, B.K.
+HASAN, GHULAM
+
+CITATION:
+ 1954 AIR  457    1955 SCR  243
+ CITATOR INFO :
+ R     1955 SC 778  (15)
+ F     1956 SC 181  (13)
+ F     1956 SC 411  (1)
+ F     1956 SC 757  (3)
+ F     1958 SC  22  (6)
+ F     1960 SC 289  (18)
+ RF     1965 SC1467  (6,12)
+ RF     1989 SC 653  (9)
+
+
+ACT:
+Constitution of India-Articles 134(1)(c) and 136(1)-certifi-
+cate  by  High Court wrongly granted  under  art.  134(1)(c)
+under  wrong  view  of law-Interference  by  Supreme  Court-
+Special Leave under art. 136(1).
+
+
+
+HEADNOTE:
+Out  of 24 persons originally tried under  sections  302/149
+etc.   I.P.C.  only three were ultimately convicted  by  the
+High Court.  The High Court however by mistake convicted  N,
+one  of  the  three, whom it meant  to acquit.   Later,  it
+communicated  its mistake to Government.  Government  passed
+orders remitting  the sentence mistakenly passed on  N  and
+directed  his  release.   N  and  the  other  two   convicts
+presented  an  application  under article  134(1)(c)  for  a
+certificate.   The  High Court granted a  certificate  to  N
+considering  that  otherwise  the stigma of  the  charge  of
+murder might affect him adversely in the future.  As regards
+the  other two, there was nothing in their cases to  warrant
+the issue of a certificate but the High Court granted them a
+certificate  thinking  that it was bound to  do  so  because
+article  134(1)(c)  speaks  of a "case" and  the  only case
+before it was the appeal as a whole.
+Hold, (1) that the view of the High Court was wrong  because
+the word "case" used in article 134(1)(c) means the case  of
+each individual person.
+(2)  That  the High Court had misdirected itself  about  the
+law in respect of the two convicts and did not exercise  the
+discretion  vested  in it thinking either that  it  had  no
+discretion in the matter or that its discretion was fettered
+and  therefore the Supreme Court having general  powers  of
+judicial superintendence over all Courts in India was  bound
+to interfere.
+239
+(3)  The  appeal must fail as the certificate under  article
+134(1)(c)  was wrongly granted and in view of the facts  the
+case  was not a proper one for special leave  under  article
+136(1).
+Subhanand  Chowdhury v. Apurba Krishna Mitra ([1940]  F.C.R.
+31),  Banarsi Parshad v. Kashi Krishna (28 I.A. 11  at 13).
+Radhakrishna  Ayyar v. Swaminatha Ayyar (48 I.A. 31 at 34),
+Radha Krishn Das v. Rai Krishn Chand (28 I. A. 182 at  183),
+Swaminarayan  Jethalal v. Acharya  Devendraprasadji  (A.I.R.
+1946 P.C. 100, 102), Bhagbati Dei v. Muralidhar Sahu (A.I.R.
+1943  P.C.  106,  108) and Brij Indar Singh  v.  Kanshi  Ram
+(I.L.R. 45 Cal. 94, 107) referred to.
+
+
+
+JUDGMENT:
+CRIMINAL APPELLATE JURISDICTION : Criminal Appeal No. 4 of 1952.
+Appeal under Article 134(1)(c) of the Constitution of India from the Judgment and Order dated the 7th May, 1951, of the High Court of Judicature at Allahabad in Criminal Appeal No. 350 of 1950 arising out of the Judgment and Order dated the 9th March, 1950, of the Court of the Additional Sessions Judge, Etah in Sessions Trials Nos. 127 of 1949 and 10 of 1950.
+S. P. Verma for the appellant.
+C. P. Lal for the respondent.
+1954. May 5. The Judgment of the Court was delivered by BOSE J.-Twenty-four persons, among them the two appellants, were tried for offences under sections 148, 307/149 and 302/149, Indian Penal Code. Sixteen were acquitted and the remainmg eight were convicted. On appeal to the High Court five more were acquitted and the only ones whose convictions were upheld were the two appellants, Nar Singh and Roshan Singh, and one Nanhu Singh.
+By a curious misreading of the evidence this Nanhu Singh was mixed up with Bechan Singh. What the High Court really meant to do was to convict Bechan Singh and acquit Nanhu Singh. Instead of that they acquitted Bechan Singh and convicted Nanhu Singh. As soon as the learned High Court Judges realised their mistake they communicated with the State Government and an order was thereupon passed by that Government remitting the sentence mistakenly Passed on Nanhu and directing that he be released.
+This occasioned an application under article 134(1) (c) of the Constitution by Nanhu Singh and the two appellants Nar Singh and Roshan Singh for a certificate. The High Court rightly considered that the certificate should issue in the case of Nanhu Singh because, despite the remission of his sentence by the State Government and his release, his conviction on, among other things, a charge of murder still stood, and the High Court, understandably, thought that the stigma of that might affect him adversely in the future. As regards the other two there was nothing in their cases to warrant the issue of a certificate but the learned High Court Judges thought (wrongly in our opinion) that they were bound to do so because article 134(1) (c) speaks of a " case " and they considered that the only CC case " before them was the appeal as a whole. That, in our opinion, is wrong.
+" Case " as used there means the case of each individual person. That would be so even if the trial had been by the High Court itself but it is even more so on appeal because, though several persons may join in presenting a common memorandum of appeal (if the Rules of the Court in question so permit), the appeal of each forms a separate " case " for those purposes. That is obvious from the fact that every person who is convicted need not appeal nor need several convicts appeal at the same time under a joint memorandum; and if it were necessary to send up the " case " as a whole in the sense which the learned High Court Judges contemplate, it would be necessary to join even those who were acquitted so that the " case " (in that sense) could be reviewed in its entirety. We are clear that that is not the meaning of the word in the context of article 134(1) and that the High Court was wrong in thinking that it was. Having obtained the certificate Nanhu did not appeal and the only ones who have come up here are the two convicts. Had they come up independently and presented a petition for special leave under article 136 their petition would at once have been dismissed because there is nothing special in their cases to justify an appeal under that article. The evidence against them is clear and it has been believed, accordingly, following our usual rule, we would have rejected the petition in limine. But, it was contended on their behalf that having obtained a certificate we have now become an ordinary Court of appeal and are bound to hear their case as an appellate Court both on facts and on law. Reliance was placed on a decision of the Federal Court reported in Subhanand Chowdhary v. Apurba Krishna Mitra(1). We do not think the judgment of the Federal Court can be applied to this case. It deals with section 205 of the Government of India Act, 1935, covering a different subject and does not use the same or similar words.
+This Court has general powers of judicial superintendence over all Courts in India and is the ultimate interpreter and guardian of the Constitution. It has a duty to see that its provisions are faithfully observed and, where necessary, to expound them. Article 134(1) (c) uses the same language as article 133(1) (c). A certificate is, required under article 133(1). in each of the four cases set out there but the mere grant of the certificate would not preclude this Court from determining whether it was rightly granted and whether the conditions prerequisite to the grant are satisfied. In the case of clause (c) both of article 133(1) and article 134(1), the only condition is the discretion of the High Court but the discretion is a judicial one and must be judicially exercised along the well established lines which govern these matters (see Banarsi Parshad v. Kashi Krishna (2); also the certificate must show on the face of it that the discretion conferred was invoked and exercised:
+Radhakrishna Ayyar v. Swaminatha Ayyar (3) and Radha Krishn Das v. Rai Krishn Chand (4). If it is properly exercised on well established and proper lines, then, as in all questions where an exercise of discretion is involved, there would be no interference except on very strong grounds: Swaminarayan Jethalal v. Acharya Devendraprasadji (5) and Bhagbati Dei v. Muralidhar Sahu (6). But if, on the face of the order, it is apparent that the Court has misdirected itself and considered that its discretion was (1) (1940] F.C.R. 31. (4) 28 I.A. 182 at 183.
+(2) 28 I.A. 11 at 13. (5) A.I.R. 1946 P.C. 100, 102. (3) 48 I.A. 311 at 34. (6) AI.R. 1943 P.C. 106, 108 fettered when it was not, or that it had none, then the superior Court must either remit the case or exercise the discretion itself : Brij Indar Singh v. Kanshi Ram (1).
+These are the well known lines on which questions of discretion are dealt with in the superior Courts and they apply with as much force to certificates under article 134(1) (c) as elsewhere.
+In the present case, the learned High Court Judges thought they had no option. They misdirected themselves about the law and as a consequence did not exercise the discretion which is vested in them. They are quite clear as to what they would have done if, in their judgment, the law had left them scope for the exercise of any discretion, for they say-
+" Ordinarily no certificate can be granted to them as there is nothing of an exceptional nature in their cases. "
+We hold therefore that the certificate was wrongly granted to the appellants and will treat their case as one under article 136(1) for special leave.
+Regarded from that angle, this is not a proper case for special leave. The High Court gives a clear finding that there were more than five persons and believes the eye- witnesses who identify the two appellants. The mere fact that only two out of the band of attackers were satisfactorily identified does not weaken the force of the finding that more than five were involved. The use of section 149, Indian Penal Code, was therefore justified and the convictions are proper.
+We see no reason to interfere with the sentences. A number of persons joined in an attack at two in the morning on helpless persons who were asleep in bed. At least one of the assailants was armed either with a gun or a pistol. He shot one man dead and attempted to murder another, and the band looted their property. The sentences of two years, four years and transportation are therefore not severe and call for no review.
+The appeal fails and is dismissed.
+Appeal dismissed.
+I.L.R. 45 Cal. 94,107.

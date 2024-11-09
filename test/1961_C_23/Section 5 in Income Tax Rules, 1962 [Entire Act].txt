@@ -1,0 +1,36 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Union of India - Section
+Section 5 in Income Tax Rules, 1962
+5. Depreciation.
+(1)
+Subject to the provisions of sub-rule (2), the allowance under clause (ii) of sub- section (1) of section 32 in respect of depreciation of any block of assets shall be calculated at the percentages specified in the second column of the Table in Appendix I to these rules on the written down value of such block of assets as are used for the purposes of the business or profession of the assessee at any time during the previous year:
+Provided that in case of a domestic company which has exercised option under sub-section (4) of section 115BA, the allowance under clause (ii) of sub-section (1) of section 32 in respect of depreciation of any block of assets entitled to more than forty per cent shall be restricted to forty per cent on the written down value of such block of assets.
+(1A)
+The allowance under clause (i) of sub-section (1) of section 32 of the Act in respect of depreciation of assets acquired on or after 1st day of April, 1997 shall be calculated at the percentage specified in the second column of the Table in Appendix IA of these rules on the actual cost thereof to the assessee as are used for the purposes of the business of the assessee at any time during the previous year :
+Provided that the aggregate depreciation allowed in respect of any asset for different assessment years shall not exceed the actual cost of the said asset :
+Provided further that the undertaking specified in clause (i) of sub-section (1) of section 32 of the Act may, instead of the depreciation specified in Appendix IA, at its option, be allowed depreciation under sub-rule (1) read with Appendix I, if such option is exercised before the due date for furnishing the return of income under sub-section (1) of section 139 of the Act,
+(a)
+for the assessment year 1998-99, in the case of an undertaking which began to generate power prior to 1st day of April, 1997; and
+(b)
+for the assessment year relevant to the previous year in which it begins to generate power, in case of any other undertaking :
+Provided also that any such option once exercised shall be final and shall apply to all the subsequent assessment years.
+(2)
+Where any new machinery or plant is installed during the previous year relevant to the assessment year commencing on or after the 1st day of April, 1988, for the purposes of business of manufacture or production of any article or thing and such article or thing-
+(a)
+is manufactured or produced by using any technology (including any process) or other know-how developed in, or
+(b)
+is an article or thing invented in, a laboratory owned or financed by the Government or a laboratory owned by a public sector company or a University or an institution recognised in this behalf by the Secretary, Department of Scientific and Industrial Research, Government of India,
+such plant or machinery shall be treated as a part of block of assets qualifying for depreciation at the rate of 40 per cent of written down value, if the following conditions are fulfilled, namely :-
+(i)
+the right to use such technology (including any process) or other know- how or to manufacture or produce such article or thing has been acquired from the owner of such laboratory or any person deriving title from such owner ;
+(ii)
+the return furnished by the assessee for his income, or the income of any other person in respect of which he is assessable, for any previous year in which the said machinery or plant is acquired, shall be accompanied by a certificate from the Secretary, Department of Scientific and Industrial Research, Government of India, to the effect that such article or thing is manufactured or produced by using such technology (including any process) or other know-how developed in such laboratory or is an article or thing invented in such laboratory ; and
+(iii)
+the machinery or plant is not used for the purpose of business of manufacture or production of any article or thing specified in the list in the Eleventh Schedule to the Act.
+Explanation. - For the purposes of this sub-rule,-
+(a)
+"laboratory financed by the Government" means a laboratory owned by any body including a society registered under the Societies Registration Act, 1860 (21 of 1860), and financed wholly or mainly by the Government ;
+(b)
+"public sector company" means any corporation established by or under any Central, State or Provincial Act or a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956) ; and
+(c)
+"University" means a University established or incorporated by or under a Central, State or Provincial Act and includes an institution declared under section 3 of the University Grants Commission Act, 1956 (3 of 1956), to be a University for the purposes of that Act.

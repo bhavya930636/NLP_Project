@@ -1,0 +1,1109 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+Union of India - Act
+Indian Companies Act, 1913
+UNION OF INDIA
+India
+Indian Companies Act, 1913
+Act 7 of 1913
+Published in Gazette of India on 27 March 1913
+Not commenced
+[This is the version of this document from 1 January 1930.]
+[Note: The original publication document is not available and this content could not be verified.]
+[Amended by The Indian Companies (Amendment) Act, 1930 (Act 19 of 1930) on 1 January 1930]
+An Act to Consolidate and Amend the law relating to Trading Companies and other Associations.
+Whereas it is expedient to Consolidate and amend the law relating to Trading Companies and other Associations; It is herby enacted as Follows:-
+1. Short Title, Commencement And Extent
+(1)
+This Act may be called the Indian Companies Act, 1913.
+(2)
+It shall come into force on the first day of April 1911; and
+(3)
+It extends to the whole of British India including British Baluchistan and the Sambhal Parganas.
+2. Definitions.
+In this Act, unless there is anything repugnant in the subject or context:-
+(1)
+" articles " means the articles of association of a company as originally framed or as altered by special resolution, including, so far as they apply to the company, the regulations contained (as th case may be) in Table B in the Schedule annexed to Act No, XIX of 1857 or Table A in the First Schedule annexe to the Indian Companies Act, 1882, or in Table A in the First Schedule annexe to this Act.
+(2)
+"company" means a company formed and registered under this Act or an existing company:
+(3)
+"The Court" means the Court having jurisdiction under this Act:
+(4)
+"Debenture" includes debenture stock:
+(5)
+"Director" includes any person occupying the position of a director by whatever name called:
+(6)
+"District Court” means the principal Civil Court of original jurisdiction in a district, but does not include a High Court in the exercise of its ordinary original civil jurisdiction:
+(7)
+"Existing company" means a company formed and registered under the Indian Companies Act, 1866, or under any Act or Acts repealed thereby, or under the Indian Companies Act, 1882:
+(8)
+"Insurance company" means a company that carries on the business of insurance either solely or in common "with any other business or businesses:
+(9)
+"manager” includes any person occupying the position of a manager by whatever name called, and whether under a contract of service or not:
+(10)
+“Memorandum” means the memorandum of association of a company as originally framed or as altered in pursuance of the provisions of this Act:
+(11)
+"Officer" includes any director, manager or secretary but, save in sections 235, 236, and 237, does not include an auditor :
+(12)
+"prescribed” means, as respects the provisions of tins Act relating to the winding up of companies, prescribed by rules made by the High Court, and as respects; the other provisions of this Act, prescribed by the Governor General in Council:
+(13)
+“Private company which” means a Company which
+(i)
+by its articles:-
+(a)
+restricts the right to transfer its shares; and
+(b)
+limits the number of its members (exclusive of persons who are in the employ of the company) to fifty; and the
+(c)
+prohibits any invitation to the public to subscribe for shares or debentures of company :and
+(ii)
+continues to observe such restrictions, limitations and prohibitions:
+Provided that where two or more persons hold one or more shares in a company jointly they shall, for the purposes of this definition, be considered as a single member;
+(14)
+“Prospectus” means any prospectus, notice, circular, advertisement or other invitation, offering to the public for subscription or purchase any shares or debentures of a company:
+(15)
+“The registrar” means a registrar or assistant registrar performing under this Act the duly of registration of companies: and
+(16)
+"Share" means share in the share capital of the company, and includes stock except when a distinction between stock and shares is expressed or implied.
+3. Jurisdiction of the Courts.
+(1)
+The Court having "jurisdiction under this Act shall he the High Court having jurisdiction in the place at which the registered office of the company is situate:
+Provided that the Local Government may, by notification in the local official Gazette and subject to such restrictions and conditions as it thinks fit, empower any District Court to exercise all or any of the jurisdiction by this Act conferred upon the Court, and in that case such District Court shall, as regards the
+jurisdiction so conferred, be the Court in respect of all companies having their registered offices in the district.
+(2)
+For the purposes of jurisdiction to wind up companies, the expression ' registered office ' means the place which has longest been the registered office of the company during the six months immediately preceding the presentation of the petition for winding up.
+(3)
+Nothing in this section shall invalidate a proceeding by reason of its being taken in a wrong Court.
+Part II Constitution and Incorporation.
+4. Prohibition of partnerships exceeding certain number.
+(1)
+No company, association or partnership consisting of more than ten persons shall be formed for the purpose of carrying on the Business of banking unless it is registered as a company under this Act, or is formed in pursuance of an Act of Parliament or some other Act of the Governor General in Council, or of Royal Charter or Letters Patent.
+(2)
+No company, association or partnership consisting of more than twenty persons shall be formed for the purpose of carrying on any other business that has for its object the acquisition of gain by the company association or partnership, or by the individual members thereof, unless it is registered as a company under this Act, or is formed in pursuance of Act of Parliament or some other Act of the Governor General in Council or of Royal Charter or Letters Patent.
+Memorandum of Association.
+5. Mode of Forming incorporated company.
+Any seven or more persons (or, where the company to be formed will be a private company, any two or more persons) associated for any purpose may, by subscribing their names to a memo- random of association and otherwise complying with The requirements of this Act in respect of registration, form an incorporated company, with or without limited liability (that is to say), either:-
+(i)
+a company having the liability of its members limited by the memorandum to the amount, if any, unpaid on the shares respectively held by them (in this Act termed a company limited by shares) ; or
+(ii)
+a company having the liability of its members limited by the memorandum to such amount as the members may respectively thereby undertake to contribute to the assets of the company in the event of its being wound up (in this Act termed a company limited by guarantee); or
+(iii)
+a company not having any limit on the liability of its members (in this Act termed an unlimited company).
+6. Memorandum of Company limited by Shares
+In the case of a company limited by shares:-
+(1)
+the memorandum shall state:-
+(i)
+the name of the company with “Limited” as the last word in its name;
+(ii)
+the province in which the registered office of the company is to be situate;
+(iii)
+the objects of the company;
+(iv)
+that the liability of the members is limited;
+(v)
+the amount of share capital with which the company proposes to be registered, and the division thereof into shares of a fixed amount:
+(2)
+no subscriber of the memorandum shall take less than one share :
+(3)
+each subscriber shall write opposite to his name the number of shares he takes.
+7. Memorandum of company limited by guarantee.
+In the case of a company limited by guarantee:-
+(1)
+the memorandum shall state:-
+(i)
+the name of the company, with " Limited " as the last word in its name;
+(ii)
+the province in which the registered office of the company is to be situate;
+(iii)
+the objects of the company ;
+(iv)
+that the liability of the members is limited ;
+(v)
+that each member undertakes to contribute to the assets of the company in the event of its being wound up while he is a member, or within one year afterwards, for payment of the debts and liabilities of the company contracted before he ceases to be a member, and of the costs, charges and expenses of winding up, and for adjustment of the rights of the contributories among themselves, such amount as may be required, not exceeding a specified amount:
+(2)
+if the company has a share capital:-
+(i)
+the memorandum shall also state the amount of share capital with which the company Proposes to be registered and the division thereof into shares of a fixed amount;
+(ii)
+no subscriber of the memorandum shall take less than one share;
+(iii)
+each subscriber shall -write opposite to his
+8. Memorandum of unlimited company.
+In the case of an unlimited company:-
+(1)
+the memorandum shall state:-
+(f)
+the name of the company;
+(ii)
+the province in -which the registered office of the company is to be situate;
+(iii)
+the objects of the company;
+(2)
+if the company has a share capital:-
+(i)
+no subscriber of the memorandum shall take less than one share;
+(ii)
+each subscriber shall "write opposite to his name the number of shares he takes.
+9. Signature of memorandum
+The memorandum shall be signed by each subscriber in the presence of at least one witness who shall fittest the signature.
+10. Restriction on Alteration of memorandum.
+A company shall not alter the conditions contained in its memorandum except in the cases and in the mode and to the extent for which express provision is made in this Act.
+11. Name of company and Change of name.
+(1)
+A company shall not be registered by a name identical with that by which a company in existence is already registered, or so nearly resembling that name as to be calculated to deceive, except where the company in existence is in the course of being dissolved and signifies its consent in such manner as the registrar requires.
+(2)
+If a company, through inadvertence or otherwise is, without such consent aforesaid, registered by a name identical with that by which a company in existence is previously registered, or so nearly resembling it as to be Calculated to deceive, the First mentioned company may, with, the sanction of the registrar, change its name.
+(3)
+A company shall not he registered by a name which contains any of the following words, namely,:-
+"Crown", "Emperor", "Empire", "Empress", "Imperial", "King", "Queen", "Royal", or words expressing or implying the sanction, approval or patronage of the Crown or the Government of India or a Local Government, except where the Governor General in Council signifies his consent to the use of such words as part of the name of the company by order in writing under the hand of one of the Secretaries to the Government of India:
+Provided that nothing in this sub-section shall apply to companies registered before the commencement of this Act.
+(4)
+Any company may, by special resolution and subject of the approval of the Local Government signified in writing, under the hand of one of the Secretaries to such Government, change its name.
+(5)
+"Where a company changes its name, the registrar shall enter the new name on the register in place of the former name, and shall issue a certificate of incorporation altered to meet the circumstances of the case. On the issue of such a certificate, the change of name shall be complete.
+(6)
+The change of name shall not affect any rights or obligations of the company, or render defective any legal proceedings by or against the company; and any legal proceedings that might have been continued or commenced against it by its former name may be continued or commenced against it by its new name.
+12. Alteration of memorandum
+(1)
+Subject to the provisions of this Act, a company may, by special resolution, alter the provisions of its memorandum so as to change the place of the registered office from one province to another, or with respect to the objects of the company, so far as may be required to enable it:-
+(a)
+to carry on its business more economically or more efficiently; or
+(b)
+to attain its main purpose by new or improved means; or
+(c)
+to enlarge or change the local area of its operations; or
+(d)
+to carry on some business which under existing circumstances may conveniently or advantageously he combined with the business of the company; or
+(e)
+to restrict or abandon any of the objects specified in the memorandum.
+(2)
+The alteration shall not take effect until and expect in so far as it is confirmed by the Court on petition.
+(3)
+Before confirming the alteration, the Court must be satisfied:-
+(a)
+that sufficient notice has been given to every holder of debentures of the company, and to any persons or class of persons whose interests will, in (he Opinion of the Court, be affected by the alteration ; and
+(b)
+that with respect to every creditor who in the opinion of the Court is entitled to object, and who signifies his objection in manner directed by the Court, either his consent to the alteration has been obtained or his debt or claim has been discharged or has determined, or has been secured to tin- satisfaction of the Court:
+Provided that the Court may, in the case of any person or class, for special reasons, dispense with the notice required by this section.
+13. Power of Court Whom confirming alteration
+The Court may make an order confirming the alteration either wholly or in part, and on such terms
+and conditions as it thinks fit, and may make such order as to costs as it thinks proper.
+14. Exercise of discretion by Court.
+The Court shall, in exercising its discretion under sections 12 and 13, have regard to the lights and interests of the members of the company or of any class of them, as well as to the lights and interest of the creditors, and may, if it thinks fit, adjourn the proceedings in order that an arrangement may be made to the satisfaction of the Court for the purchase of the interests of dissentient members ; and may give such directions and make such orders as it may think expedient for facilitating or carrying into effect any such arrangement:
+Provided that no part of the capital of the company may be expended in any such purchase.
+15. Procedure on confirmation of the alteration.
+(1)
+A certified copy of the order confirming of the alteration, together with a printed copy of the memorandum as altered, shall, within three months from the date of the order, be filed by the company with the registrar, and he shall register the same, and shall certify the registration under his hand, and the certificate shall be conclusive evidence that all the requirements of this Act with respect to the alteration and the confirmation thereof have been complied with, and thenceforth the memorandum so altered shall be the memorandum of the company.
+(2)
+"Where the alteration involves a transfer of the registered office from one province to another, a certified copy of the order confirming such change shall be filed by the company with the registrar in each of such provinces, and each of such registrars shall register the same and shall certify under his hand the
+legistration thereof, and the registrar for the province from which such office is transferred shall send to the registrar for the other province all documents relating to the company registered or filed in his office.
+(3)
+Court may by order at any time extend the little for the filing of documents with the registrar his section for such period as the Court thinks proper.
+16. Effect of Failure to Register with in three months.
+No such alteration shall have any operation until registration thereof has been duly effected in Accordance with the provisions of section 15, and registration is not effected within three months next after the date of the order of the Court confirming the alteration, or within such further time as may be allowed by the Court in accordance with the provision of section 15, such alteration and order and all proceedings connected therewith shall, at the expiration of such period of three months or such further time, as the case may be, become absolutely null and void:
+Provided that the Court may, on sufficient cause shown, revive the order on application made within a further period of one month.
+Articles of Association.
+17. Registration of articles
+(1)
+There may, in the case of a company limited by shares, and there shall, in the case of a, company limited by guarantee or unlimited, be registered with the memorandum, articles of association signed by the subscribers to the memorandum and prescribing regulations for the company.
+(2)
+Articles of association may adopt all or any of the regulations contained in Table A in the First Schedule.
+(3)
+In the case of an unlimited company or a company limited by guarantee, the articles, if the company has a share capital, shall state the amount of share capital with which the company proposes to be registered.
+(4)
+In the case of an unlimited company or a company limited by guarantee, if the company has not -25 not a shave capital, the articles shall state the number of members with which the company proposes to be registered, for the purpose of enabling the registrar to determine the fees payable on registration.
+18. Application of table A.
+In the case of a company limited by shares and registered after the commencement of this Act, if articles arc not registered, or, if articles are registered, in so far as the articles do not exclude or modify the regulations in Table A in the First Schedule, those regulations shall, so far as a applicable, be the
+regulations of the company in the same manner and to the same extent as if they were contained in duly registered articles.
+19. Form and signature of articles.
+Articles shall:-
+(a)
+be printed;
+(b)
+be divided into paragraphs numbered consecutively; and
+(c)
+be signed by each subscriber of the memorandum of association in the presence of at least one witness who must attest the signature.
+20. Alteration of articles by special resolution.
+(1)
+Subject to the provisions of this Act and the conditions contained in its memorandum, a company may by special resolution alter or add to its articles; and any alteration or addition so made shall be as valid as if originally contained in the articles, and be subject in like manner to alteration by special
+resolution.
+(2)
+The power of altering articles under this section shall, in the case of any company formed and registered under Act No. XIX of 1857 and Act No. VII of 1860 or either of them, extend to altering any provisions in Table B annexed to Act XIX of 1857, and shall also, in the case of an unlimited company formed and registered under the said Acts or either of them, extend to altering any regulations relating to the amount of capital or its distribution into notwithstanding that those regulations arc contained in the memorandum.
+General Provisions.
+21. Effect of memorandum and Articles.
+The memorandum and articles shall, when registered, bind the company and the members thereof to the same extent as if they respectively had been and articles, signed by each member and contained a covenant the part of each member, his heirs, and legal representatives, to observe all the provisions of the memorandum and of the articles, subject to the provisions of this Act.
+All money payable by any member to the company under the memorandum or articles shall he a debt due from him to the company.
+22. Registration of Memorandum and Articles
+The memorandum and the articles (if any) shall he filed with the registrar for the province in which the registered office of the company is stated by the memorandum to be situate, and he shall retain and register them.
+23. Effect of Registration.
+(1)
+On the registration of the memorandum Effect of a company, the registrar shall certify under his hand t hat the company is incorporated, and in the case of a limited company that the company is limited.
+(2)
+From the date of incorporation mentioned in the certificate of incorporation, the subscribers of the memorandum, together with such other persons as may from time to time become members of the company, shall be a body corporate by the name contained in the memorandum, capable forthwith of exercising all the functions of an incorporated company, and having perpetual succession and a common seal, but with such liability on the part of the members to contribute to the assets of the company ii the event of its being wound up as is mentioned in this Act.
+24. Conclusiveness of certificate of incorporation.
+(1)
+A certificate of incorporation given by the registrar in respect of any association shall Conclusive corporation conclusive evidence that all the requirements of this Act in respect of registration and of matters precedent and incidental thereto have been complied with, and that the association is a company authorised to be registered and duly registered under this Act.
+(2)
+A declaration by an advocate, attorney or pleader entitled to appear before a High Court who is
+engaged in the formation of a company, or by a person named in the articles as a director, manager or
+secretary of the company, of compliance with all or any of the said requirements shall be filed with the
+registrar, and the registrar may accept such a. declaration as sufficient evidence of compliance.
+25. Copies of memorandum and articles to be giver, to members.
+(1)
+Every company shall send to every member, at his request, and on payment of one rupee or such less such as the company may prescribe, a copy of the memorandum and of the articles (if any).
+(2)
+If a company makes default in complying with the requirements of this section, it shall be liable for each offence to a fine not exceeding ten rupees.
+Associations not for Profit.
+26. Power to dispense with “Limited” name of charitable and other companies.
+(1)
+where it is proved to the satisfaction of the Local Government that an association capable - of being formed as a limited company has been or is about to be formed for promoting commerce, art, science, charity, or any other useful object, and applies or intends to apply its profits (if any) or other income in promoting its objects, and to prohibit the payment of any dividend to its members, the Local Government may, by license under the hand of one of its Secretaries, direct that the association be registered as a company with limited liability, without the addition of the word “Limited” to its name, and the association may be registered accordingly.
+(2)
+A license by the Local Government under this section may be granted on such conditions and subject to such regulation as the Local Government thinks, fit, and those conditions and regulation shall be binding on the association, and shall, if the Local Government so directs, be inserted in the memorandum and articles, or in one of those documents.
+(3)
+The association shall on registration enjoy all the privileges of limited companies, and be subject lo all their obligations, except those of using the word "Limited" as any part of its name and of publishing its name, and of filing lists of members and directors and managers with the registrar.
+(4)
+A license under this section may at any time be revoked by the Local Government, and upon re-vocation the registrar shall enter the word "Limited" v the end of the name of the association upon the and the association shall cease to enjoy the, exemptions and privileges granted by this section:
+Provided that, before a license is so revoked, the Government shall give to the association notice in writing of its intention, and shall afford the association an opportunity of submitting a representation in opposition to the revocation.
+Companies limited by Guarantee.
+27. Provision as to companies limited by guarantee.
+(1)
+In the case of a company limited by and not having a share capital, and registered after the commencement of this Act, every provision in the memorandum or articles or in any resolution of the company purporting to give any person a right to participate in the divisible profit Of the company otherwise than as a member shall be void.
+(2)
+For the purpose of the provisions of this Act relating to the memorandum of a company limited by guarantee and of this section, every provision in the memorandum or articles, or in any resolution, of any company limited by guarantee and registered after the commencement of this Act, purporting to divide the undertaking of the company into shares or interests, shall he treated as a provision for a share capital, notwithstanding that the nominal amount or number of the shares or interests is not specified thereby.
+Part III-Share Capital .Registration of Unlimited Company as Limited and Unlimited Liability of Directors; Distribution of Share Capital.
+28. Nature of Shares.
+(1)
+The shares or other interest of any member in a company shall be moveable property, transferable manner provided by the articles of the company.
+(2)
+Each share in a company having a share capital shall be distinguished by its appropriate number.
+29. Certificate of Shares or stock.
+A certificate, under the common seal of the company, specifying any shares or stock held by any member, shall be prima facie evidence of the title of the member to the shares or stock therein specified.
+30. Definition of “member”.
+(1)
+The subscribers of the memorandum of "member." a company shall be deemed to have agreed to become members of the company, and on its registration shall be entered as members in its register of members.
+(2)
+Every other person who agrees to become a member of a company, and whose name is entered in its register of members, shall be a member of the company.
+31. Register of members.
+(1)
+every company shall keep in one or more book a register of its members, and enter there in the following particulars:—
+(i)
+the names and addresses, and the occupations, if any, of the members, and. in the case of a company having a share capital, a statement of the shares held by each member, distinguishing each share by its number, and of the amount paid or agreed to be considered as paid on the shares of each member;
+(ii)
+the date at which each person was entered in the register as a member
+(iii)
+the date at which any person ceased to be a member.
+(2)
+If a company makes default in complying in the requirements of this section, it shall be liable to a fine not exceeding fifty rupees for every day during which the default continues; and every officer of the company who knowingly and willfully authorises or permits the default shall be liable to the like penalty.
+32. Annual list of members and summary
+(1)
+Every company having a share capital shall once at least in every year make a list of all persons who, on the day of the first or only ordinary general meeting in the year, are members of company, and of all persons who have ceased to be members since the date of the last return or (in the case of the first return) of the incorporation of the company.
+(2)
+The list shall state the names, addresses, and occupations of all the past and present members therein mentioned, and the number of shares held by each of the existing members at the date of the return, specifying shares transferred since the date of the last return or (in the case of the first return) of the incorporation of the company by persons who are still members and persons who have ceased to be members respectively and the dates of registration.' of the transfers, and shall contain a summary distinguishing between shares issued for cash and shares ' issued as fully or partly paid up otherwise than in, cash, and specifying the following particulars:—
+(a)
+the amount of the share capital of the company, and the number of the shares-into which it is divided;
+(b)
+the number of shares taken from the commencement of the company up to the date of the return;
+(c)
+the amount called up on each share ;
+(d)
+the total amount of calls received ;
+(e)
+the total amount of calls unpaid;
+(f)
+the total amount of the sums (if any) paid by way of commission in respect of any shares or debentures, or allowed by way of discount in respect of any debentures, since the date of the last return ;
+(g)
+the total number of shares forfeited ;
+(h)
+the total amount of shares or stock for which share-warrants are outstanding at the date of the return;
+(i)
+the total amount of share-warrants issued and surrendered respectively since the date of the last return;
+(k)
+the number of shares or amount of stock comprised in each share-warrant;
+(l)
+the names and addresses of the persons who at the date of the return arc the directors of the company and of the persons (if any) who at the said date are the managers of the company; and
+(m)
+the total amount of debt due from the comp any in respect of all mortgages and charges which are required to be registered with the registrar under this Act.
+(3)
+The above list and summary shall be contained in a separate part of the register of members, and completed within seven days after the day of first or only ordinary general meeting in the year, all company shall forthwith file with the registrar a copy signed by a director or by the manager or the or the secretary of the company, together with the certificate from such director, manager or secretary that the list and summary state the facts as they stood on the aforesaid.
+(4)
+if a company makes default in complying with the requirements of this section, it shall be liable to a fine not exceeding fifty rupees for every officer of the Company who knowingly and willfully authories or permits the default shall be liable to the like penalty.
+33. Trusts not to be entered on register.
+No notice of any trust, expressed, implied or constructive, shall be entered on the register, or be receivable by the register.
+34. Registration of transfer at request of transferor
+On the application of the transferor of any share or interest in a company, the company shall enter in its register of members the name of the transferee in the same manner and subject to the Same conditions as if the application for the entry wire made by the transferee.
+35. Transfer by legal representative.
+A transfer of the share or other interest of a deceased member of a company made by his legal representative shall, although the legal representative is not himself a member, be as valid as if he had been a member at the time of the execution of the instrument of transfer.
+36. Inspection of register of members.
+(1)
+The register of members, commencing from the date of the registration of the company, shall he kept at the registered office of the company and, except when closed under the provisions of this Act, shall during business hours (subject to sue reasonable restrictions, as the company in general meeting may impose, so that not less than two hoi in each day be allowed for inspection) be open to the inspection of any member gratis, and to the inspection of any other person on payment of one rupee, 01 such less sum as the company may prescribe, for each inspection.
+(2)
+Any member or other person may require copy of the register, or of any part thereof, or of the list and summary required by this Act, or any p* thereof, on payment of six annas for every hundred; words or fractional part thereof required to be copied.
+(3)
+If any inspection or copy required under this section is refused, the company shall be liable for each refusal to a fine not exceeding twenty rupees and to a further fine not exceeding twenty rupees for every day during which the refusal continues, and every officer of the company who knowingly authorises or permits the refusal shall be liable to the like penalty, and the Court may by order compel an immediate inspection of the register.
+37. Power to close register.
+A company may, on giving notice by advertisement in some newspaper circulating in the district in which the registered office of the company is situate, close the register of members for any time or times not exceeding in the whole thirty days in each year.
+38. Power of Court to rectify to register.
+(1)
+If:-
+(a)
+the name of any person is fraudulently or without sufficient cause entered in or omitted from the register of members of a company; or
+(b)
+Default is made or unnecessary delay takes place in entering on the register the fact of of any person having ceased to be a member, the person aggrieved, or any member of the company, [lie company, may apply to the Court for rectification of the register.
+(2)
+The Court may either refuse the application or may order rectification of the register and payment by the company of any damages sustained by any aggrieved, and may make such order costs as it in its discretion thinks fit.
+(3)
+On any application under this section the Court may decide any question relating to the title of person who is a party to the application to have his name entered in or omitted from the register, the question arises between members or alleged iiieinbcrs, or between members or alleged members on if one hand and the company on the other hand; and generally may decide any question necessary 01 expedient to be decided for rectification of the register:
+Provided that the Court may direct an issue to be issue in which any question of law may be raised; and an appeal from the decision on such an issue shall lie in the manner directed by the Code of Civil Procedure, 1908, on the grounds mentioned in section 100 of that Code.
+39. Notice to register of rectification of register.
+In the case of a company required by this Act to file a list of its members with the registrar, the Court, when making an order for rectification of the register, shall, by its order, direct notice of the rectifi- cation to be filed with the registrar.
+40. Register to be evidence.
+The register of members shall be primed facie evidence of any matters by this Act directed or Authorised to be inserted therein.
+41. Power for company to keep branch register in the United Kingdom.
+(1)
+A company having a share capital may, Power for if so authorised by its articles, cause to be kept in the United Kingdom a branch register of members (in this Act called a British register).
+(2)
+The company shall, within one month from the date of the opening of any British register, file with the registrar notice of the situation of the office where such register is kept and, in the event of any change in the situation of such office or of its discontinuance, shall within one month from the date of such change or discontinuance, as the case may be, file notice of such change or discontinuance.
+(3)
+If a company makes default in complying with the requirements of this section, it shall be liable to
+a fine not exceeding fifty rupees for every day during which the default continues.
+42. Regulations as to British register.
+(1)
+A British register shall be deemed to be part of the company's register of members (in this section called the principal register).
+(2)
+It shall be kept in the same manner in which the principal register is by this Act required to be kept, except that the advertisement before closing the register shall be inserted in some newspaper circulating in the locality wherein the British register is kept.
+(3)
+The company shall transmit to its registered office in India a copy of every entry in its British register as soon as may be after the entry is made; and shall cause to be kept at such office, duly entered up from time to time, a duplicate of its British register, and the duplicate shall, for all the purposes of tins Act, be deemed to be part of the principal register.
+(4)
+Subject to the provisions of this section with respect to the duplicate register, the shares registered in a British register shall be distinguished from the shares registered in the principal register, and no transaction with respect to any shares registered in a British register shall, during the continuance of that registration, be registered in any other register.
+(5)
+the company may discontinue to keep any British register, and thereupon all entries in that resister shall be transferred to the principal Resister.
+(6)
+Subject to the provisions of this Act, any company may, by its articles, make such regulation as it may think fit respecting the keeping of a British register.
+43. Issue of share warrants to bearer.
+a company limited by shares, if so authorised by the articles may, with respect to any fully paid-up shares or to stock, issue under its common seal a warrant stating that the bearer of the warrant is entitled to the shares or stock therein specified, and may provide by coupons or otherwise, for the payment of the future dividends on the shares or stock Including in the warrant, in this Act termed a share –warrant.
+44. Effect of share warrant.
+A share warrant shall entitle the bearer there of to the share or stock therein specified, and the share or stock may be transferred by delivery of the warrant.
+45. Registration of name of share warrant.
+The bearer of a share-warrant shall, subject to the articles of the company, be entitled, on surrendering it for cancellation, to have his name entered as a member in the register of member; and the company shall be responsible for any loss incurred by any person by reason of the company entering in its register the name of a bearer of a share-warrant in respect of the share or stock therein specified without the warrant being surrendered and cancelled.
+46. The bearer of a share-warrant may, if the
+articles of the company so provide, be deemed to be a member of the company within the meaning of this Act, either to the full extent or for any purposes defined in the articles, except that he shall not be qualified in respect of the shares or stock specified in the warrant for being a director or manager of the company, in cases where such a qualification is required by the articles.
+47. Entries in register when share warrant issued.
+(1)
+On the issue of a share-warrant, the company shall strike out of its register of members the name of the member then entered therein as holding the shares or stock specified in the warrant as if he had ceased to be a member, and shall enter in the register the following particulars, namely:—
+(i)
+the fact of the issue of the warrant.
+(ii)
+a statement of the shares or stock included in the warrant, distinguishing each share by its number; and
+(iii)
+the date of the issue of the warrant.
+(2)
+If a company makes default in complying with the requirements of this section, it shall be liable to a fine not exceeding fifty rupees for every day during which the default continues, and every officer of the company who knowingly and willfully continues or permits the default shall be liable to the like penalty.
+48. Surrender of share warrant.
+Until the warrant is surrendered, the above particulars shall be deemed to be the particulars required by this Act to be entered in the register of members; and, on the surrender, the date of the surrender shall be entered as if it; were the date at which a person ceased to be a member.
+49. Powers company to arrange for different amount being paid on shares.
+A company, if so authorised by its articles, may do any one or more of the following things, namely:—
+(1)
+make arrangements on the issue of shares for a difference between the shareholders in the amounts and times of payment of calls on their shares;
+(2)
+accept from any member who assents thereto the whole or a part of the amount remaining unpaid on any shares held by him although no part of that amount has been called up;
+(3)
+pay dividend in proportion to the amount paid up on each share where a larger amount is paid up on some share that on others.
+50. Powers of company limited by share to alter it share capital.
+(1)
+A company limited by shares, if so Power of authorised by its articles, may alter the conditions of its memorandum as follows (that is to say), it may.
+(a)
+increase its share capital by the issue of new share capital shares of such amount as it thinks expedient;
+(b)
+consolidate and divide all or any of its share capital into shares of larger amount than its existing shares;
+(c)
+convert all or any of its paid-up shares into stock and re-convert that stock into paid-up shares of any denomination;
+(d)
+sub-divide its shares, or any of them, into shares of smaller amount than is fixed by the memorandum, so however, that in the sub-division the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
+(e)
+cancel shares which, at the date of the passing of the resolution in that behal have not been taken or agreed to be taken by any person, and diminish the amount of its share capital by the amount of the shares so cancelled.
+(2)
+The powers conferred by this section with respect to sub-division of shares must be exercised by special resolution.
+(3)
+where any alteration has been made under this section in the memorandum of a company, every copy of the memorandum issued after the date of the alteration, shall he in accordance with the alteration.
+(4)
+If a company makes default in complying with the requirements of sub-section (3), it shall be liable to a fine not exceeding ten rupees for each; copy in respect of which default is made; and every j officer of the company who knowingly and willfully authorises or permits the default shall be liable to the like penalty.
+(5)
+A cancellation of shares in pursuance of this section shall not be deemed to be a reduction of share capital within the meaning of this Act.
+51. Notice to registration of consolidation of share capital, conversion of shares, into stock, etc.
+(1)
+Where a company having a share capital has consolidated and divided its share capital into shares of larger amount than its existing shares or converted any of its shares into stock, or re-converted stock into shares, it shall within fifteen days of the consolidation and division, conversion or re- conversions, file notice with the registrar of the same, specifying the share consolidated and divided, or converted, or the stock re-converted.
+(2)
+If a company makes default in complying with the requirements of this section, it shall be liable to a fine not exceeding fifty rupees for every day during which the default continues, and every officer of the company who knowingly and willfully authorises or permits the default shall be liable to the like penalty.
+52. Effect of Conversion of share into stock.
+Where a company having a share capital only shall cease as to so much of the share capital as is converted into stock; and the register of members of the company, and the list of members to be filed with the registrar, shall show the amount of stock Held by each member instead of the amount of shares particulars relating to shares hereinbefore required by this Act.
+53. Notice of increases of share capital or of members.
+(1)
+Where a company having a share capital whether its shares have or have not been converted into stock, has increased its share capital beyond the registered capital, and where a company not having a share capital has increased the number of its members beyond the registered number, it shall file with the registrar, in the case of an increase of shore capital, within fifteen days after the passing, or in the case of a special resolution the confirmation, of the resolution authorising the increase, and in the case of an increase of members within fifteen days after the increase was resolved on or took place, notice of the increase of capital or members, and the registrar shall record the increase.
+If a company makes a default in complying with the requirements of this section, it shall be I .able to a fine not exceeding fifty rupees for every during which the default continues, and every officer of the company who knowingly and willfully authories or permits the default shall be liable to the like penalty.
+54. Recrganization of share capital.
+(1)
+A company limited by shares may, by special resolution confirmed by an order of the Court modify the conditions contained in its memorandum so is to reorganize its share capital, whether by the consolidation of shares of different classes or by the division of its shares into shares of different classes:
+Provided that no preference or special privilege attached to or belonging to any class of shares shall be interfered with except by resolution passed by a majority in number of shareholders of that class holding three-fourths of the share capital of that class and confirmed at a meeting of shareholders of that class in the same-manner as a special resolution of the company is required to be confirmed, and every resolution 30 passed shall hind all shareholders of the class.
+(2)
+Where an order is made under this section, a certified copy thereof shall he filed with the registrar within twenty-one days after the making of the order or within such further time as the Court may allow, and the resolution shall not take effect until such a copy has been so filed.
+Reduction of Share Capital.
+55. Reduction of Share Capital.
+(1)
+No company limited by shares shall have power to buy its own shares unless the consequent reduction of capital is effected and sanctioned manner hereinafter provided.
+(2)
+Subject to confirmation by the Court, a company limited by shares, if so authorised by its articles, may by special resolution reduce its share capital in any way, and in particular (without prejudice to the generality of the foregoing power) may:-
+(a)
+extinguish or reduce the liability on any of its shares in respect of share capital not paid up; or
+(b)
+either with or without extinguishing or reducing liability on any of its shares, cancel any paid-up share capital which is lost or unrepresented by available assets ; or '
+(c)
+either with or without extinguishing or reducing liability on any of its shares, pay off any paid-up share capital which is in excess of the wants of the company, and may, 11 and so far as is necessary, alter its memorandum by reducing the amount of its share capital and of its shares accordingly.
+(3)
+A special resolution under this section is in this Act Called a resolution for reducing share capital.
+56. A Application to court for confirming order.
+Where a company has passed and confirmed a resolution for reducing share capital, it may apply by petition to the Court for an order confirming the reduction.
+57. Addition to Name of company of “and reduced.”
+On and from the Confirmation by a company of a resolution for reducing share capital, or where the reduction does not involve either the diminution of any liability in respect of unpaid share capital, or the payment to any shareholder of any paid-up share capital, then on and from the presentation of the petition for confirming the reduction, the company shall add to its name, until such date as the Court may fix, the word “and reduced” as the last words in its name, and those words shall, until that date, be deemed to be part of the name of the Company:
+Provided that, where the reduction does not involve either the diminution of any liability in respect of unpaid share capital or the payment to any shareholder of any paid-up share capital, the court may, if it thinks expedient, dispense altogether with the addition of the words “and reduced,.”
+58. Objections by creditors, and settlement, of list of objecting creditors.
+(1)
+Where the proposed reduction of share capital involves, either diminution of liability in respect "1 unpaid snare capital, or the payment to any shareholder of any paid-up share capital, and in any other case if the Court so directs, every creditor of the company who at the date fixed by the Court is entitled to any debt or claim which, if that date were the commencement of the winding up of the company, would 1. "- admissible in proof against the company, shall ' c entitled to object to the reduction.
+(2)
+the court, shall settle a list of creditors so entitled to object, and for that purpose shall ascertain, 43 tain, as far as possible without requiring an application from any creditor, the names of those creditors and the nature and amount of their debts or claims, and may publish notices fixing a day or days within which creditors not entered on the list are to claim to be so entered or are to be excluded from the right of objecting to the reduction.
+59. Power to dispense with consent of creditor on security being given for his debt.
+Where a creditor entered on the list of creditors whose debt or claim is not discharged or deter- mined does not consent to the reduction, the Court may, if it thinks fit, dispense with the consent of that creditor, on the company securing payment of his debt or claim by appropriating, as the Court may direct, the following amount (that is to say),:-
+(i)
+if the company admits the full amount of his debt or claim, or, though not admitting it, is willing the provide for it, then the full amount of the debt or claim;
+(ii)
+if the company does not admit or is not willing to provide for the full amount of the debt or claim, or if the amount is contingent or not ascertained, then an amount fixed by the Court after the like inquiry and adjudication as if the company were being wound up by the Court.
+60. Order confirm-
+The Court, if satisfied, with, respect to every reduction creditor of the company who under this Act is entitled to object to the reduction, that either his consent to the reduction has been obtained or his debt or claim has been discharged or has determined or has been secured, may make an order confirming the reduction on such terms and conditions as it thinks fit.
+61. Registration of order and minute of reduction.
+(1)
+The registrar on production to him of an order of the Court confirming the reduction of the capital of a company, and on the filing with him of a certified copy of the Order and of a minute Approved by the Court) showing, with respect to the share capital of the company as altered by the order, the amount of the share capital, the number of shares it to which it is to be divided and the amount of each share, and the amount (if any) at the date of the registration deemed to be paid up on each share, shall register the order and minute.
+(2)
+On the registration, and not before, the resolution for reducing share capital as confirmed by the order so registered shall take effect.
+(3)
+Notice of the registration shall be published in such manner as the Court may direct.
+(4)
+The registrar shall certify under his hand the registration of the order and minute, and his certificate shall be conclusive evidence that all the requirements of this Act with respect to reduction of share capital have been complied with, and that the share capital of the company is such as is stated in the minute.
+62. Minute to dorm part of memorandum.
+(1)
+The minute when registered shall be deemed substituted, for the corresponding part of the memorandum of the company, and shall be valid and alterable as if it had been originally contained there in and shall be embodied in every copy of the memorandum issued after its registration.
+(2)
+if a company makes default in complying with the requirements of this section, it shall be liable to a fine 1st exceeding ten rupees for each copy in respect of which default is made, and every officer of the company who knowingly and willfully authorises or permits the default shall be liable to the like penalty.
+63. Liability of member in respect of reduced shares.
+(1)
+A member of the company, past or present shall not be liable in respect of any share to any 45 any call or contribution exceeding in amount the difference (if any) between the amount paid, or (as the case may be) the reduced amount, if any, which is to be deemed to have been paid, on the share and the
+amount of the share as fixed by the minute:
+Provided that, if any creditor, entitled in respect of any debt or claim to object to the reduction of share capital, is, by reason of his ignorance of the proceedings for reduction, or of their nature and effect with respect to his claim not entered on the list of creditors, and, after the reduction, the company is unable, within the meaning of the provisions of this Act with respect to winding up by the Court, to pay the amount of his debt or claim, then:-
+(i)
+every person who was a member of the company at the date of the registration of the order for reduction and minute, shall be liable to contribute for the payment of that debt, or claim an amount not exceeding the amount which he would have been liable to contribute if the company had commenced to be wound up on the day before that registration; and
+(ii)
+if the company is wound up, the Court, on the application of any such creditor and proof of his ignorance as aforesaid, may, if it thinks fit, settle accordingly a list of persons so liable to contribute, and make and enforce calls and orders on the con-tributaries settled on the list as if they were ordinary contributories in a winding up.
+(2)
+Nothing in this section shall affect the rights of the contributories among themselves.
+64. Penalty on concealment of name of creditor.
+If any officer of the company willfully conceals the name of any creditor entitled to object to the reduction, 46 reduction, or willfully misrepresents the nature or milt of the debt or claim of any creditor, or if any Hirer of the company abets any such concealment or misrepresentation as aforesaid, every such officer be punishable with imprisonment which may, to one year, or with fine, or with both.
+65. Publication of reasons for reeducation
+In any case of reduction of share capital, the court may require the company to publish as the court directs the reasons for reduction, or such other Information in regard thereto as the Court may think expedient with a view to give proper information to the public, and, if the Court thinks fit, the causes which led to the reduction.
+66. Increase and reeducation of share capital in case of a company limited by guarantee having a share capital.
+A company limited by guarantee and registered after the commencement of this Act may, if it has a share capital and is so Authorised by its articles, increase or reduce its share capital in the same manner and subject to the same conditions in and subject to which a company limited by shares may increase or reduce its share capital under the provisions of this Act.
+Registration of Unlimited Company as Limited.
+67. Registration on unlimited company as limited.
+(1)
+Subject to the provisions of this section, any company registered as unlimited may register of under This act as limited, or any company already registered as a limited company may re-register under this Act, but the registration of an unlimited company as a limited company shall not affect any debts, liabilities, obligations or contracts incurred or entered into by, to, with or on behalf of, the company before the registration, and those debts, liabilities, obligations and contracts may be enforced in manner provided by Tart VIII of this Act in the case of a company registered in pursuance of that Part.
+(2)
+On registration in pursuance of this section, the registrar shall close the former registration of the 47 the company, and may dispense with the delivery to him of copies of any documents with copies of which he was furnished on the occasion of the original registration of the company; but, save as aforesaid, the registration shall take place in the same manner and shall have effect as if it were the first registration of the company under this Act.
+68. Power of unlimited company to provide for reserve share capital on re-registration.
+An unlimited company having a share capital may, by its resolution for registration as a limited company in pursuance of this Act, do either or both of the following things, namely :—
+(a)
+increase the nominal amount of its share capital by increasing the nominal amount of each of its shares, but subject to the condition that no part of the amount by which its capital is [so increased shall be capable of being called up except in the event and for the purposes of the company being wound up;
+(b)
+provide that a specified portion of its uncalled share capital shall not be capable of being called, up except in the event and for the purposes of the company being wound up.
+Reserve Liability of Limited Company.
+69. Reserve liability of limited company.
+A limited company may by special resolution determine that any portion of its share capital which has not been already called up shall not be capable of being called up, except in the event and for the purposes of the company being wound up, and there upon that portion of its share capital shall not be capable of being called up except in the event and for the purposes aforesaid.
+Unlimited Liability of Directors.
+70. Limited company may have directors with unlimited liability.
+(1)
+In a limited company the liability of the directors or of any director may, if so provided by the memorandum, be unlimited.
+(2)
+In a limited company in which the liability of any director is unlimited, the directors of the company (if any) and the member who proposes a person for election or appointment to the office of director shall add to that proposal a statement that the liability of the person holding that office will be unlimited and the promoters and officers of the company, or one of them, shall before the person accepts the office or acts therein, give him notice in writing that his liability will be unlimited.
+(3)
+if any director or proposer makes default in adding such a statement, or if any promoter or officer Of the company makes default in giving such a notice, be shall be liable to a fine not Exceeding one thousand rupees and shall also be liable for any damage which the person so elected or appointed may sustain from the default, but the liability of the person elected or appointed shall not be affected by the default.
+71. Special resolution of limited company making liability of directors unlimited.
+(1)
+A limited company, if so Authorised by its articles, may, by special resolution, alter its meinorandum so us to render unlimited the liability of its directions of any director.
+(2)
+Upon the confirmation of any such special resolution, the provisions thereof shall be as valid as if they had been originally contained in the memorandum, and a copy thereof shall be embodied in or annexed to every copy of the memorandum issued after the confirmation of the resolution.
+(3)
+a company makes default in complying with the requirements of this section, it shall be liable to a fine not exceeding ten rupees for each copy in respect of which default is made; and every officer of the company who knowingly and willfully authorises or permits the default shall be liable to the like penalty.
+72. Registered office of company
+(1)
+Every company shall have a registered office to which all communications and notices may he addressed.
+(2)
+Notice in writing of the situation of the registered office, and of any change therein, shall he file with the registrar, who shall record the same.
+(3)
+If a company carries on business without; complying with the requirements of this section, it shall be liable to a fine not exceeding fifty rupees for every day during which it so carries on business.
+73. Publication of name by a limited company.
+Every limited company:-
+(a)
+shall paint or affix, and keep painted o affixed, its name on the outside of every office or place in which its business carried on, in a conspicuous position, letters easily legible and in English characters, and also, if the registered office situate in a place beyond the local limit of the ordinary original civil jurisdiction of a High Court, in the characters of one of the vernacular languages used in the place;
+(b)
+shall have its name engraven in legible characters on its seal;
+(c)
+shall have its name mentioned in legible English characters in all bill-heads an letter paper and in all notices, advertisements and other official publications of the company, and in all bills of exchange, hundis, promissory notes, endorsements,cheques and orders for money or goods purporting to be signed by or on behalf of the company, and in all bills of parcels, invoices, receipts and letters of credit of the company.
+74. Penalties for non-publication of name:-
+(1)
+If a limited company does not paint or affix, and keep painted or affixed, its name m manner dinxted by this Act, it shall be liable to a fine not exceeding fifty rupees for not so painting or affixing its name, and for every day during which its name is not so kept painted or affixed, and every officer of the company who knowingly and willfully authorisesor permits the default shall be liable to the like penalty
+(2)
+If any officer of a limited company, or any person on its behalf; uses or authorises the use of any seal purporting to be a seal of the company where on its name is not so engraven as aforesaid, or issues or authorises the issue of any bill-head, letter paper, notice, advertisement or other official publication of the company, or signs or authorises to be signed on behalf of the company any bill of exchange, hundi, promissory note, endorsement, cheque or order for money or goods, or issues or authorises to be issued, any bill of parcels, invoice, receipt or letter of credit of the company wherein its name is not mentioned in manner aforesaid, he shall be liable to a fine not exceeding five hundreed rupees, and shall further be personally liable to the holder of any such bill of exchange, hundi, promissory note, cheque or order for money or goods for the amount thereof, unless the same is duly paid by the company.
+75. Publication of authorised as well as subscribed and paid-up capital:-
+(1)
+Whore any notice, advertisement or other official publication of a company contains a statement of the amount of the authorised capital of the company, such notice, advertisement or other official publication shall also contain a statement, in an equally prominent position and in equally conspicuous characters, of the amount of the capital which has been subscribed and the amount paid up.
+(2)
+Any company which makes default in complying with the requirements of this section and every officer of the company who is knowingly a party to the default shall be -liable to a fine not exceeding one thousand rupees.
+Meetings and Proceedings.
+76. Annual general meeting:-
+(1)
+A general meeting of every company shall be held once at the least in every year, and not more than fifteen months after the holding of the last preceding general meeting, and, if not so held, the company and every officer of the company who is knowingly a party to the default shall be liable to a fine not exceeding five hundred rupees.
+(2)
+When default has been made in holding a meeting of the company in accordance with the provisions of this section, the Court may, on the application of any member of the company, call or direct the calling of a general meeting of the company.
+77. Statutory meeting of company:-
+(1)
+Every company limited by shares and registered after the commencement of this Act shall, within a period of six months from the date at which the company is entitled to commence business, hold a general meeting of the members of the company, which shall be called the statutory meeting.
+(2)
+The directors shall, at least ten days before the day on which the meeting is held, forward a report (in this Act called "the statutory report") to every member of the company and to every other person entitled under this Act to receive it.
+(3)
+The statutory report shall be certified by not less than two directors of the company or, where there are less than two directors, by the sole director and shall state—
+(a)
+the total number of shares allotted, distinguishing shares allotted as fully or partly up otherwise than in cash, and stating in the case of shares partly paid up the extent to which they are so paid up, and in either case the consideration for which they have been allotted;
+(b)
+the total amount of cash received by the company in respect of all the shares allotted distinguished as aforesaid;
+(c)
+an abstract of the receipts of the company whether from its share capital or from debentures, and of the payments made thereout, up to a date within seven clays of the date of the report, exhibiting under distinctive headings the receipts of the company from shares and debentures and other sources, the payments made thereout and particulars concerning the balance remaining in hand and an account or estimate of the preliminary expenses of the company;
+(d)
+the names, addresses and descriptions of the directors, auditors (if any), managers (if any) and secretary of the company ;
+(4)
+The statutory report shall, so far as it relates to the shares allotted by the company and" to the cash received in respect of such shares and to the receipts sum payments of the company on capital account, be certified as correct by the auditors (if any) of the company.
+(5)
+The directors shall cause a copy of the statutory report, certified as by this section required, to be filed with the registrar forthwith, after the sending thereof to the members of the company.
+(6)
+Every director of the company who knowingly and wilfully authorises or permits a default in complying with the provisions of sub-section {2) or sub-section (o) shall be liable to a fine not exceeding twenty rupees for every day during which the default continues.
+(7)
+The directors shall cause a list showing the names, descriptions and addresses of the members of the company, and the number of shares held by them respectively, to be produced at the commencement of the meeting, and to remain open and accessible to any member of the company during the continuance of the meeting.
+(8)
+The members of the company present at the meeting shall be at liberty to discuss any matters relating to the formation of the company, or arising out of the statutory report, whether previous notice has been given or not, but no resolution of which notice has not been given in accordance with the articles may be passed.
+(9)
+The meeting may adjourn from time to time, and. at any adjourned meeting any resolution of which notice has been given in accordance with the articles either before or subsequently to the former meeting, may be passed, and the adjourned meeting shall have the same powers as an original meeting.
+(10)
+If a petition is presented to the Court in manner provided by Part V for winding up the company. the ground of default in filing the statutory report or in holding the statutory meeting, the Court may, instead of directing that the company be wound up, give directions for the statutory report to be filed or a meeting to be held, or make such other order as may be just.
+(11)
+The provisions of this section as to the forwarding and filing of the statutory report shall not apply in the case of a private company.
+78. Calling of extraordinary general meeting on requisition:-
+(1)
+Notwithstanding anything in the articles, the directors of a company which has a share capital shall, on the requisition of the holders of not less than one-tenth of the issued share capital of the company upon which all calls or other sums then due have been paid, forthwith proceed to call an extraordinary general meeting of the company.
+(2)
+The requisition must state the objects of the meeting and must be signed by the requisitionists and deposited at the registered office of the company, and may consist, of several documents in like form, cash signed by one or more requisitionists.
+(3)
+If the directors do not proceed within twenty-one days from the date of the requisition being so deposited to cause a meeting to be called, the requisitionists, or a majority of them in value, may themselves call the meeting, but in either case any meeting so called shall be held within three months from the date of the deposit of the requisition.
+(4)
+If at any such meeting a resolution requiring confirmation at another meeting is passed, the directors Shall forthwith call a further extraordinary general meeting for the purpose of considering the resolution and, if thought fit, of confirming it as a special resolution and, if the directors do not call the meeting within seven days from the date of the passing of the first resolution, the requisitionists, or a majority of them in value, may themselves call the meeting.
+(5)
+Any meeting called under this section by the requisitionists shall be called in the same manner,as nearly as possible, as that in which meetings arc to be Called by directors.
+79. Provisions as to meetings and votes:- In default of, and subject to, any regulations in the articles,—
+(i)
+a meeting of a company may be called by fourteen clays' notice in writing, served' on every member in manner in which notices are required to be served by Table A in the First Schedule;
+(ii)
+five members may call a meeting;
+(iii)
+any person elected by the members present a meeting may be chairman thereof; and
+(iv)
+every member shall have one vote.
+80. Representation of companies at meeting of other companies of which they are members:-
+A Company which is a member of another company may, by resolution of the directors, authorise any of its officials or any other person to act as its representative at any meeting of that other company and the person s0 authorised shall be entitled to exercise the same powers on behalf of the company which he represents as if he were an individual shareholder of that other company.
+81. Extraordinary and special resolutions:-
+(1)
+A resolution shall be an extraordinary re-solution when it has been passed by a majority of not less than three-fourths of such members entitled to vote as are present in person or by proxy (where proxies are allowed) at a general meeting of which notice specifying the intention to propose the resolution as an extraordinary resolution has been duly given.
+(2)
+A resolution shall be a special resolution when it has been—
+(a)
+passed in manner required for the passing of an extraordinary resolution; and
+(b)
+confirmed by a majority of such members entitled to vote as are present in person or by proxy (where proxies are allowed) at a subsequent general meeting, of which notice has been duly given, and held after an interval of not less than fourteen days, nor more than one month, from the date of the first meeting.
+(3)
+any meeting at which an extraordinary resolution is submitted to he passed or a special resolution is submitted to be passed or confirmed, a declaration of the chairman on a show of hands that the resolution is carried shall, unless a poll is demanded, be conclusive evidence of the fact without proof of the number or proportion of the votes recorded in favour of or against the resolution.
+(4)
+At any meeting at which an extraordinary resolution is submitted to be passed or a special resolution is submitted to be passed or confirmed, a poll may be demanded by three persons for the time being entitled according to the articles to vote, unless the articles of the company require a demand by such number of such persons, not in any case exceeding five, as may be specified in the articles.
+(5)
+In a case where, if a poll is demanded, it may in accordance with the articles be taken in such manner as the chairman may direct; it may, if the chairman so directs, be taken at the meeting at which it is demanded.
+(6)
+When a poll is demanded in accordance with this section, in computing the majority on the poll, reference shall be had to the number of votes to which each manlier is entitled by the articles of the company.
+(7)
+For the purposes of this section notice of a meeting shall be deemed to be duly given and the meeting to be duly held when the notice is given and the meeting held in manner provided by the articles.
+82. Registration and copies of special and extraordinary resolutions:-
+(1)
+A copy of every special and extraordinary resolution shall, within fifteen days from the confirmation of the special resolution or from the passing of the extraordinary resolution, as the case may be, be printed or typewritten and filed with the registrar, who shall record the same.
+(2)
+Where articles have been registered, a copy of every special resolution for the time being in force shall be embodied in or annexed to every copy of the articles issued after the date of the resolution.
+(3)
+Where articles have not been registered, a copy of every special resolution shall be forwarded in print to any member, at his request, on payment of one rupee or such less sum as the company may direct.
+(4)
+If a company makes default in so filing with the registrar a copy of a special or extraordinary resolution, it shall be liable to a line not exceeding twenty rupees for every day during which the default continues.
+(5)
+If a company makes default in embodying in or annexing to a copy of its articles or in forwarding in print to a member, when required by this section, a copy of a special resolution, it shall be liable to a fine not exceeding ten rupees 1'or each copy in respect of which default is made.
+(6)
+Every officer of a company who knowingly and wilfully authorises or permits any default by the company in complying with the requirements of this section' shall be liable to the like penalty as is imposed by this section on the company for that default.
+83. Minutes of proceeding of meeting and directors:-
+(1)
+Every company shall cause minutes of all proceedings of general meetings and of its directors to be entered in books kept for that purpose.
+(2)
+Any such minute, if purporting to be signed by the chairman of the meeting at which the proceedings were had, or by the chairman of the next succeeding meeting, shall be evidence of the proceedings.
+(3)
+Until the contrary is proved, every general meeting of the company or meeting of directors in respect of the proceedings whereof minutes have been so made shall he deemed to have been duly called and held, and all proceedings had thereat to Lave been duly had, and all appointments of directors or liquidators shall be deemed to be valid.
+84. Restrictions on appointment or advertisement of director:-
+(1)
+A person shall not be capable of being appointment director of a company by the articles, and shall not be named as a director or proposed director of company in any prospectus issued by or on behalf of the company or in relation to any intended company or in any statement in lieu of prospectus filed by or on behalf of a company, unless, before the registration of the articles or the publication of the prospectus, or the filing of the statement in lieu of prospectus, as the case may be, he has, by himself or by his agent authorised in writing—
+(i)
+signed and filed with the registrar a consent in writing to act as such director; and
+(ii)
+save in the case of a company limited by guarantee and not having a share capital, either signed the memorandum for a number of shares not less than his qualification (if any), or signed and filed with the registrar a contract iii writing to take from the company and pay for his qualification shares (if any).
+(2)
+On the application for registration of the memorandum and articles of a company the applicant shall file with the registrar a list of the persons who have consented to be directors of the company, and, if this list contains the name of any person who bas not so consented, the applicant shall be liable to a fine not exceeding five hundred rupees.
+(3)
+This section shall not apply to a private company nor to a prospectus issued by or on behalf of a company after the expiration of one year from the date at which the company is entitled to commence business.
+85. Qualification of directory:-
+(1)
+Without prejudice to the restrictions imposed by section 84, it shall he the duty of every director who is by the articles required to hold a specified share qualification, and who is not already qualified, to obtain his qualification within two months after his appointment, or such shorter time as may be fixed by the articles.
+(2)
+The office of director of a company shall be vacated if the director does not, within two months from the date of his appointment, or within such shorter time as may be fixed by the articles, obtain his qualification, or if after the expiration of such period or shorter time he ceases at any time to hold his qualification; and a person vacating office under this section shall be incapable of being re-appointed director of the company until he has obtained his qualification.
+(3)
+If, after the expiration of the said period or shorter time, any unqualified person acts as a director of the company, he shall be liable to a fine not exceeding fifty rupees for every day between the expiration of the said period or shorter time and the last day on which it is proved that he acted as a director.
+86. Validity of acts of directors:-
+The acts of a director shall be valid notwithstanding any defect that may afterwards be discovered in his appointment or qualification: Provided that nothing in this section shall be deemed to give validity to acts done by a director after the appointment of such director has been shown to be invalid.
+87. List of directors to be sent to registrar:-
+(1)
+Every company shall keep at its registered office a register containing the names and addresses and the occupations of its directors, and file with the registrar a copy thereof, and from time to time file with the registrar notice of any change among its directors or managers.
+(2)
+If default is made in complying with this section, the company shall be liable to a fine not exceeding fifty rupees for every day during which the default continues; and every officer of the company who knowingly and wilfully authorises or permits the default shall be liable to the like Contracts,
+88. Form of contacts:-
+(1)
+Contracts on behalf of a company may be made as follows (that is to say):—
+(i)
+any contract which, if made between private persons, would be by law required to be in writing, signed by the parties to be charged therewith, may be made on behalf of the company in writing signed by any person acting under its authority, express or implied, and may in the same manner be varied or discharged;
+(ii)
+any contract which, if made between private persons, would by law be valid although made by parol only, and not reduced into writing, may be made by parol on behalf of the company by any person acting under its authority, express or implied, and may in the same manner be varied or discharged.
+(2)
+All contracts made according to this section shall be effectual in law, and shall bind the company and its successors and all other parties thereto, their heirs, or legal representatives, as the case may be.
+89. Bills of exchange and promissory notes:-
+A bill of exchange, hundi or promissory note shall be deemed to have been made, drawn, accepted or endorsed on behalf of a company if made, drawn, accepted or endorsed in the name of, or by or on behalf or on account of, the company by any person acting under its authority, express or implied.
+90. Execution of deeds abroad:-
+A company may, by writing under its common seal, empower any person, either generally or in respect of any specified matters, as its attorney, to execute deeds on its behalf in any place not situate in British India; and every deed signed by such attorney, on behalf of the company, and under his seal, where sealing is required, shall bind the company, and have the same effect as if it were under its common seal.
+91. Power of company to have official seal for use abroad:-
+(1)
+A company whose objects require or comprise the transaction of business beyond the limits of British India may, if authorised by its articles, have for use in any territory, district or place not situate in British India, an official seal, which shall be a facsimile of the common seal of the company, with the addition on its face of the name of every territory, district or place where it is to be used.
+(2)
+A company having such an official seal may, by writing under its common seal, authorise any person appointed for the purpose in any territory, district or place not situate in British India to affix the same to any deed or other document to which the company is party in that territory, district or place.
+(3)
+The authority of any such agent shall, as between the company and any person dealing with the agent, continue during the period (if any) mentioned in the instrument conferring the authority, or if no period is there mentioned, then until notice of the revocation or determination of the agent's authority has been given to the person dealing with him.
+(4)
+The person affixing any such official seal shall, by writing under his hand, on the deed or other document to which the seal is affixed, certify the date and place of affixing the same.
+(5)
+A deed or other document to which an official seal is "duly affixed shall bind the company as if it had been sealed with the common seal of the company.
+Prospectus.
+92. Filing of prospectus:-
+(1)
+Every prospectus issued by or en behalf of a company or in relation to any intended company shall be dated and that date shall, unless the contrary be proved, be taken as the date of publication of the prospectus.
+(2)
+A copy of every such prospectus, signed by every person who is named therein as a director or proposed director of the company, or by his agent authorised in waiting, shall be filed for registration with the registrar on or before the date of its publication, and no such prospectus shall be issued until a ropy thereof has been so filed for registration.
+(3)
+The registrar shall not register any prospectus unless it is dated, and the copy thereof signed, in manner required by this section.
+(4)
+Every prospectus shall state on the face of it that a copy has been filed for registration as required by this section.
+(5)
+If a prospectus is issued without a copy thereof being so filed, the company, and every person who is knowingly a party to the issue of the prospectus, shall lie liable to a fine not exceeding fifty rupees for every clay from the date of the issue of the prospectus until a copy thereof is so filed.
+93. Specific requirements as to particulars prospectus:-
+(1)
+Every prospectus issued by or on behalf of a company, or by or on behalf of any person who is or has been engaged or interested in the formation of the company, shall state—
+(a)
+the contents of the memorandum, with the names, descriptions and addresses of the signatories and the number of shares subscribed for by them respectively ; and the number of founders or management or deferred shares (if any) and the nature and extent of the interest of the holders in the property and profits of the company; and
+(b)
+the number of shares (if any) fixed by the articles as the qualification of a director, and any provision in the articles as to the remuneration of the directors; and
+(c)
+the names, descriptions and addresses of the directors or proposed directors and of the managers or proposed managers (if any); and
+(d)
+the minimum subscription on which the directors may proceed to allotment, and the amount payable on application and allotment on each share; and in the case of a second or subsequent offer of shares the amount offered for subscription on each previous allotment made within A the two preceding years, and the amount actually allotted, and the amount (if any) paid on the shares so allotted; and
+(e)
+the number and amount of shares and de-bentures which within the two preceding years have been issued, or agreed to be issued, as fully or partly paid up otherwise than in cash, and in the latter case » ' the extent to which they are so paid up, and in either case the consideration for which those shares or debentures have been issued or agreed to be issued; and
+(f)
+the names and addresses of the vendors of any property purchased or acquired by the company, or proposed so to be purchased or acquired, which is to be paid for wholly or partly out of the proceeds of the issue offered for subscription by the prospectus, or the purchase or acquisition of which has not been completed at the date of issue of the prospectus, -and the amount parable in cash, shares or debentures to the vendor, and where there is more than one separate vendor: or the company is a sub-purchaser, the amount so payable to each vendor : Provided that where the vendors or any of them are a firm, the members of the firm shall not be treated as separate vendors; and
+(q)
+the amount (if any) paid or payable as purchase-money in cash, shares or debentures for any such property as aforesaid, specifying the amount (if any) payable for goodwill; and
+(h)
+the amount (if any) paid within the two' preceding years or payable, as commission for subscribing or agreeing to subscribe, or procuring or agreeing to procure subscriptions, for any shares in, or debentures of,- the company, or the rate of any such commission :
+Provided that it shall not be necessary to state the commission payable to sub-underwriters ; and
+(i)
+the amount or estimated amount of preliminary expenses ; and
+(k)
+the amount paid within the two preceding years or intended to be paid to any promoter, and the consideration for any such payment; and
+(l)
+the dates of, and parties to, every material contract, and a reasonable time and place at which any material contract or a copy thereof may be inspected: Provided that tins requirement shall not apply to a contract entered into in the ordinary course of the business carried on intended to be carried on by the company, or to any contract entered in more than two years before the date of issue of the prospectus; and
+(m)
+the names and addresses of the audit (if any) of the company ; and
+(n)
+full particulars of the nature and extent of the interest (if any) of every director in the promotion of, or in the proper" proposed to be acquired by, the company, or, where the interest of such director consists in being a partner in a firm, the nature and extent of the interest of the firm, with a statement of all sums paid or agreed to be paid to him or the firm in cash or shares or otherwise by any person either to induce him become, or to qualify him as, a director or otherwise for services rendered ' him or by the firm in connection with the promotion or formation of the company; and
+(o)
+where the company is a company having shares of more than one class, the rig" of voting at meetings of the company conferred by the several classes of share respectively.
+(2)
+Where any such prospectus as is mentioned in this section is published as a newspaper advertisement, it shall not be necessary in the advertisement to specify the contents of the memorandum, or the signatories thereto, and the number of shares subscribed for by them,
+(3)
+This section shall not apply to a circular or notice inviting existing or debenture holders of a company to subscribe either for shares or for debentures of the company, whether with or without the right to renounce in favour of other persons
+(4)
+The requirements of this section as to the memorandum and the qualification, remuneration and interest of directors; the names, descriptions and addresses of directors or proposed directors, and of managers or proposed managers, and the amount or estimated amount of preliminary expenses shall not apply in the case of a prospectus issued more than one year after the date at which the company is entitled to commence business.
+(5)
+Nothing in this section shall limit or diminish any liability which any person may incur under the general Jaw or this Act apart from this section.
+94. Meaning of “vendor” in section 93:-
+For the purposes of section 93 every person Moaning of shall be deemed to be a vendor who has entered into any contract, absolute or conditional, for the sale or purchase, or for any option of purchase, of any property to be acquired by the company, in any case where –
+(a)
+the purchase-money is not fully paid at the date of issue of the prospectus; or
+(b)
+the purchase-money is to be paid or satisfied wholly or in part out of the proceeds of the issue offered for subscription by the prospectus; or
+(c)
+the contract depends for its validity or fulfilment on the result of that issue.
+95. Application of section 93 to the case to property taken on lease:-
+Where any of the property to be acquired by the company is to be taken on lease, section 93 shall apply as if the expression "vendor" included the lese or, and the expression "purchase-money" in eluded the consideration for the lease, and the expression "'sub-purchaser" included a sun-lessee.
+96. Invalidity of certain conditions as to waiver or notice:-
+Any condition requiring or binding any applicant for shares or debentures to waive compliance with any requirements of section 93, or purporting to affect him with notice of any contract, document or matter not specifically referred to in the prospectus, shall be void.
+97. Saving in certain cases of non-compliance with section 93:-
+In the event of non-compliance with any if 'the requirements of section 93, a director or other person responsible for the prospectus shall not incur any liability by reason of the non-compliance, if he proves that—
+(a)
+as regards any matter not disclosed, he was not cognisant thereof; or
+(b)
+the non-compliance arose from an honest mistake of fact on Ms part:
+Provided that in the event of non-compliance with the requirements contained in clause (n) of sub-section (1) of section 93, no such director or other person shall incur any liability in respect of the non-compliance unless it be proved that he had knowledge of the matters not disclosed.
+98. Obligations of companies where no prospectus is issued:-
+(1)
+A company which does not issue a prospectus on or with reference to its formation shall not allot any of its shares or debentures unless before the first allotment of either shares or debentures there has been filed with the registrar a statement in lieu of prospectus signed by every person who is named therein as a director or a proposed director of the company or by his agent authorised in v, riling, in the form and containing the particulars set out in the Second Schedule.
+(3)
+This section shall not apply to a private company or to a company which has allotted any shares or debentures before the commencement of this Act or, in so far as it relates to the allotment of shares, to a company limited by guarantee and not having a share capital.
+99. Restriction on alteration of terms mentioned in prospectus or statement in lien of prospectus:-
+A company shall not, at any time, vary the terms of a contract referred to in the prospectus or statement in lieu of prospectus, except subject to the approval of the company in general meeting.
+100. Liability for statement in prospectus:-
+(1)
+Where a prospectus invites persons to subscribe for shares in or debentures of a company, every person who is a director of the company at the time of the issue of the prospectus and every person -who has authorised the naming of himself and is named in the prospectus as a director or as having agreed to become a director either immediately or after an interval of time, and every promoter of the company, and every person who has authorised the issue of the prospectus, shall be liable to pay compensation to all persons who subscribe for any shares or debentures on the faith of the prospectus for all loss or damage they may have sustained by reason of any misleading or untrue statement therein, or in any report or memorandum appearing on the face thereof, or by reference incorporated therein or issued therewith, unless it is proved—
+(a)
+with respect to every misleading or untrue statement not purporting to be made on the authority of an expert or of a public official document or statement that he had reasonable ground to believe and did up to the time of the allotment of the shares or debentures, as the case may be, believe that the statement fairly represented the facts or was true;
+(b)
+with respect to every misleading or untrue statement purporting to be a statement by or contained in what purports to be a copy of or extract from a report or valuation of an expert, that it fairly represented the statement, or was a correct and fair copy of or extract from the report or valuation: Provided that the director, person named as director, promoter or person who authorised the issue of the prospectus shall be liable to pay compensation as aforesaid if it is proved that he had no reasonable ground to believe that the person making the statement, report or valuation was competent to make it; and
+(c)
+with respect to every misleading or untrue statement purporting to be a statement made by an official person or contained in what purports to be a copy of or extract from a public official document, that it was a correct and fair representation of the statement or copy of or extract from the document:
+or unless it is proved—
+(i)
+that having consented to become a director of the company he withdrew his consent before the issue of the prospectus, and that it was issued without his authority or consent ; or
+(ii)
+that the prospectus was issued without his knowledge or consent, and that on becoming aware of its issue, he forthwith gave a reasonable public notice that it was issued without his knowledge or consent; or
+(iii)
+that, after the issue of the prospectus and before allotment thereunder, he on becoming aware of any misleading or untrue statement therein, withdrew his consent thereto, and gave reasonable public notice of the withdrawal and of the reason there for.
+(2)
+Where a company existing at the commencement of this Act has issued shares or debentures, and for the purpose of obtaining further capital by subscriptions for shares or debentures issues a prospectus, a director shall not be liable in respect of any statement therein, unless he has authorised the issue of the prospectus, or has adopted or ratified it.
+(3)
+"Whore the prospectus contains the name of a person as a director of the company, or as having agreed to become a director thereof, and he has not consented to become a director, or has withdrawn his consent before the issue of the prospectus, and has not authorised or consented to the issue thereof, the directors of the company, except any without whose knowledge or consent the prospectus was issued, and any other person who authorised the issue thereof, shall be liable to indemnify the person named as aforesaid against all damages, costs and expenses to which he may be made liable by reason of his name having been inserted in the prospectus, or in defending himself against any suit or legal proceedings brought against him in respect thereof.
+(4)
+Every person who by reason of his being a director or named as a director, or as having agreed to become a director, or of his having authorised the issue of the prospectus, becomes liable to make any payment under this section, may recover contribution, as in cases of contract, from any other person who. if sued separately, would have been liable to make the same payment, unless the person who has become so liable-was, and that other person was not, guilty of fraudulent misrepresentation.
+(5)
+For the purposes of this section—
+(a)
+the expression " promoter " means a promoter who was a party to the preparation of the prospectus, or the portion thereof containing the misleading or untrue statement, but does not include any person by reason of his acting in a professional capacity for persons engaged in procuring the formation of the company;
+(b)
+the expression "expert" includes engineer, valuer, accountant and any other person whose profession gives authority to a statement made by him.
+Allotment.
+101. Restriction as to allotment:-
+(1)
+No allotment shall be made of any share capital of a company offered to the public for sub-scription, unless the following conditions have been complied with, namely :—
+(a)
+the amount (if any) fixed by the memorandum or articles and named in the prospectus as the minimum subscription upon which the directors may proceed to allotment; or
+(b)
+if no amount is so fixed and named, then the whole amount of the share capital so offered for subscription, has been subscribed, and the sum payable on application for the amount so fixed and named, or for the whole amount offered for subscription, has been paid to and received in cash by the company.
+(2)
+The amount so fixed and named and the whole amount aforesaid shall be reckoned exclusively of any amount payable otherwise than in cash, and is in this Act referred to as the minimum subscription.
+(3)
+The amount payable on application on each share shall, not be less than five per cent, of the nominal amount of the share.
+(4)
+If the conditions aforesaid have not been complied with on the expiration of one hundred and twenty days after the first issue of the prospectus all money received from applicants for shares shall be forthwith repaid to them without interest, and if any such money is not so repaid within on hundred and thirty days after the issue of the prospectus, the directors of the company shall be jointly and severally liable to repay that money with interest at the rate of seven, per cent, per annum from the expiration of the one hundred and thirtieth day: Provided that a director shall not he liable if he proves that the loss of the money was not due to any misconduct or negligence on his part.
+(5)
+Any condition requiring or binding any applicant for shares to waive compliance with any requirement of this section shall be void.
+(6)
+This section, except sub-section (3) thereof, shall not apply to any allotment of shares subsequent to the first allotment of shares offered to the public for subscription.
+(7)
+In the case of the first allotment of share capital payable in cash of a company which does not issue any invitation to the public to subscribe for its shares, no allotment shall be made unless the minimum subscription (that is to say),—
+(a)
+the amount (if any) fixed by the memorandum or articles and named in the statement in lieu of prospectus as the minimum subscription upon which the directors may proceed to allotment; or
+(b)
+if no amount is so fixed and named, the whole amount of the share capital other than that issued or agreed to be issued as fully or partly paid up otherwise than in cash; has been subscribed and an amount not less than five per cent, of the nominal amount of each share payable in cash has been paid to and received by the company.
+(8)
+Sub-section (7) shall not apply to a private company or to a company which has allotted any shares or debentures before the commencement of this Act.
+102. Effect of irregular allotment:-
+(1)
+An allotment made by a company to an applicant in contravention of the provisions of section 101 shall be voidable at the instance of the applicant within one month after the holding of the statutory meeting of the company and not later, and shall be so voidable notwithstanding that the company is in course of being wound up.
+(2)
+If any director of a company knowingly contravenes or permits or authorises the contravention of any of the provisions of section 101 with respect to allotment, he shall be liable to compensate the company and the allottee respectively for any loss, damages or costs which the company or the allottee may have sustained or incurred thereby: Provided that proceedings to recover any such loss, damages or costs shall not be commenced after the expiration of two years from the date of the allotment.
+103. Restrictions on commencement of business:-
+(1)
+A company shall not commence any business or exercise any borrowing powers unless—
+(a)
+shares held subject to the payment of the whole amount thereof in cash have been allotted to an amount not less in the whole than the minimum subscription ; and
+(b)
+every director of the company has paid to the company on each of the shares taken or contracted to be taken by him, and for which he is liable to pay in cash, a proportion equal to the proportion payable on application and allotment on the shares offered for public subscription or, in the case of a company which does not issue a prospectus inviting the public to subscribe for its shares, on the shares payable in cash; and
+(c)
+there has been filed with the registrar a duly verified declaration by the secretary or one of the directors, in the prescribed form, that the aforesaid conditions have been complied with; and
+(d)
+in the case of a company which does not issue a prospectus inviting the public to subscribe for its shares, there has been filed with the registrar a statement in lieu of prospectus.
+(2)
+The registrar shall, on the filing of a duly verified declaration, in accordance with the provisions of this section, certify that the company is entitled to commence business, and that certificate shall be conclusive evidence that the company is so entitled: Provided that, in the case of a company which does not issue a prospectus inviting the public to subscribe for its shares, the registrar shall not give such a certificate unless a statement in lieu of prospectus has been filed with him.
+(3)
+Any contract made by a company before the date at which it is entitled to commence business shall be provisional only, and shall not be binding on the company until that date, and on that date it shall become binding.
+(4)
+Nothing in this section shall prevent the simultaneous offer for subscription or allotment of any shares and debentures or the receipt of any money payable on application for debentures.
+(5)
+If any company commences business or exercises borrowing powers in contravention of this section, every person who is responsible for the contravention shall, without prejudice to any other liability, be liable to a fine not exceeding five hundred rupees for every day during which the contravention continues.
+(6)
+Nothing in this section shall apply to a private company, or to a company registered before the commencement of this Act, which does not issue a prospectus inviting the public to subscribe for its shares or, in so far as its provisions relate to shares, to a company limited by guarantee and not having" a share capital.
+104. Return as to allotment:-
+(1)
+Whenever a company having a share capital makes any allotment of its shares, the company shall, within one month thereafter,—
+(a)
+file with the registrar a return of the allotments, stating the number and nominal amount of the shares comprised in the allotment, the names, addresses and descriptions of the allottees, and the amount' (if any) paid or due and payable on each share; and
+(b)
+in the case of shares allotted as fully or partly paid up otherwise than in cash, produce for the inspection and examination of the registrar a contract in writing constituting the title of the allottee to the allotment together with any contract of sale, or for services or other consideration in respect of which that allotment was made, such contracts being duly stamped, and file with the registrar copies verified in the prescribed manner of all such contracts and a return stating the number and nominal amount of shares so allotted, the extent to which they are to be treated as paid up, and the consideration for which they have been allotted.
+(2)
+"Where such a contract as above-mentioned is not reduced to writing, the company shall, within one month after the allotment, file with the registrar the prescribed particulars of the contract, stamped with the same stamp-duty as would have been payable if the contract had been reduced to writing, and these particulars shall be deemed to be an instrument within the meaning of the Indian Stamp Act, 1899, and the registrar may, as a condition of filing the particulars, require that the duty payable thereon be adjudicated under section 31 of that Act.
+(3)
+If default is made in complying with the requirements of this section, every officer of the company who is knowingly a party to the default shall be liable to a fine not exceeding five hundred rupees for every day during which the default continues:
+Provided that, in case of default in filing with ih.3 registrar within one month after the allotment any document required to be filed by this section, the company, or any person liable for the default, may apply to the Court for relief, and the Court, if satisfied that the omission to file the document was accidental or due to inadvertence or that on other grounds it is just and equitable to grant relief, may make an order extending the time for the filing of the document for such a period as the Court may think proper.
+Commissions and Discounts.
+105. Power to pay certain commissions and prohibition of payment of all other commissions discounts, etc:-
+(1)
+It shall be lawful for a commission to any person in consideration of his subscribing greening to subscribe, whether absolutely or condition, for any shares in the company, or v procuring or agreeing to procure subscriptions, whether absolute or conditional, for any shares in the company, if the payment of the commission is authorised by the articles, and the commission paid or agreed to be paid-does not exceed the amount or rate so authorised, and if the amount or rate per cent, of the commission paid or agreed to be paid is,—
+(a)
+in the case of shares offered to the public for subscription, disclosed in the prospectus ; or
+(b)
+in the case or shares not offered to the public for subscription, disclosed in the statement in lieu of prospectus, or in al statement in the prescribed form signed; in like manner as a statement in lieu of prospectus and filed with the registrar" and, where a circular or notice, not being a prospectus inviting subscription for the' shares is issued, also disclosed in that" circular or notice.
+(2)
+Save as aforesaid, no company shall apply any of its shares or capital money either directly or indirectly in payment of any commission, discount or allowance, to any person in consideration of his subscribing or agreeing to subscribe, whether absolutely or conditionally, for any shares of the company, or procuring, or agreeing to procure subscriptions, whether absolute or conditional, for any shares in the company, whether the shares or money be so applied by being added to the purchase-money of any property acquired by the company or to the contract price of any work to be executed for the company, or the money be paid of the nominal purchase-money or contract price, otherwise.
+(3)
+Nothing in this section shall affect the power of any company to pay such brokerage as it has heretofore been lawful for a company to pay, and a vendor to, promoter of, or other person who receives payment in money or shares from, a company shall have,; and shall be deemed always to have had, power to apply any part of the money or shares so received in payment of any commission, the payment of which, if made directly by the company, would have been legal under this section.
+106. Statement in balance sheet as to commissions and discounts:-
+Where a company has paid any sums by way of commission in respect or any shares or debentures, or allowed any sums by way of discount in respect of any debentures, the total amount so paid or allowed, or so much thereof as has not been written off, shall be stated in every balance-sheet of the company pany until the whole amount thereof has been written off.
+Payment of Interest out of Capital.
+107. Power of company to pay interest out of capital in certain cases:-
+Where any shares of a company are issued for the purpose of raising money to defray the expenses of the construction of any works or buildings out of or the provision of any plant which cannot be made profitable for a lengthened period, the company may pay interest on so much of that share capital as is for the time being paid up for the period and subject to the conditions and restrictions in this section mentioned, and may charge the same to capital as part of the cost of construction of the work or building, or the provision of plant:
+Provided that—
+(1)
+no such payment shall be made unless the same is authorised by the articles or by special resolution;
+(2)
+no such payment, whether authorised by the articles or by special resolution, shall be made without the previous sanction of the Local Government, which sanction shall be conclusive evidence, for the purposes of this section, that the shares of the company, in respect of which such sanction is given, have been issued for a purpose specified in this section;
+(3)
+before sanctioning any such payment, the Local Government may, at the expense of the company, appoint a person to inquire and report to such Local Government as to the circumstances of the case, and may, before making the appointment, require the company to give security for the payment of the costs of the inquiry;
+(4)
+the payment shall be made only for such period as may be determined by the Local Government; and such period shall in no case extend beyond the close of the half-year next after the half-year during which the works or buildings have been actually completed or the plant provided;
+(5)
+the rate of interest shall in no case exceed' four per cent, per annum or such lower rate as the Governor General in Council may, by notification in the Gazette of India, prescribe;
+(6)
+the payment of the interest shall not operate as a reduction of the amount paid up on the shares in respect of which it is paid;
+(7)
+the accounts of the company shall show the share capital on which, and the rate at which, interest has been paid out of capital during the period to which the accounts relate;
+(8)
+nothing in this section shall affect any company to which the Indian Railway Companies Act, 1895,or the Indian Tramways Act, 1902, applies.
+Certificates of Shares, etc.
+108. Limitation of time for issue of certificates:-
+(1)
+Every company shall, within three months after the allotment of any of its shares, debentures or debenture stock, and within three months after the registration of the transfer of any such shares, debentures or debenture stock, complete and have ready for delivery the certificates of all shares, the debentures, and the certificates of all debenture ; stock allotted or transferred, unless the conditions of issue of the shares, debentures or debenture stock otherwise provide.
+(2)
+If default is made in complying with, the requirements of this section, the company, officer of the company who is knowingly a party to the default, shall be liable to a fine not exceeding fifty rupees for every day during which the default continues.
+Information as to Mortgages, Charges, etc.
+109. Certain mortgages and charges to b void if not registered:-
+Every mortgage or charge created after the commencement of this Act by a company and being cither—
+(a)
+a mortgage or charge for the purpose of securing any issue of debentures; or
+(b)
+a mortgage or charge on uncalled share capital of the company; or
+(c)
+a mortgage or charge on any immoveable property wherever situate, or any interest therein; or
+(d)
+a mortgage or charge on any book debts of the company; or
+(e)
+a floating charge on the undertaking or property of the company; shall, so far as any security on the company's property or undertaking is thereby conferred, be void against the liquidator and any creditor of the company, unless the prescribed particulars of the mortgage or charge together with the instrument (if any) by which the mortgage or charge is created or evidenced, or a copy thereof verified in the prescribed manner, are filed with the registrar for registration in manner required by this Act within twenty-one days after the date of its creation, but without prejudice to any contract or obligation for repayment of the money thereby secured, and when a mortgage or charge becomes void under this section, the money secured thereby shall immediately become payable :
+Provided that,—
+(i)
+in the case of a mortgage or charge created out of British India, comprising solely property situate outside British In twenty-one days after the date on which" instrument or copy could, in due course post, and if despatched with due diligence have been received in British India be substituted for twenty-one days the date of the creation of the mortgage or charge, as the time within which particulars and instrument or copy are, be filed with the registrar; and
+(ii)
+where the mortgage or charge is created British India but comprises property 01 side British India, the instrument creating or purporting to create the mortgage or charge, or a copy thereof verified in the prescribed manner, may be filed for registration, notwithstanding that further proceedings may be necessary to make the mortgage or charge valid or effectual according to the law of the country in which the property is situate; and
+(iii)
+where a negotiable instrument has been given to secure the payment of any boo" debts of a company, the deposit of the instrument for the purpose of securing; an advance to the company shall not, for the purposes of this section, be treated as a mortgage or charge on those book debts; and
+(iv)
+the holding of debentures entitling the holder to a charge on immoveable property shall not be deemed to be an interest in immoveable property.
+110. Particulars in case of series of debentures entitling holders pari passu:-
+"Where a series of debentures containing, or giving by reference to any other instrument, any charge to the benefit of which the debenture-holder of that series are entitled pari passu is created by a company, it shall be sufficient for the purposes of section 109 if there are filed with the registrar within twenty-one days after the execution of the deed containing the charge or, if there is no such deed, after the execution of any debentures of the series, the following particulars:—
+(a)
+the total amount secured by the whole series; and
+(b)
+the dates of the resolutions authorising the issue of the series and the date of the covering deed (if any) by which the security is created or defined; and
+(c)
+a general description of the property charged; and
+(d)
+the names of the trustees (if any) for the debenture-holders; together with the deed or a copy thereof verified in the prescribed manner containing the charge, or if there is no such deed, one of the debentures of the series, and the registrar shall, on payment of the prescribed fee, enter those particulars in the register :
+Provided that, where more than one issue is made of debentures in the series, there shall be filed with the registrar for entry in the register particulars of the date and amount of each issue, but an omission to do this shall not affect the validity of the debentures issued.
+111. Particulars in case of commission, etc., on debenture:-
+Where any commission, allowance or discount has been paid or made either directly or indirectly by the company to any person in consideration of his subscribing or agreeing to subscribe, whether absolutely or conditionally, for any debentures of the company, or procuring or agreeing to procure subscriptions, whether absolute or conditional, for any such debentures, the particulars required to be filed for registration under sections 109 and 110 shall include particulars as to the amount or rate per cent of the commission, discount or allowance so paid or made,
+112. Register of mortgages and charges:-
+(1)
+The registrar shall keep, with respect to each company, a register in the prescribed form of all the mortgages and charges created by the company after the commencement of this Act and requiring registration under section 109, and shall, on payment of the prescribed fee, enter in the register, with respect to every such mortgage or charge, the date of creation, the amount secured by it, short particulars of the property mortgaged or charged, and the names of the mortgagees or persons entitled to the charge.
+(2)
+After making the entry required by sub-section (1), the registrar shall return the instrument (if any) or the verified copy thereof, as the case may be, filed in accordance with the provisions of sections 109 or section 110, to the person filing the same
+(3)
+The register kept in pursuance of this section shall be open to inspection by any person on payment of the prescribed fee, not exceeding one rupee for each inspection.
+113. Index to register of mortgages and charges:-
+The registrar shall keep a chronological index, prescribed form and with the prescribed particulars, of the mortgages or charges registered with him under this Act.
+114. Certificate of registration:-
+The registrar shall give a certificate under his hand of registration of any mortgage or charge registered in pursuance of section 109, stating the amount thereby secured, and the certificate shall be conclusive evidence that the requirements of sections 109 to 112 as to registration have been complied with.
+115. Endorsement of certificate of registration on debenture or certificate of debenture stock:-
+The company shall cause a copy of certificate of registration, given under section 114, to be endorsed on every debenture or certificate of debenture stock which is issued by the company, and the payment or which is secured by the mortgage or charge so registered :
+Provided that nothing in this section shall be construed as requiring a company to cause a certificate of registration of any mortgage or charge so given to be endorsed on any debenture or certificate of debenture stock which has been issued by the company before the mortgage or charge was created.
+116. Duty of company and right of interested party as regards registration:-
+(1)
+It shall be the duty of the company to file with the registrar, for registration, the prescribed particulars of every mortgage or charge created by company and of the issues of debentures of a series requiring registration under section 109, but registration of any such mortgage or charge may be effected on the application of any person interested therein.
+(2)
+"Where the registration is effected on the application of some person other than the company, that person shall be entitled to recover from the company the amount of any fees properly paid by Mm to the registrar on the registration.
+117. Copy of instrument creating mortgage or charge to be kept at registered office:-
+Every company shall cause a copy of every instrument creating any mortgage or charge requiring registration under section 109, to be kept at the registered office of the company : Provided that, in the case of a series of uniform debentures, a copy of one such debenture shall be sufficient.
+118. Registration of appointment of receiver:-
+(1)
+If any person obtains an order for the appointment of a receiver of the property of a company, or appoints such a receiver under any powers contained in any instrument, he shall, within fifteen days from the date of the order or of the appointment under the powers contained in the instrument, file notice of the fact with the registrar, and the registrar shall, on payment of the prescribed fee enter the fact in the register of mortgages an charges.
+(2)
+If any person makes default in complying with the requirements of this section, he shall be liable to a fine not exceeding fifty rupees for every' day during which the default continues.
+119. Filing of accounts or receivers:-
+(1)
+Every receiver of the .property of company who has been appointed under the powers contained in any instrument, and who has taken possession, shall once in every half year while he remains in possession, and also on ceasing to act as receiver, file with the registrar an abstract, in the prescribed form, of his receipts and payments during the period to which the abstract relates, and shall also, on ceasing to act as receiver, file with the registrar notice to that effect, and registrar shall enter the notice in the register of mortgages and charges.
+(2)
+Every receiver who makes default in complying with the provisions of this section shall be liable to a fine not exceeding five hundred rupees.
+120. Rectification of register of mortgages:-
+The Court, on being satisfied that the omission to register a mortgage or charge within the time required by section 109, or that the omission or misstatement of any particular with respect to any such mortgage or charge, was accidental, or due to inadvertence or to some other sufficient cause, or is not of a nature to prejudice the position of creditors or share-holders of the company, or that on other grounds it is just and equitable to grant relief, may, on the application of the company or any person interested, and on such terms and conditions as seem to the Court just and expedient, order that the time for registration be extended, or, as the case may be, that the omission or misstatement be rectified, and may make such order as to the costs of the application as it thinks fit.
+121. Entry of satisfaction:-
+The registrar may, on evidence being given to his satisfaction that the debt for which any registered mortgage or charge was given has been paid or satisfied, order that a memorandum of satisfaction be entered on the register, and shall, if required, furnish the company with a copy thereof.
+122. Penalties:-
+(1)
+If any company makes default in filing with the registrar for registration the particulars—
+(a)
+of any mortgage or charge created by the company; or
+(b)
+of the issues of debentures of a series, requiring registration with the registrar under the foregoing provisions of this Act, then, unless the registration has been effected on the application of some other person, the company, and every officer of the company or other person who is knowingly a party to the default, shall on conviction be liable to a fine not exceeding five hundred rupees for every day during which the default continues.
+(2)
+Subject as aforesaid, if any company makes default in complying with any of the requirements of this Act as to the registration, with the registrar of any mortgage or charge created by the company, the company, and every officer of the company who knowingly and wilfully authorises or permits the default shall, without prejudice to any other liability, be liable on conviction to a fine not exceeding one thousand rupees.
+(3)
+If any person knowingly and wilfully authorises or permits the delivery of any debenture or certificate of debenture stock requiring registration with the registrar under the foregoing provisions of this Act without a copy of the certificate of registration being endorsed upon it, he shall, without prejudice to any other liability, be liable on conviction to a fine not exceeding one thousand rupees.
+123. Company's register of mortgages.:-
+(1)
+Every limited company shall keep register of mortgages and enter therein all mortgages and charges specifically affecting property of company, giving in each case a short description of the property mortgaged or charged, the amount Mike mortgage or charge and (except in the case of securities to bearer) the names of the mortgagees or persons entitled thereto.
+(2)
+If any director, manager or other officer of the company knowingly and wilfully authorises or permits the omission of any entry required to be made in pursuance of this section, he shall be liable to a fine not exceeding five hundred rupees.
+124. Right to inspect copies of instruments creating mortgages and charges, and company's register of mortgages:-
+(1)
+The copies kept at the registered office of the company in pursuance of section 117 of instruments creating any mortgage or charge registration under this Act with the registrar, and the register of mortgages kept in pursuance of section 123, shall be open at ail reasonable times to the inspection of any creditor or member of the company without fee, and the register of mortgages shall also be open to the inspection of any other person on payment of such fee, not exceeding one rupee for each inspection, as the company may prescribe.
+(2)
+If inspection of the said copies or register is refused, the company shall be liable to a fine not exceeding fifty rupees and a further fine not exceeding twenty rupees for every day during which the refusal continues, and every officer of the company who knowingly authorises or permits the refusal shall incur the like penalty, and in addition to the above penalty, the Court may by order compel an immediate inspection of the copies or register.
+125. Right to inspect the register of debenture holders and to have copies of trust-deed:-
+(1)
+Every register of holders of debentures of a company shall, except when closed in accordance period or periods (not exceeding in the whole thirty days in any year) as may be specified in the articles," be open to the inspection of the registered holder of any such debentures, and of any holder of shares in the company, but subject to such reasonable restrictions as the company may in general meeting impose, so that at least two hours in each day are appointed for inspection, and every such holder may require a copy of the register or any part thereof on payment of six annas for every one hundred words or fractional Part thereof required to be copied.
+(2)
+A copy of any trust-deed for securing any issue of debentures shall be forwarded to every holder of any such debentures at his request on payment in the case of a printed trust-deed of the sum of one rupee or such less sum as may be prescribed by the company, or, where the trust-deed has not been printed, on payment of six annas for every one hundred words or fractional part thereof required to be copied.
+(3)
+If inspection is refused, or a copy is refused or not forwarded, the company shall be liable to a fine not exceeding fifty rupees and to a further fine not exceeding twenty rupees for every day during which the refusal continues, and every officer of the company who knowingly authorises or permits the refusal shall incur the like penalty, and the Court may by order compel an immediate inspection of the register.
+Debentures and floating Charges.
+126. Perpetual debentures:-
+A condition contained in any debentures or in any deed for securing any debentures, whether issued or executed before or after the passing of this Act, shall not be invalid by reason only that thereby the debentures are made irredeemable or redeemable only on the happening of a contingency, however remote, or on the expiration of a period, however long.
+127. Power to re-issue redeemed debentures in certain cases:-
+either before or after the commencement of this Act a company has redeemed any debentures previously issued, the company, unless the articles or the conditions of issue expressly otherwise provide, or unless the debentures have been redeemed in pursuance of any obligation on the company so to do (not being an obligation enforceable only by the person to whom the redeemed debentures were issued or his assigns), shall have power, and shall be deemed always to have had power, to keep the debentures alive for the purposes of re-issue, and where a company has purported to exercise such a power, the company shall have power, and shall be deemed always to have had power, to re-issue the debentures, either by re-issuing the same debentures or by issuing other debentures in their place, and upon such reissue, the person entitled to the debentures shall have, and shall be deemed always to have had, the same rights and priorities as if the debentures had not previously been issued.
+(2)
+Where with the object of keeping debentures alive for the purpose of re-issue, they have, either before or after the commencement of this Act, been transferred to a nominee of the company, a transfer from that nominee shall be deemed to be a re-issue for the purposes of this section.
+(3)
+Where a company has, either before or after the commencement of this Act, deposited any of its debentures to secure advances from time to time on current account or otherwise, the debentures shall not be deemed to have been redeemed by reason only of the account of the company having ceased to be in debit whilst the debentures remained so deposited.
+(4)
+The re-issue of a debenture or the issue of another debenture in its place under the power by this section given to, or deemed to have been possessed by, a company, whether the re-issue or issue was made before or after the commencement of this Act, shall be treated as the issue of a new debenture for the purposes of stamp-duty, but it shall not be so treated for the purposes of any provision limiting the amount or number of debentures to be .issued:
+Provided that any person lending money on the security of a debenture re-issued under this section, which appears to be duly stamped, may give the debenture in evidence in any proceedings for enforcing his security without payment of the stamp-duty or any penalty in respect thereof, unless he had notice or, but for his negligence, might have discovered, that, the debenture was not duly stamped, but in any such case the company shall be liable to pay the proper stamp-duty and penalty.
+(5)
+Nothing in this section shall prejudice—
+(a)
+the operation of any decree or order of a Court of competent jurisdiction pronounced or invade before the twenty-fifth day of February, 1910, as between the ( parties to the proceedings in which the decree or order was made, and any appeal from any such decree or order shall be decided as if this Act had not been passed; or
+(b)
+any power to issue debentures in the place of any debentures paid off or otherwise satisfied or extinguished, reserved to a company by its debentures or the securities for the same.
+128. Specific performance of contract to subscribe for debentures:-
+A contract with a company to take up and pay for any debentures of the company may be enforced by a decree for specific performance.
+129. Payments 0f certain debts out of assets subject to floating charge in priority to claims under the charge:-
+behalf of the holders of any debentures of a company secured by a floating charge, or possession is taken by or on behalf of those debenture-holders of any" property comprised in or subject to the charge, then, if the company is not at the time in course of being wound up, the debts which in every winding up are under the provisions of Part V relating to preferential payments to be paid in priority to all other debts, shall be paid forthwith out of any assets coming to the hands of the receiver or other person taking possession as aforesaid in priority to any claim for principal or interest in respect of the debentures.
+(2)
+The periods of time mentioned in the said provisions of Part V shall be reckoned from the date of the appointment of the receiver or of possession being taken as aforesaid, as the case may be.
+(3)
+Any payments made under this section shall be recouped, as far as may be, out of the assets of the company available for payment of general creditors
+Statements, Books and Accounts.
+130. Company to keep proper books of accounts:-
+Every company shall keep proper books of account in which shall be entered full, true and complete accounts of the .affairs and transactions of the company.
+131. Annual balance-sheet:-
+(1)
+Every company shall, once at least in every year and at intervals of not more than fifteen months, cause the accounts of the company to be balanced and a balance-sheet to be prepared.
+(2)
+The balance-sheet shall be audited by the auditor of the company as hereinafter provided, and the auditor's report shall be attached thereto, or there shall be inserted at the foot thereof a reference to the report, and the report shall be read before the company in general meeting and shall be open to inspection by any member of the company.
+(3)
+Every company other than a private coir pany shall send a copy of such balance-sheet so audited to the registered address of every member of the company at least seven days before the meeting at which it is to be laid before the members of the company, and shall deposit a copy at the registered office of the company for the inspection of the members of the company during a period of at least seven days before that meeting.
+(4)
+If a company makes default in complying with the requirements of this section, it shall be liable, to a fine not exceeding one thousand rupees, and every officer of the company who knowingly and wilfully authorises or permits the default shall be liable to the like penalty.
+132. Contents of balance-sheet:-
+(1)
+The balance-sheet shall contain a summary of the property and assets and of the capital and liabilities of the company giving such particulars as will disclose the general nature of those liabilities and assets and how the value of the fixed assets has been arrived at.
+(2)
+The balance-sheet shall be in the form marked "F in the Third Schedule or as near thereto as circumstances admit.
+133. Authentication of balance-sheet:-
+(1)
+Save as provided by sub-section (2) the balance-sheet shall,—
+(i)
+in the case of a banking company, be signed by the manager (if any) and, where there are more than three directors of the company, by at least three of those directors and, where there are not more than three directors, by all the directors;
+(ii)
+in the case of any other company, be signed by two directors or, when there are less than two directors, by the sole director and by the manager (if any) of the company.
+(2)
+When the total number of directors of the company for the time being in British India is less than the number of directors whose signatures are required by sub-section (1), then the balance-sheet shall be signed by all the directors for the time being in British India, or, if there is only one director for the time being in British India, by such director, but in such a case there shall be subjoined to the balance-sheet a statement signed by such directors or director explaining the reason for noncompliance with the provisions of subsection (1).
+(3)
+If any copy of a balance-sheet which has not been signed as required by this section is issued, circulated or published, the company and every officer of the company who is knowingly a party to the default shall be punishable with fine which may " extend to five hundred rupees.
+134. Copy of balance-sheet and auditor's report to be forwarded to the registrar:-
+(1)
+After the balance-before the company at the general meeting, a copy to thereof signed by the manager or secretary of the company shall be filed with the registrar at the same time as the copy of the annual list of members and summary prepared in accordance with the requirements of section 32.
+(2)
+If the general meeting before which a balance-sheet is laid does not adopt the balance-sheet, a statement of that fact and of the reasons therefor shall be annexed to the balance-sheet and to the copy thereof required to ho filed with the registrar.
+(3)
+This section shall not apply to a private company.
+(4)
+If a, company makes default in complying with the requirements of this section, the company and every officer of the company who knowingly and wilfully authorises or permits the default shall be liable to the like penalty as is provided by section 32 for a default in complying with the provisions of that section.
+135. Right of member of company to copies of the balance-sheet and the auditor’s report:-
+Save as otherwise provided member of a company shall be entitled to be furnished balance-sheet and the auditor's report at a charge not exceeding six annas for every hundred words or fractional part thereof.
+Statement to be published by Banking and certain other Companies.
+136. Certain companies to publish statement in schedule:-
+(1)
+Every company being a limited banking company or an insurance company or a deposit, provident or benefit society shall, before it commences business, and also on the first Monday in "February and the first Monday in August in every year during which it carries on business, make a statement in the form marked G in the Third Schedule, or as near thereto as circumstances will admit.
+(2)
+A copy of the statement shall be displayed and, until the display of the next following statement, kept displayed in a conspicuous place in the registered office of the company, and in every branch office or place where the business of the company is carried on.
+(3)
+Every member and every creditor of the company shall be entitled to a copy of the statement on payment of a sum not exceeding eight annas.
+(4)
+If a company makes default in complying with the requirements of this section, it shall be liable to a fine not exceeding fifty rupees for every day during which the default continues; and every officer of the company who knowingly and wilfully authorises or permits the default shall be liable to the like penalty.
+(5)
+This section shall not apply to a life assurance company or provident insurance society to which the provisions of the Indian Life Assurance Companies Act, 1912, or of the Provident Insurance Societies Act, 1912, as the case may be, as to the annual statements to be made by such company or society, apply with or without modifications, if the company or society complies with those provisons Investigation by the Registrar,
+137. Power of registrar to call for information or explanation:-
+(1)
+Where the registrar, on perusal of any document which a company is required to submit to him under the provisions of this Act, is of opinion that any information or explanation is necessary in order that such document may afford full particulars of the matter to which it, purports to relate, he may, by a written order, call on the company submitting the document to furnish in writing such information or explanation within such time as he may specify in his order.
+(2)
+On the receipt of an order under sub-section (1), it shall be the duty of all persons who are or have been officers of the company to furnish such information or explanation to the best of their power.
+(3)
+If any such person refuses or neglects to furnish any such information or explanation, he shall be liable to a fine not exceeding fifty rupees in respect of each offence.
+(4)
+On receipt of such information or explanation the registrar may annex the same to the original document submitted to him; and any additional document so annexed by the registrar shall be subject to the like' provisions as to inspection and the taking of copies as the original document is subject.
+(5)
+If such information or explanation is not furnished within the specified time, or if after perusal of such information or explanation the registrar is of opinion that the document in question discloses an unsatisfactory state of affairs, or that it does not disclose a full and fair statement of the matters to which it purports to relate, the registrar shall report in writing the circumstances of the case to the Local Government.
